@@ -401,9 +401,9 @@ shall exclude Saturdays and Sundays. The term "working days" shall also exclude
 the last five days of December.
 
 Positive consensus is confirmed once there is a two-thirds majority and at least
-eight positive votes.
+four (4) positive votes.
 
-When there is a two-thirds majority of positive votes, but fewer than four
+When there is a two-thirds majority of positive votes, but fewer than four (4)
 positive votes because of the high number of abstentions, a second round of
 voting is held.
 
