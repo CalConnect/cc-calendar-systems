@@ -1,10 +1,11 @@
 
 [source=ISO34000]
-== Terms and Definitions
+== Terms and definitions
 
 === code
 
-data representation in different forms according to a pre-established set of rules
+data representation in different forms according to a pre-established set of
+rules
 
 [.source]
 <<ISO639-2>>
@@ -28,3 +29,33 @@ combination of characters used to represent the name of a script
 
 [.source]
 <<ISO15924,clause="3.8">>
+
+
+=== registration item
+
+data element in a register
+
+=== registration code
+
+code that identifies a {{registration item}} within a register
+
+=== ISO 34300 registration authority
+alt:[ISO 34300/RA]
+
+registration authority that manages the {{ISO 34300 register}}
+
+=== ISO 34300 register
+
+register containing {{ISO 34300 registration item,ISO 34300 registration items}}
+
+=== ISO 34300 advisory group
+alt:[ISO 34300/AG]
+
+group that provides advice to the {{ISO 34300 registration authority}} on the
+contents of the {{ISO 34300 register}}
+
+=== ISO 34300 registration item
+
+registration item identified by a registration code unique to the
+{{ISO 34300 register}}
+

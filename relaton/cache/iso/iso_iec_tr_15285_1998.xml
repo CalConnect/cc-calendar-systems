@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <fetched>2021-09-15</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">An operational model for characters and glyphs</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Information technology - An operational model for characters and glyphs</title>
+  <uri type="src">https://www.iso.org/standard/27163.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:27163:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/71/27163.detail.rss</uri>
+  <docidentifier type="ISO">ISO/IEC TR 15285:1998</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-iec:tr:15285:stage-90.93:ed-1:en</docidentifier>
+  <docnumber>15285</docnumber>
+  <date type="published">
+    <on>1998-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+      <uri>www.iec.ch</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this Technical Report is to provide a general framework for discussing characters and glyphs. The framework is applicable to a variety of coded character sets and glyph-identification schemes. For illustration, this Technical Report uses examples from characters coded in ISO/IEC 10646 and glyphs registered according to ISO/IEC 10036.
+This Technical Report
+-differentiates between coded characters and registered glyphs
+-identifies the domain of use of coded characters and glyph identifiers
+-provides a conceptual framework for the formatting and presentation of coded character data using glyph identifiers and glyph representations
+This Technical Report describes idealized principles that were not completely followed in coding characters for ISO/IEC 10646 and in registering glyphs according to ISO/IEC 10036. The fact that ISO/IEC 10646, ISO/IEC 10036, and other standards do not completely follow the principles in the model does not invalidate the model and does not diminish the utility of having the model.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>ISO/IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <place>Geneva</place>
+  <ext>
+    <doctype>technical-report</doctype>
+    <editorialgroup>
+      <technical-committee number="1" type="IEC" identifier="ISO/IEC JTC 1/SC 2">Coded character sets</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>35.240.30</code>
+      <text>IT applications in information, documentation and publishing</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number part="">ISO/IEC TR 15285</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

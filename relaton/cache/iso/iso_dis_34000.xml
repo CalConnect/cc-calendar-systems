@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <fetched>2021-09-15</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Date and time</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Concepts and vocabulary</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Date and time - Concepts and vocabulary</title>
+  <uri type="src">https://www.iso.org/standard/77019.html</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/07/70/77019.detail.rss</uri>
+  <docidentifier type="ISO">ISO/DIS 34000</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-dis:34000:stage-40.00:ed-1:en</docidentifier>
+  <docnumber>34000</docnumber>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>40</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>unknown</from>
+    <owner>
+      <organization>
+        <name>ISO/DIS</name>
+      </organization>
+    </owner>
+  </copyright>
+  <place>Geneva</place>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="154" type="TC" identifier="ISO/TC 154">Processes, data elements and documents in commerce, industry and administration</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>01.040.01</code>
+      <text>Generalities. Terminology. Standardization. Documentation (Vocabularies)</text>
+    </ics>
+    <ics>
+      <code>01.140.30</code>
+      <text>Documents in administration, commerce and industry</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number part="">ISO/DIS 34000</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

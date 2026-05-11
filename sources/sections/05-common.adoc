@@ -17,6 +17,7 @@ These are the core data types used within this document.
 The following data models are used by other data models specified in
 this document.
 
+.UML models for common data types
 [lutaml_diagram]
 ....
 include::../views/DataTypes.lutaml[]

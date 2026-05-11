@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="1.8.6">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Date and time&#8201;&#8212;&#8201;Codes for calendar systems</title>
+<title language="en" format="text/plain" type="title-intro">Date and time</title>
+<title language="en" format="text/plain" type="title-main">Codes for calendar systems</title>
+<title language="fr" format="text/plain" type="main">Date et heure&#8201;&#8212;&#8201;Codes pour les syst&#232;mes de calendrier</title>
+<title language="fr" format="text/plain" type="title-intro">Date et heure</title>
+<title language="fr" format="text/plain" type="title-main">Codes pour les syst&#232;mes de calendrier</title>
+<docidentifier type="ISO">ISO/WD 34300</docidentifier><docidentifier type="iso-with-lang">ISO/WD 34300(E)</docidentifier><docidentifier type="iso-reference">ISO/WD 34300:2020(E)</docidentifier>
+
+
+<docnumber>34300</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<edition>1</edition>
+
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage abbreviation="WD">20</stage>
+<substage>00</substage>
+</status>
+<copyright>
+<from>2020</from>
+<owner>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>international-standard</doctype>
+<editorialgroup>
+<technical-committee number="154" type="TC">Processes, data elements and documents in commerce, industry and administration</technical-committee>
+<subcommittee/>
+<workgroup number="5" type="WG">Date and time</workgroup>
+<secretariat>SAC</secretariat>
+</editorialgroup>
+<structuredidentifier>
+<project-number>ISO 34300</project-number>
+</structuredidentifier>
+<stagename>Working draft</stagename>
+</ext>
+</bibdata>
+<termdocsource bibitemid="ISO34000"/><boilerplate>
+  <copyright-statement>
+    <clause>
+      <title>COPYRIGHT PROTECTED DOCUMENT</title>
+    <p id="boilerplate-year">
+    &#169; ISO 2020
+  </p>
+
+  <p id="boilerplate-message">
+    All rights
+reserved. Unless otherwise specified, no part of this publication may be
+reproduced or utilized otherwise in any form or by any means, electronic or
+mechanical, including photocopying, or posting on the internet or an intranet,
+without prior written permission. Permission can be requested from either ISO
+at the address below or ISO&#8217;s member body in the country of the requester.
+  </p>
+
+  <p id="boilerplate-address" align="left">
+    ISO copyright office<br/>
+    Ch. de Blandonnet 8 &#8226; CP 401<br/>
+    CH-1214 Vernier, Geneva, Switzerland<br/>
+    Tel.&#160;&#160;+ 41 22 749 01 11<br/>
+    Fax&#160;&#160;+ 41 22 749 09 47<br/>
+    Email: copyright@iso.org<br/>
+    Website: www.iso.org
+  </p>
+    <p id="boilerplate-place">
+    Published in Switzerland
+  </p>
+</clause>
+  </copyright-statement>
+
+  
+  <license-statement>
+    <clause>
+<title>Warning for WDs and CDs</title>
+
+<p id="_81a2927e-cdd0-471e-b0d7-034ba1c3bff3">This
+document is not an ISO International Standard. It is distributed for review and
+comment. It is subject to change without notice and may not be referred to as
+an International Standard.</p>
+
+<p id="_73803ae6-f7f9-43f5-9aa4-916e5467f025">Recipients
+of this draft are invited to submit, with their comments, notification of any
+relevant patent rights of which they are aware and to provide supporting
+documentation.</p>
+</clause>
+  </license-statement>
+
+</boilerplate>
+<preface><foreword id="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a" obligation="informative"><title>Foreword</title><p id="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd">ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+<p id="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+<p id="_24c8e604-6a01-4fcc-ad2b-a5295728a896">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+<p id="_278531c8-a10c-4adb-a0bd-e49fc055e4aa">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+<p id="_ea4a3f10-1ded-446e-b34b-f5062cd129b1">For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#8217;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p>
+<p id="_177a5110-c5e0-4a54-9a7c-00afa9c2cd1b">This document was prepared by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>.</p>
+<p id="_38b5d03d-e741-4eef-bcbe-953697f21d92">This document is amongst a series of International Standards dealing with the conversion of systems of writing produced by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>, WG 5 <em>Date and time</em>.</p>
+<p id="_43d87550-56da-4f89-959a-dff9e22ebdaa">This is the first edition of this document.</p></foreword><introduction id="introduction" obligation="informative"><title>Introduction</title><p id="_3c9179e9-0b8c-4bb9-8bad-f31c15932ff3">Calendar systems are essential to the tracking of dates and events.</p>
+<p id="_0bf2c554-ca32-426a-83c9-bcd3f5a3cf48">Date and time tracking applications, such as in computing, archiving,
+communication and bibliography, all depend on the accurate identification
+of calendar systems for their performance. Moreover, accuracy of
+date and time tracking is often paramount to important activities
+from civilian to military use.</p>
+<p id="_aeced896-d137-49b0-9ff1-c0954ebabb1c">This document describes methods to unambiguously define calendar systems,
+their properties, and provides a mechanism to assign unique identifiers
+to these data elements.</p>
+<p id="_ac0f91b7-be0f-4051-8fd8-970961e1e947">This document also sets out the necessary procedures to maintain
+an international registry of calendar systems.
+== Scope</p>
+<p id="_1ecf4c31-c0ef-4aa4-8f4d-f2a923c7ad53">This document provides a list of codes to represent calendar systems, metadata
+to support the usage of those codes, and the corresponding maintenance
+procedures.</p>
+<p id="_8a594791-f657-4b71-bc86-77e823b18d16">The codes were devised for usage of any application requiring
+the expression of calendar systems in coded form, including
+for data interchange.</p></introduction></preface><sections>
+
+
+<terms id="_terms_and_definitions" obligation="normative"><title>Terms and definitions</title><p id="_c1a15237-4d27-4493-a703-658ff0bbf979">For the purposes of this document, the terms and definitions 
+  given in <eref bibitemid="ISO34000"/> and the following apply.</p>
+<p id="_55bc26a8-2177-4727-b014-bc6145d47886">ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+<ul id="_5fc58e12-6ed5-433b-b1e9-3a6908b6eb21">
+<li> <p id="_9c01ae2e-561e-4903-aa15-a527d2f027d9">ISO Online browsing platform: available at
+  <link target="http://www.iso.org/obp"/></p> </li>
+<li> <p id="_f147689d-64b3-4286-acc9-cdb7097a4571">IEC Electropedia: available at
+<link target="http://www.electropedia.org"/>
+</p> </li> </ul>
+<term id="term-code"><preferred>code</preferred><definition><p id="_313c9167-db64-4755-bd9c-09ff54f21abd">data representation in different forms according to a pre-established set of rules</p></definition>
+<termsource status="identical">
+<origin bibitemid="ISO639-2" type="inline" citeas="ISO 639-2"/>
+</termsource></term>
+<term id="term-calendar-code">
+<preferred>calendar code</preferred>
+<definition><p id="_b814a0f6-19bc-4f01-9635-21a4b5d89035"><concept><refterm>code</refterm><renderterm>code</renderterm><xref target="term-code"/></concept> used to represent a calendar system</p></definition>
+</term>
+<term id="term-language-code"><preferred>language code</preferred><definition><p id="_fdce18a7-fc0c-4b61-817d-d8604e8776eb">combination of characters used to represent the name of a language or languages</p></definition>
+<termsource status="identical">
+<origin bibitemid="ISO5127" type="inline" citeas="ISO 5127"><localityStack><locality type="clause"><referenceFrom>3.2.5.14</referenceFrom></locality></localityStack></origin>
+</termsource></term>
+<term id="term-script-code"><preferred>script code</preferred><definition><p id="_2fcc5532-1abf-4e42-8479-66d5bd0a658c">combination of characters used to represent the name of a script</p></definition>
+<termsource status="identical">
+<origin bibitemid="ISO15924" type="inline" citeas="ISO 15924:2004"><localityStack><locality type="clause"><referenceFrom>3.8</referenceFrom></locality></localityStack></origin>
+</termsource></term></terms>
+<clause id="models-overview" inline-header="false" obligation="normative"><title>Calendar system models overview</title><p id="_78447ae5-e660-47e3-8e9b-ef9ec607889f">The data models are arranged as shown in the following
+structure.</p>
+<sourcecode lang="lutaml" id="_6b3f038b-f789-4eb4-a07b-686853d73025">diagram TopDown {
+  title "Calendar system model overview in UML"
+
+  include ../models/CalendarSystem.lutaml
+  include ../models/CalendarEra.lutaml
+}
+
+//  relations:
+//    - source: CalendarEra
+//      target: CalendarSystem
+//      direction: 'up'
+//  fidelity:
+//    hideMembers: true
+//    hideOtherClasses: true</sourcecode>
+</clause>
+<clause id="common-data" inline-header="false" obligation="normative"><title>Data types</title><clause id="_core_data_types" inline-header="false" obligation="normative"><title>Core data types</title><p id="_0dae586c-737d-4dd5-bea6-f7b5c1e8e3c5">These are the core data types used within this document.</p>
+<ul id="_288de36e-5046-4942-ae7b-dfe154b73e45">
+<li>
+<p id="_9ce1230d-b3e3-4e6c-8dd0-8afeff83751e">
+<tt>CharacterString</tt>
+</p>
+</li>
+<li>
+<p id="_5f930632-3fd8-4e9c-a38c-f5f5af455345"><tt>DateTime</tt>, <tt>Date</tt>, <tt>Time</tt></p>
+</li>
+<li>
+<p id="_6e8a4a26-34e8-4ad2-b552-015cd034f013"><tt>Number</tt>, <tt>Integer</tt>, <tt>Decimal</tt>, <tt>Real</tt></p>
+</li>
+<li>
+<p id="_855ab420-d468-42dc-9b35-c922d29a16c2">
+<tt>Vector</tt>
+</p>
+</li>
+<li>
+<p id="_3354ac72-eaa9-45ac-9ba3-a04ac1b7dca7">
+<tt>Boolean</tt>
+</p>
+</li>
+</ul></clause>
+<clause id="_common_data_types" inline-header="false" obligation="normative"><title>Common data types</title><p id="_d86f6c64-45b8-445b-8dee-8a00256d881f">The following data models are used by other data models specified in
+this document.</p>
+<sourcecode lang="lutaml" id="_af3041fc-fe64-46c1-8a0d-be0b94d66f17">diagram DataTypes {
+  title "Data types used in this document"
+
+  include ../models/iso639Code.lutaml
+  include ../models/iso639Code.lutaml
+  include ../models/LocalizedTag.lutaml
+  include ../models/LocalizedString.lutaml
+  include ../models/JulianDate.lutaml
+  include ../models/CalendarDate.lutaml
+}</sourcecode>
+</clause></clause>
+<clause id="data-models" inline-header="false" obligation="normative"><title>Data models</title><sourcecode lang="lutaml" id="_9c06317d-376e-4c08-9b0c-4d5c9810fab3">diagram CalendarSystem {
+  title "Calendar system and era models"
+
+  include ../models/CalendarSystem.lutaml
+  include ../models/CalendarEra.lutaml
+}
+
+// imports:
+//   CalendarSystem:
+//   CalendarEra:
+// groups:
+//   # - - AddressProfile
+//   # - - FormTemplate
+//   #   - DisplayTemplate
+// relations:
+//   - source: CalendarEra
+//     target: CalendarSystem
+//     direction: 'up'
+//   # - source: FormTemplate
+//   #   target: DisplayTemplate
+//   #   direction: '[hidden]right'</sourcecode>
+</clause>
+<clause id="codes" inline-header="false" obligation="normative"><title>Codes and identifiers</title><clause id="scsa-requirements" inline-header="false" obligation="normative">
+<title>Requirements</title>
+<clause id="_general" inline-header="false" obligation="normative"><title>General</title><p id="_3109daf1-3977-423b-a8e6-e87fa14a09ac">A calendar system is eligible for assignment of an entry based on its usage of date identification and the need for international interchange.</p>
+<p id="_64793ab0-16bf-4960-ac9a-4fe256e3a008">Usage of a calendar system is determined by at least one of the following conditions, by presentation of evidence:</p>
+<ul id="_e524160f-fbbd-4a80-a6e5-c07d325eea6b">
+<li>
+<p id="_0ef661d1-a805-4fd8-9c2b-136992494268">The system has been approved for official use at some level of government (current, historic, or will be in the near future);</p>
+</li>
+<li>
+<p id="_38426efc-8d06-4852-abc9-d41283a110f0">The system has been used to identify with dates, such as in bibliographic information (current, historic, or will be in the near future).</p>
+</li>
+</ul>
+<p id="_6653effa-70f8-47d4-a1da-81c351169224">Justification should be given to indicate that international interchange is necessary.</p>
+<p id="_bb655f59-7c3f-485b-96d4-0e3f691c4241">A similar set of requirements apply to the registration of calendar eras. A calendar era entry must be associated
+with at least one calendar system entry.</p></clause>
+</clause>
+<clause id="_principles_for_allocation_of_code_elements" inline-header="false" obligation="normative"><title>Principles for allocation of code elements</title><clause id="_relationship_with_names" inline-header="false" obligation="normative"><title>Relationship with names</title><p id="_62fe4587-7ea3-40a6-a51c-9cbb4d038182">Calendar systems have codes in the following format:</p>
+<sourcecode id="_ad86e324-d8bf-4161-a50f-4324e53c1969">[system-code]</sourcecode>
+
+<example id="_ec208db6-c7c7-4ea6-b12e-e1d73f1d6f70">
+<p id="_f34221a3-17a1-49ff-ae7e-942ad14e71bd"><tt>gregorian</tt> or <tt>gre</tt> for the Gregorian calendar, whose specification is
+provided in <eref type="inline" bibitemid="ISO8601-1" citeas="ISO 8601-1"/>.</p>
+</example></clause>
+<clause id="_construction_of_the_alphabetic_code" inline-header="false" obligation="normative"><title>Construction of the alphabetic code</title><p id="_b96ebe4a-4a22-4902-aac6-b9b477e4d957">The following rules are to be adhered to for the assignment of the alphabetic code:</p>
+<ul id="_01066fed-b043-452a-8337-ef391898c52e">
+<li>
+<p id="_03d4ce18-e925-4300-970d-88ac3042a6e7">The alphabetic code uses combinations, in lower case, of between 3 and 20 fixed letters of the 26-character Latin alphabet.</p>
+</li>
+<li>
+<p id="_395b4f2b-9f31-4b34-819e-5bbc5a3d2689">Codes shall encourage descriptive and distinguishable alphabetic names.</p>
+</li>
+</ul>
+<p id="_5515b333-a976-4624-8a0b-6bdfecda2e62">An additional short alias for the alphabetic code composed of 3 fixed letters of the 26-character Latin alphabet is allowed.</p></clause>
+<clause id="_user_assigned_code_elements" inline-header="false" obligation="normative"><title>User assigned code elements</title><p id="_863377ac-89a3-4e42-ace0-0ebdc7fb89ef">If users need code elements to represent calendar systems not included in the calendar code registry, the code prefix of <tt>zz</tt> can be used.</p>
+<p id="_4958345c-ba4f-4a93-94f1-a9778acbfed8">The code length for the calendar system identifier must be 3 letters.</p>
+<p id="_6204dbd5-7fbf-464c-921a-be393f176311">Such calendar system identifiers are in the following format:</p>
+<sourcecode id="_58f212c4-a036-4d6f-b098-554fb48834cd">zz[calendar-system-identifier]</sourcecode>
+
+<note id="_bad018ca-29a2-42fe-8058-b9edcecd0db8">
+<p id="_7080bb7b-6847-4df5-a586-3830db207874">Users are advised that the above series of codes are not universals, those code elements are not compatible between different entities.</p>
+</note></clause></clause>
+<clause id="_list_of_calendar_system_and_their_code_elements" inline-header="false" obligation="normative"><title>List of calendar system and their code elements</title><p id="_c9164e01-5ccd-40ac-9fc5-6a15823b7ad1">The list of items composing the content of the country code is initially
+compiled in a separate dataset outside of this document.
+Additional and new entries will be listed by the ISO 34300/AG.</p>
+<p id="_6ca5a490-22a1-450a-9fff-857029dc3c98">Data attributes provided in the list is defined in <xref target="codes"/>.</p></clause></clause>
+</sections><bibliography><references id="_normative_references" normative="true" obligation="informative"><title>Normative references</title><p id="_e9c3e449-5613-435f-9f82-6df24672fab0">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p> <bibitem id="ISO639-1" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Alpha-2 code</title>  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages&#8201;&#8212;&#8201;Part 1: Alpha-2 code</title>  <uri type="src">https://www.iso.org/standard/22109.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:22109:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/02/21/22109.detail.rss</uri>  <docidentifier type="ISO">ISO 639-1</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:639:-1:stage-90.93:ed-1:en</docidentifier>  <docnumber>639</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2002</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 639:1988</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>      <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Alpha-2 code</title>      <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages&#8201;&#8212;&#8201;Part 1: Alpha-2 code</title>      <uri type="src">https://www.iso.org/standard/22109.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:22109:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/02/21/22109.detail.rss</uri>      <docidentifier type="ISO">ISO 639-1:2002</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:639:-1:stage-90.93:ed-1:en</docidentifier>      <docnumber>639</docnumber>      <date type="published">        <on>2002-07</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">This part of ISO 639 provides a code consisting of language code elements comprising two-letter language identifiers for the representation of names of languages. The language identifiers according to this part of ISO 639 were devised originally for use in terminology, lexicography and linguistics, but may be adopted for any application requiring the expression of language in two-letter coded form, especially in computerized systems. The alpha-2 code was devised for practical use for most of the major languages of the world that are not only most frequently represented in the total body of the world&#8217;s literature, but which also comprise a considerable volume of specialized languages and terminologies. Additional language identifiers are created when it becomes apparent that a significant body of documentation written in specialized languages and terminologies exists. Languages designed exclusively for machine use, such as computer-programming languages, are not included in this code.</abstract>      <status>        <stage>90</stage>        <substage>93</substage>      </status>      <copyright>        <from>2002</from>        <owner>          <organization>            <name>ISO</name>          </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 639:1988</formattedref>        </bibitem>      </relation>      <place>Geneva</place>    </bibitem>  </relation>  <place>Geneva</place></bibitem> <bibitem id="ISO639-2" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Alpha-3 code</title>  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages&#8201;&#8212;&#8201;Part 2: Alpha-3 code</title>  <uri type="src">https://www.iso.org/standard/4767.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4767:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4767.detail.rss</uri>  <docidentifier type="ISO">ISO 639-2</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:639:-2:stage-90.20:ed-1:en</docidentifier>  <docnumber>639</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>20</substage>  </status>  <copyright>    <from>1998</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>      <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Alpha-3 code</title>      <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages&#8201;&#8212;&#8201;Part 2: Alpha-3 code</title>      <uri type="src">https://www.iso.org/standard/4767.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4767:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4767.detail.rss</uri>      <docidentifier type="ISO">ISO 639-2:1998</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:639:-2:stage-90.20:ed-1:en</docidentifier>      <docnumber>639</docnumber>      <date type="published">        <on>1998-11</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <script>Latn</script>      <status>        <stage>90</stage>        <substage>20</substage>      </status>      <copyright>        <from>1998</from>        <owner>          <organization>            <name>ISO</name>          </organization>        </owner>      </copyright>      <place>Geneva</place>    </bibitem>  </relation>  <place>Geneva</place></bibitem> <bibitem id="ISO3166-1" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Country code</title>  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions&#8201;&#8212;&#8201;Part 1: Country code</title>  <uri type="src">https://www.iso.org/standard/72482.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:72482:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/07/24/72482.detail.rss</uri>  <docidentifier type="ISO">ISO 3166-1</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:3166:-1:stage-60.60:ed-4:en</docidentifier>  <docnumber>3166</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>4</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2020</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 3166-1:2013</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions</title>      <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Country code</title>      <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions&#8201;&#8212;&#8201;Part 1: Country code</title>      <uri type="src">https://www.iso.org/standard/72482.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:72482:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/07/24/72482.detail.rss</uri>      <docidentifier type="ISO">ISO 3166-1:2020</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:3166:-1:stage-60.60:ed-4:en</docidentifier>      <docnumber>3166</docnumber>      <date type="published">        <on>2020-08</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>4</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">This document specifies basic guidelines for the implementation and maintenance of country codes. This code is intended for use in any application requiring the expression of current country names in coded form. </abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2020</from>        <owner>          <organization>            <name>ISO</name>          </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 3166-1:2013</formattedref>        </bibitem>      </relation>      <place>Geneva</place>    </bibitem>  </relation>  <place>Geneva</place></bibitem> <bibitem id="ISO5127" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Foundation and vocabulary</title>  <title type="main" format="text/plain" language="en" script="Latn">Information and documentation &#8211; Foundation and vocabulary</title>  <uri type="src">https://www.iso.org/standard/59743.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:59743:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/05/97/59743.detail.rss</uri>  <docidentifier type="ISO">ISO 5127 (all parts)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:5127</docidentifier>  <docnumber>5127</docnumber>  <date type="published">    <on>2017-05</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2017</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127:2001</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>      <title type="title-main" format="text/plain" language="en" script="Latn">Foundation and vocabulary</title>      <title type="main" format="text/plain" language="en" script="Latn">Information and documentation&#8201;&#8212;&#8201;Foundation and vocabulary</title>      <uri type="src">https://www.iso.org/standard/59743.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:59743:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/05/97/59743.detail.rss</uri>      <docidentifier type="ISO">ISO 5127:2017</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:5127:stage-60.60:ed-2:en</docidentifier>      <docnumber>5127</docnumber>      <date type="published">        <on>2017-05</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>2</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">ISO 5127:2017 provides a concept system and general vocabulary for the field of documentation within the whole information field. It has been created with a balanced representation of major work areas in mind: documentation, libraries, archives, media, museums, records management, conservation as well as legal aspects of documentation. The scope of the vocabulary provided in this document corresponds to that of ISO/TC 46: standardization of practices relating to libraries, documentation and information centres, publishing, archives, records management, museum documentation, indexing and abstracting services, and information science.</abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2017</from>        <owner>          <organization>            <name>ISO</name>          </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 5127:2001</formattedref>        </bibitem>      </relation>      <place>Geneva</place>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127:2001</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-3:1988</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-11:1987</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-1:1983</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-11:1983</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-2:1983</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-6:1983</formattedref>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5127-3A:1981</formattedref>    </bibitem>  </relation>  <place>Geneva</place></bibitem> <bibitem id="ISO15924" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of scripts</title>  <title type="main" format="text/plain" language="en" script="Latn">Information and documentation&#8201;&#8212;&#8201;Codes for the representation of names of scripts</title>  <uri type="src">https://www.iso.org/standard/29546.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:29546:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>  <docidentifier type="ISO">ISO 15924:2004</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:15924:stage-90.92:ed-1:en</docidentifier>  <docnumber>15924</docnumber>  <date type="published">    <on>2004-02</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">ISO 15924:2004 provides a code for the presentation of names of scripts. The codes were devised for use in terminology, lexicography, bibliography and linguistics, but they may be used for any application requiring the expression of scripts in coded form. ISO 15924:2004 also includes guidance on the use of script codes in some of these applications.</abstract>  <status>    <stage>90</stage>    <substage>92</substage>  </status>  <copyright>    <from>2004</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/DIS 15924</formattedref>    </bibitem>  </relation>  <place>Geneva</place></bibitem></references><references id="_bibliography" normative="false" obligation="informative"><title>Bibliography</title><bibitem id="ISO8601-1" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Date and time</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Representations for information interchange</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Basic rules</title>  <title type="main" format="text/plain" language="en" script="Latn">Date and time&#8201;&#8212;&#8201;Representations for information interchange&#8201;&#8212;&#8201;Part 1: Basic rules</title>  <uri type="src">https://www.iso.org/standard/70907.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:70907:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/07/09/70907.detail.rss</uri>  <docidentifier type="ISO">ISO 8601-1</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:8601:-1:stage-60.60:ed-1:en</docidentifier>  <docnumber>8601</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2019</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 8601:2004</formattedref>    </bibitem>  </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 8601-1:2019/DAmd 1</formattedref>      <date type="circulated">        <on>2019-02-25</on>      </date>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-intro" format="text/plain" language="en" script="Latn">Date and time</title>      <title type="title-main" format="text/plain" language="en" script="Latn">Representations for information interchange</title>      <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Basic rules</title>      <title type="main" format="text/plain" language="en" script="Latn">Date and time&#8201;&#8212;&#8201;Representations for information interchange&#8201;&#8212;&#8201;Part 1: Basic rules</title>      <uri type="src">https://www.iso.org/standard/70907.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:70907:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/07/09/70907.detail.rss</uri>      <docidentifier type="ISO">ISO 8601-1:2019</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:8601:-1:stage-60.60:ed-1:en</docidentifier>      <docnumber>8601</docnumber>      <date type="published">        <on>2019-02</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">This document specifies representations of dates of the Gregorian calendar and times based on the 24-hour clock, as well as composite elements of them, as character strings for use in information interchange. It is also applicable for representing times and time shifts based on Coordinated Universal Time (UTC).This document excludes the representation of date elements from non-Gregorian calendars or times not from the 24-hour clock. This document does not address character encoding of representations specified in this document.</abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2019</from>        <owner>          <organization>            <name>ISO</name>          </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 8601:2004</formattedref>        </bibitem>      </relation>      <relation type="updates">        <bibitem type="standard">          <formattedref format="text/plain">ISO 8601-1:2019/DAmd 1</formattedref>          <date type="circulated">            <on>2019-02-25</on>          </date>        </bibitem>      </relation>      <place>Geneva</place>    </bibitem>  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO10646-2" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Universal Multiple-Octet Coded Character Set (UCS)</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Supplementary Planes</title>  <title type="main" format="text/plain" language="en" script="Latn">Information technology&#8201;&#8212;&#8201;Universal Multiple-Octet Coded Character Set (UCS)&#8201;&#8212;&#8201;Part 2: Supplementary Planes</title>  <uri type="src">https://www.iso.org/standard/33208.html</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/03/32/33208.detail.rss</uri>  <docidentifier type="ISO">ISO/IEC 10646-2</docidentifier>  <docidentifier type="URN">urn:iso:std:iso-iec:10646:-2:stage-95.99:ed-1:en</docidentifier>  <docnumber>10646</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <contributor>    <role type="publisher"/>    <organization>      <name>International Electrotechnical Commission</name>      <abbreviation>IEC</abbreviation>      <uri>www.iec.ch</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>95</stage>    <substage>99</substage>  </status>  <copyright>    <from>2001</from>    <owner>      <organization>        <name>ISO/IEC</name>      </organization>    </owner>  </copyright>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO/IEC 10646:2003</formattedref>      <date type="circulated">        <on>2004-04-08</on>      </date>    </bibitem>  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2021-07-14</fetched>      <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>      <title type="title-main" format="text/plain" language="en" script="Latn">Universal Multiple-Octet Coded Character Set (UCS)</title>      <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Supplementary Planes</title>      <title type="main" format="text/plain" language="en" script="Latn">Information technology&#8201;&#8212;&#8201;Universal Multiple-Octet Coded Character Set (UCS)&#8201;&#8212;&#8201;Part 2: Supplementary Planes</title>      <uri type="src">https://www.iso.org/standard/33208.html</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/03/32/33208.detail.rss</uri>      <docidentifier type="ISO">ISO/IEC 10646-2:2001</docidentifier>      <docidentifier type="URN">urn:iso:std:iso-iec:10646:-2:stage-95.99:ed-1:en</docidentifier>      <docnumber>10646</docnumber>      <date type="published">        <on>2001-11</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          <name>International Organization for Standardization</name>          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <contributor>        <role type="publisher"/>        <organization>          <name>International Electrotechnical Commission</name>          <abbreviation>IEC</abbreviation>          <uri>www.iec.ch</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <script>Latn</script>      <status>        <stage>95</stage>        <substage>99</substage>      </status>      <copyright>        <from>2001</from>        <owner>          <organization>            <name>ISO/IEC</name>          </organization>        </owner>      </copyright>      <relation type="updates">        <bibitem type="standard">          <formattedref format="text/plain">ISO/IEC 10646:2003</formattedref>          <date type="circulated">            <on>2004-04-08</on>          </date>        </bibitem>      </relation>      <place>Geneva</place>    </bibitem>  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO15285" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>  <title type="title-main" format="text/plain" language="en" script="Latn">An operational model for characters and glyphs</title>  <title type="main" format="text/plain" language="en" script="Latn">Information technology&#8201;&#8212;&#8201;An operational model for characters and glyphs</title>  <uri type="src">https://www.iso.org/standard/27163.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:27163:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/02/71/27163.detail.rss</uri>  <docidentifier type="ISO">ISO/IEC TR 15285:1998</docidentifier>  <docidentifier type="URN">urn:iso:std:iso-iec:tr:15285:stage-90.93:ed-1:en</docidentifier>  <docnumber>15285</docnumber>  <date type="published">    <on>1998-12</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <contributor>    <role type="publisher"/>    <organization>      <name>International Electrotechnical Commission</name>      <abbreviation>IEC</abbreviation>      <uri>www.iec.ch</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">The purpose of this Technical Report is to provide a general framework for discussing characters and glyphs. The framework is applicable to a variety of coded character sets and glyph-identification schemes. For illustration, this Technical Report uses examples from characters coded in ISO/IEC 10646 and glyphs registered according to ISO/IEC 10036.This Technical Report-differentiates between coded characters and registered glyphs-identifies the domain of use of coded characters and glyph identifiers-provides a conceptual framework for the formatting and presentation of coded character data using glyph identifiers and glyph representationsThis Technical Report describes idealized principles that were not completely followed in coding characters for ISO/IEC 10646 and in registering glyphs according to ISO/IEC 10036. The fact that ISO/IEC 10646, ISO/IEC 10036, and other standards do not completely follow the principles in the model does not invalidate the model and does not diminish the utility of having the model.</abstract>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1998</from>    <owner>      <organization>        <name>ISO/IEC</name>      </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem><bibitem id="ISO34000" type="standard">  <fetched>2021-07-14</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Date and time</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Concepts and vocabulary</title>  <title type="main" format="text/plain" language="en" script="Latn">Date and time&#8201;&#8212;&#8201;Concepts and vocabulary</title>  <uri type="src">https://www.iso.org/standard/77019.html</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/07/70/77019.detail.rss</uri>  <docidentifier type="ISO">ISO/CD 34000</docidentifier>  <docidentifier type="URN">urn:iso:std:iso-cd:34000:stage-30.99:ed-1:en</docidentifier>  <docnumber>34000</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <note type="Unpublished-Status">
+                          <p id="_2cc283bc-a68f-4cb4-a026-f2e7e7c23f2d">Under preparation. (Stage at the time of publication ISO/CD 34000).</p></note><language>en</language>  <script>Latn</script>  <status>    <stage>30</stage>    <substage>99</substage>  </status>  <copyright>    <from>unknown</from>    <owner>      <organization>        <name>ISO/CD</name>      </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem><bibitem id="IAUGA23Julian">
+  <formattedref format="application/x-isodoc+xml"><em>The XXIIIrd International Astronomical Union General Assembly</em>, 1997. Available at: <link target="https://www.iers.org/IERS/EN/Science/Recommendations/resolutionB1.html"/></formattedref>
+  <docidentifier>The XXIIIrd International Astronomical Union General Assembly</docidentifier>
+  
+</bibitem>   </references></bibliography>
+</iso-standard>

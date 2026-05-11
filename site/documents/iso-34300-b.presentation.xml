@@ -1,0 +1,4088 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="presentation" version="1.9.4">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Date and time&#8201;&#8212;&#8201;Codes for calendar systems&#8201;&#8212;&#8201;Liste d&#8217;enregistrement</title>
+<title language="en" format="text/plain" type="title-intro">Date and time</title>
+<title language="en" format="text/plain" type="title-main">Codes for calendar systems</title>
+<title language="en" format="text/plain" type="title-part">Liste d&#8217;enregistrement</title>
+<title language="fr" format="text/plain" type="main">Date et heure&#8201;&#8212;&#8201;Codes pour les syst&#232;mes de calendrier</title>
+<title language="fr" format="text/plain" type="title-intro">Date et heure</title>
+<title language="fr" format="text/plain" type="title-main">Codes pour les syst&#232;mes de calendrier</title>
+<docidentifier type="ISO">ISO/WD 34300-B</docidentifier><docidentifier type="iso-with-lang">ISO/WD 34300-B(E)</docidentifier><docidentifier type="iso-reference">ISO/WD 34300-B:2021(E)</docidentifier>
+
+
+<docnumber>34300</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<edition>1</edition>
+
+<language current="true">en</language>
+<script current="true">Latn</script>
+<status>
+<stage abbreviation="WD" language="">20</stage>
+<substage language="">00</substage>
+</status>
+<copyright>
+<from>2021</from>
+<owner>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">international-standard</doctype>
+<editorialgroup>
+<technical-committee number="154" type="TC">Processes, data elements and documents in commerce, industry and administration</technical-committee>
+<subcommittee/>
+<workgroup number="5" type="WG">Date and time</workgroup>
+<secretariat>SAC</secretariat>
+</editorialgroup>
+<structuredidentifier>
+<project-number part="B">ISO 34300</project-number>
+</structuredidentifier>
+<stagename>Working draft</stagename>
+</ext>
+</bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en"><p>ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+<ul>
+<li> <p>ISO Online browsing platform: available at
+  <link target="http://www.iso.org/obp"/></p> </li>
+<li> <p>IEC Electropedia: available at
+<link target="http://www.electropedia.org"/>
+</p> </li> </ul>
+</localized-string><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Abstract</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="deflist" language="en">Definition List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition.danger" language="en">Danger</localized-string><localized-string key="admonition.warning" language="en">Warning</localized-string><localized-string key="admonition.caution" language="en">Caution</localized-string><localized-string key="admonition.important" language="en">Important</localized-string><localized-string key="admonition.safety_precautions" language="en">Safety Precautions</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="all_rights_reserved" language="en">All rights reserved</localized-string><localized-string key="reference_number" language="en">Reference Number</localized-string><localized-string key="price_based_on" language="en">Price based on % pages</localized-string><localized-string key="under_preparation" language="en">Under preparation. (Stage at the time of publication %).</localized-string><localized-string key="date" language="en">Date</localized-string><localized-string key="index" language="en">Index</localized-string><localized-string key="see" language="en">see</localized-string><localized-string key="see_also" language="en">see also</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <title depth="1">COPYRIGHT PROTECTED DOCUMENT</title>
+    <p id="boilerplate-year">
+    &#169; ISO 2021
+  </p>
+
+  <p id="boilerplate-message">
+    All rights
+reserved. Unless otherwise specified, no part of this publication may be
+reproduced or utilized otherwise in any form or by any means, electronic or
+mechanical, including photocopying, or posting on the internet or an intranet,
+without prior written permission. Permission can be requested from either ISO
+at the address below or ISO&#8217;s member body in the country of the requester.
+  </p>
+
+  <p id="boilerplate-address" align="left">
+    ISO copyright office<br/>
+    Ch. de Blandonnet 8 &#8226; CP 401<br/>
+    CH-1214 Vernier, Geneva, Switzerland<br/>
+    Tel.&#160;&#160;+ 41 22 749 01 11<br/>
+    Fax&#160;&#160;+ 41 22 749 09 47<br/>
+    Email: copyright@iso.org<br/>
+    Website: www.iso.org
+  </p>
+    <p id="boilerplate-place">
+    Published in Switzerland
+  </p>
+</clause>
+  </copyright-statement>
+
+  
+  <license-statement>
+    <clause>
+<title depth="1">Warning for WDs and CDs</title>
+
+<p id="_cae28040-0fa0-46da-bb02-cbdd0a905f02">This
+document is not an ISO International Standard. It is distributed for review and
+comment. It is subject to change without notice and may not be referred to as
+an International Standard.</p>
+
+<p id="_5819fd17-bde8-4854-a2f8-379fce5c8bdb">Recipients
+of this draft are invited to submit, with their comments, notification of any
+relevant patent rights of which they are aware and to provide supporting
+documentation.</p>
+</clause>
+  </license-statement>
+
+</boilerplate>
+<preface><foreword id="_0081aff0-5352-48e0-b2e3-4b75fd2ea0cd" obligation="informative" displayorder="1"><title>Foreword</title><p id="_6f4c63ee-8702-4c91-b496-c2c204f771f7">ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+<p id="_33258f25-8be7-43ac-9453-4bec27f01180">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+<p id="_82022a60-4b99-4b1d-aae4-5e46fab7e2b2">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+<p id="_fffd3a66-3ae1-403f-ad8e-34f3dfca5877">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+<p id="_dfd785f9-db9d-41eb-a930-c9f181418615">For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#8217;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p>
+<p id="_82427df7-f162-4396-a6d6-56a763b04457">This document was prepared by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>.</p>
+<p id="_248502f8-1b1a-46c1-a83c-417bb067437b">This document is amongst a series of International Standards dealing with the conversion of systems of writing produced by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>, WG 5 <em>Date and time</em>.</p>
+<p id="_8c544607-aa77-48e0-b6cf-0ac881c555b0">This is the first edition of this document.</p></foreword></preface><sections>
+<clause id="_scope" type="scope" inline-header="false" obligation="normative" displayorder="2">
+<title depth="1">1<tab/>Scope</title>
+<p id="_1f9fb1ac-3222-492f-b987-2be41c57e8aa">This document provides the current registered calendar system codes and their
+relevant elements for the ISO 34000/RA.</p>
+</clause>
+
+<terms id="_terms_and_definitions" obligation="normative" displayorder="4">
+<title depth="1">3<tab/>Terms and definitions</title><p id="_9141c767-2c52-49b1-8f61-1443178b4b1b">No terms and definitions are listed in this document.</p>
+<p id="_719f852d-2f9e-4307-b0eb-e0843688015a">ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+<ul id="_fb22e40f-da6c-4ab2-9d05-288dc30b9633">
+<li> <p id="_f2f507d3-125c-48d2-a7ca-3db85390b297">ISO Online browsing platform: available at
+  <link target="http://www.iso.org/obp"/></p> </li>
+<li> <p id="_acf7d0ea-5472-4d4e-b578-7d3f314555cc">IEC Electropedia: available at
+<link target="http://www.electropedia.org"/>
+</p> </li> </ul>
+
+</terms>
+<clause id="_registered_calendar_systems" inline-header="false" obligation="normative" displayorder="5"><title depth="1">4<tab/>Registered calendar systems</title><clause id="_akan_akan_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.1<tab/><tt>akan:</tt> Akan calendar</title>
+<table id="_6269f021-381c-491e-9921-d5f3cf701553">
+<name>Table 1&#160;&#8212; Akan calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_f616414f-8616-4e51-baa9-f86a57c764ee">akan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_128b33cc-62db-44d7-9d37-6abfed2d8780">Akan calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_ade841d2-2d3c-4b45-956d-2ba0eef5ce9f">See: <eref type="inline" bibitemid="AKAN" citeas="Forty Days; The Akan Calendar">Forty Days; The Akan Calendar</eref></p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_alexandrian_alexandrian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.2<tab/><tt>alexandrian:</tt> Alexandrian calendar</title>
+<table id="_413891fb-957e-48d9-9e7f-69527f13c6e7">
+<name>Table 2&#160;&#8212; Alexandrian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_a3230e6d-2be8-4eaf-8ee0-c414d1246838">alexandrian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_f0ef495c-7c67-4f63-8058-5536353207be">Alexandrian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_f73b8689-0d27-4092-b87c-832c39c63289">See: <eref type="inline" bibitemid="COPTIC" citeas="Der koptische Heiligenkalender">Der koptische Heiligenkalender</eref></p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_4c41a43f-ddad-4100-b477-1901881a6b8a">Egypt</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_157d1525-ac14-49c2-adae-ba499acc2780">Religious publications of the Coptic Christian faith</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_armenian_armenian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.3<tab/><tt>armenian:</tt> Armenian calendar</title>
+<table id="_8f9c338a-7f71-4a40-bb6b-2c2605d0217b">
+<name>Table 3&#160;&#8212; Armenian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_911547a4-0aee-4407-bbb4-749ff7b5b782">armenian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_4cbcf44b-78c3-4769-b5a4-a8866d3d67c1">Armenian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_b307cff7-a25c-44ba-966b-71f97a6896d5">See: <eref type="inline" bibitemid="ARMENIAN" citeas="GIPPERT">GIPPERT</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_39e00446-392b-4670-ad40-5afbc9b24f0d">Armenia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_62e0e7ed-84cc-494d-9541-ae55555d4a25">Used by Armenian diaspora communities</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_assyrian_assyrian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.4<tab/><tt>assyrian:</tt> Assyrian calendar</title>
+<table id="_d075ed5b-d375-4715-a932-e48275ebcc73">
+<name>Table 4&#160;&#8212; Assyrian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_00d38831-6775-400b-9790-81799035e65d">assyrian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2e6a15c3-8429-4a04-8902-3789346f88e1">Assyrian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_3fe0a38a-d116-40c3-a04b-a3db3bac8a9b">See: <eref type="inline" bibitemid="ASSYRIAN" citeas="PAULISSIAN">PAULISSIAN</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_ast_astronomical_year_numbering" inline-header="false" obligation="normative">
+<title depth="2">4.5<tab/><tt>ast:</tt> Astronomical year numbering</title>
+<table id="_3090506f-233f-420f-a2eb-f560f576bf8e">
+<name>Table 5&#160;&#8212; Astronomical year numbering</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_3b7f4758-b929-4e09-9e55-5ff0c0216504">ast</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_ca055475-d4f7-480a-afbd-bea829eb1445">Astronomical year numbering</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_1a2672dd-415a-41e8-a4cc-d879fa2eda61">Linear count of year with year 0 set to proleptic Gregorian year 1 BC, month
+and day according to Gregorian calendar. See <eref type="inline" bibitemid="AST" citeas="CASSINI">CASSINI</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_aztec_aztec_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.6<tab/><tt>aztec:</tt> Aztec calendar</title>
+<table id="_877727df-0e31-4c60-a3d0-390752f9a56d">
+<name>Table 6&#160;&#8212; Aztec calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_5bbe95c9-3040-43a3-b3c8-629447adcb1e">aztec</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_b6a9e3c6-c4ed-44fe-b5f0-bdf883b1dc97">Aztec calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_ba4429a1-6256-4821-a52c-2db253e94b71">See <eref type="inline" bibitemid="AZTEC" citeas="TENA">TENA</eref></p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_01953f33-6898-415a-9154-794ef501b57c">Central America, predominantly Northern Mexico</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_badi_bad__xed___x2bf__calendar" inline-header="false" obligation="normative">
+<title depth="2">4.7<tab/><tt>badi:</tt> Bad&#237;&#703; calendar</title>
+<table id="_9a0b90a8-2698-4637-86b4-ab9bbf796be2">
+<name>Table 7&#160;&#8212; Bad&#237;&#703; calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_fb4c0c68-27a7-4d58-8e57-3853515a5497">badi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_eb6bf969-feda-4172-8eea-ccc0b63d280f">Bad&#237;&#703; calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_488bcd5b-c28b-4b36-b85d-ce3477893877">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_063e9b46-5fc8-480b-81ce-340dd7969c9d">Bah&#225;&#8217;&#237; calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_6528ef00-98b6-425d-8ddc-2e5a1860a9d4">Religious publications of the Bahai faith</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_bali_balinese_saka" inline-header="false" obligation="normative">
+<title depth="2">4.8<tab/><tt>bali:</tt> Balinese saka</title>
+<table id="_2cb43830-5466-4bee-98b3-7893069a90b8">
+<name>Table 8&#160;&#8212; Balinese saka</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_980442d6-d0fd-4553-8c1d-afe989aa55f8">bali</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2ea1cdfb-929e-487b-a198-935aa344e62d">Balinese saka</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_59520ecf-804f-4591-8f4d-65cbf39e92e2">
+<dt>ind-Latn</dt>
+<dd>
+<p id="_c53c08f9-1b2b-4b5f-b045-b869d183a3ae">Kalendar Bali&#8217;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_fd957138-6f68-4146-940c-a1917c88e3df">Bali, Indonesia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_90d2b479-2a68-474e-a1dc-f3f2842f6c32">Civil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_334ed2c6-aace-4f98-a249-eb2262278e57">In use in Bali</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_bengali_bengali_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.9<tab/><tt>bengali:</tt> Bengali calendar</title>
+<table id="_083dd1a2-6a31-4eaf-afaa-50ec361a0992">
+<name>Table 9&#160;&#8212; Bengali calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_275a7bc1-5ac1-4018-ad3f-993125673856">bengali</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_34fc260d-a07c-4b57-bfcd-30c15fe38bbc">Bengali calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_cf05bc5d-97f1-4a7b-bd5f-2eef35ace222">
+<dt>ben-Beng</dt>
+<dd>
+<p id="_91b7f438-2d84-4dbb-8772-9f74c78c2f6e">&#2476;&#2457;&#2509;&#2455;&#2494;&#2476;&#2509;&#2470;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_f168ebc4-b055-40a6-aa4d-28e2fe79e798">Eastern India, Bengali-speaking regions</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_98e25735-caaf-4aae-9fa1-685dbe657b8a">Used by the global Bengali community for religious use</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_berber_berber_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.10<tab/><tt>berber:</tt> Berber calendar</title>
+<table id="_64729c88-bb62-458d-bab5-48d521bec1dd">
+<name>Table 10&#160;&#8212; Berber calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_0d8fb78a-4061-4b59-886c-fa2fbe3164a7">berber</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_3a75ca04-9edf-45df-9be5-afbe8305383c">Berber calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_cde52fde-0dd6-4311-8933-a118ec6627dd">See: <eref type="inline" bibitemid="BERBER" citeas="IDRIS">IDRIS</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_borana_borana_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.11<tab/><tt>borana:</tt> Borana calendar</title>
+<table id="_4955785e-8736-42d3-b8d9-22d2f30eb5a7">
+<name>Table 11&#160;&#8212; Borana calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_eff09725-e6c1-40c8-aeeb-b2061ab7db3a">borana</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_4ff39fe2-2f57-469d-a58c-a0788f6b89b3">Borana calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_e073fe6b-8116-4030-99df-b8d46a4782b5">See: <eref type="inline" bibitemid="BORANA" citeas="DOYLE">DOYLE</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_bud_buddhist_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.12<tab/><tt>bud:</tt> Buddhist calendar</title>
+<table id="_daa1b0b4-f7a3-4213-9ab9-dc119e2c7e64">
+<name>Table 12&#160;&#8212; Buddhist calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_045539c8-e3a3-4c8b-8f71-a7fe74154a76">bud</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_61b60d10-a3d8-43ed-96ca-4e264c3de707">Buddhist calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_d89a6471-6df8-4eda-8be3-933557e76be5">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_5ab97aef-4e67-4b76-a81b-5272ce717bf2">Calendar of the Lord Buddha</p>
+</dd>
+<dt>san-Deva</dt>
+<dd>
+<p id="_5dbb08c4-7127-4ad4-872f-55156123def5">&#2348;&#2380;&#2342;&#2381;&#2343; &#2346;&#2306;&#2330;&#2366;&#2306;&#2327;</p>
+</dd>
+<dt>khm-Khmr</dt>
+<dd>
+<p id="_b0c21566-7743-48f3-9c0d-ad5e32dfa2a0">&#6038;&#6075;&#6033;&#6098;&#6034;&#6047;&#6016;&#6042;&#6070;&#6023;</p>
+</dd>
+<dt>sin-Sinh</dt>
+<dd>
+<p id="_91e85f9c-8915-4bef-a149-58831bde964d">&#3510;&#3540;&#3503;&#3530;&#3504; &#3520;&#3515;&#3530;&#8205;&#3522;; &#3523;&#3535;&#3523;&#3505; &#3520;&#3515;&#3530;&#8205;&#3522;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_8d36ddc9-d336-4ccc-a64f-32644f7748a1">Cambodia, Laos, Myanmar, Thailand</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_caa517ee-f959-430d-ac78-b996b076862b">Religious</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_burmese_burmese_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.13<tab/><tt>burmese:</tt> Burmese calendar</title>
+<table id="_d66d8b78-73bb-45ed-a031-55dfb6cec3fb">
+<name>Table 13&#160;&#8212; Burmese calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_a4ab1f96-6c25-4270-8372-60d5c1d43d51">burmese</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_83248669-556a-4d4e-8600-4a7c06303683">Burmese calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_15b6ec32-dcce-4cf2-b62c-7997501d2e60">
+<dt>mya-Mymr</dt>
+<dd>
+<p id="_e2dab18e-f020-4ab3-a36d-c6b702af848a">&#4121;&#4156;&#4116;&#4154;&#4121;&#4140;&#4126;&#4096;&#4153;&#4096;&#4123;&#4140;&#4103;&#4154;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_50f02b60-0260-439c-9b9d-77237fcad1d7">Myanmar calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_e6e237a9-e1fc-4835-81ae-9f12a2ac75b7">BE, ME</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_54af1d20-c563-45ff-84a1-7284562ebc6c">Myanmar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_8091c25e-d3b2-4f3a-8080-f615fbdad875">Civil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_ccj_ccsds_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.14<tab/><tt>ccj:</tt> CCSDS Julian Day</title>
+<table id="_d174f644-5437-482c-a6f8-addc710972e5">
+<name>Table 14&#160;&#8212; CCSDS Julian Day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_59170a3d-fd66-4ca5-9c20-6057786db68c">ccj</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2b379536-1021-4599-8e12-59eb43a8705e">CCSDS Julian Day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_56972576-1b91-4054-a90f-6d23d95182b9">CCSDS JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_004becd6-c27f-4111-9667-46cda59e0e9e">Linear count by day according to the epoch of 0h Jan 1, 1958. See <eref type="inline" bibitemid="CCSDSTC" citeas="CC CCSDS 301.0-B-4">CC CCSDS 301.0-B-4</eref>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_chinese_chinese_traditional_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.15<tab/><tt>chinese:</tt> Chinese traditional calendar</title>
+<table id="_436feaf1-06c4-47cd-9b86-c393351acc78">
+<name>Table 15&#160;&#8212; Chinese traditional calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_bfb7a9de-59c5-4537-beb0-9017e5f041eb">chinese</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_08e6b7cc-66fb-45a0-bba4-68ce75c58a0d">Chinese traditional calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_f7009844-234b-4b31-873d-c410d80c13bb">
+<dt>zho-Hant</dt>
+<dd>
+<p id="_93a30a9a-ea8f-46ba-b053-c75b629a6025">&#36786;&#26310;; &#22799;&#26310;</p>
+</dd>
+<dt>zho-Hans</dt>
+<dd>
+<p id="_f53ce4ab-e29f-4f97-a7c6-0c776ae75a2d">&#20892;&#21382;; &#22799;&#21382;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_46eb22de-dba5-40da-8681-b918f34edae4">China</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_fb50c4ef-171a-450d-aaba-8ecb2c6c7e8c">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_6f1b119b-4ba3-4662-a267-397fda143714">Type: lunisolar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_cjd_cnes_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.16<tab/><tt>cjd:</tt> CNES Julian Day</title>
+<table id="_11e2941a-ca7a-4bb2-89d3-f876fe934f41">
+<name>Table 16&#160;&#8212; CNES Julian Day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_433d9cf5-311d-45c1-a83c-34475b1c69cd">cjd</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_65ddb974-27ed-4ff5-b0bd-ea19e356aa60">CNES Julian Day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_cd32f0ab-7ad5-4802-9e4c-6eaad1685904">CNES JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_a17a3794-b9f2-4926-b446-12fe3fa17ce2">Linear count by day according to the epoch of 0h Jan 1, 1950.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_13d4adab-ed67-4b64-82f3-cdf0497464a2">Introduced by the CNES.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_chiljungsan_chiljungsan" inline-header="false" obligation="normative">
+<title depth="2">4.17<tab/><tt>chiljungsan:</tt> Chiljungsan</title>
+<table id="_559bfae2-a17d-4312-8bcf-5ad981aad371">
+<name>Table 17&#160;&#8212; Chiljungsan</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_99d572a1-90bf-4532-af4d-bd8878700734">chiljungsan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_55de6fad-5507-44d3-8949-3bf08b03d059">Chiljungsan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_3d1ff1c7-39dd-4130-a5c1-f6ea78cea323">
+<dt>kor-Hang</dt>
+<dd>
+<p id="_9845ce29-f604-442b-b40a-e53d7d2a116e">&#52832;&#51221;&#49328;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_9faa9db9-4664-4247-af0b-2174c724b655">Korea</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_059f437a-b6df-43e3-a72c-b082ab885134">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_coptic_eom_coptic_eom" inline-header="false" obligation="normative">
+<title depth="2">4.18<tab/><tt>coptic-eom:</tt> Coptic-EoM</title>
+<table id="_baaa58bd-c2fb-4b00-b428-127a0ba913eb">
+<name>Table 18&#160;&#8212; Coptic-EoM</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_cf7ecdfe-8354-44c0-b846-27c521d8960a">coptic-eom</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_c5e00cac-2729-4ea1-9495-af296fc9b050">Coptic-EoM</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_0e76315b-c9c8-46bd-a7aa-df011933ec8b">
+<dt>amh-Ethi</dt>
+<dd>
+<p id="_ac051540-c167-4322-9285-51c394733259">&#4840;&#4770;&#4725;&#4846;&#4917;&#4843; &#4824;&#4632;&#4757; &#4768;&#4678;&#4899;&#4896;&#4653;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_6f599279-eccc-4cce-b02d-95b63a710cc0">Ethiopia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_2c534d3a-8908-470d-ab62-5695979d8ccf">Used in Ethiopian Catholic publications</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_cstb_celestial_stems_and_terrestrial_branches" inline-header="false" obligation="normative">
+<title depth="2">4.19<tab/><tt>cstb:</tt> Celestial Stems and Terrestrial Branches</title>
+<table id="_60f158ef-6ee9-4988-8f27-1964ec5e403c">
+<name>Table 19&#160;&#8212; Celestial Stems and Terrestrial Branches</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_d757a695-75b9-42bd-9b66-26d58073e371">cstb</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_db1632f9-78d7-4216-a074-0e6d21bff267">Celestial Stems and Terrestrial Branches</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_f3ec374f-104b-4a5b-abd8-0415fb023caf">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_a1173420-b8c5-4568-93bd-ecd4b9f5be33">Ganzhi year numbering</p>
+</dd>
+<dt>zho-Hant</dt>
+<dd>
+<p id="_487e7bdd-eb09-4e01-8bf6-ca92f6537006">&#24178;&#25903;&#32000;&#24180;</p>
+</dd>
+<dt>zho-Hans</dt>
+<dd>
+<p id="_a2fad684-3ae5-4cd0-85f5-3812766f4b49">&#24178;&#25903;&#32426;&#24180;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_edfa9607-5cb6-4a45-99b4-0e368dd6bb62">CSTB</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_273d0a2d-1334-4483-b8fd-67a6559cbff5">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_dangun_dangun_giwon" inline-header="false" obligation="normative">
+<title depth="2">4.20<tab/><tt>dangun:</tt> Dangun giwon</title>
+<table id="_b35e8413-8a75-49fc-a0a8-6960285f7717">
+<name>Table 20&#160;&#8212; Dangun giwon</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_b848c53a-687f-49a1-84e9-1d36467dda21">dangun</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_b2e077c6-12ea-4571-87e5-7fa5b6a825d2">Dangun giwon</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_ff5238cc-6e40-44ff-978d-556b97bc3baf">
+<dt>kor-Hang</dt>
+<dd>
+<p id="_e124e9d1-e15b-4212-af23-7a63485ca933">&#45800;&#44400;&#44592;&#50896;; &#45800;&#44592;</p>
+</dd>
+<dt>zho-Hant</dt>
+<dd>
+<p id="_57bb33dd-92a0-4e49-a9cc-905f2bd85e63">&#27264;&#21531;&#32000;&#20803;; &#27264;&#32000;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_5a512b71-95ab-4e26-a780-a9b7374123e8">Linear count of year with epoch from Gregorian year 2334BC</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_77f8d111-1dc2-48ae-a516-cc442bda9cba">Korea</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_5c40f213-65ae-45f6-9b4f-b911d69fd2af">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_djd_dublin_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.21<tab/><tt>djd:</tt> Dublin Julian Day</title>
+<table id="_4aa38bcc-0473-4700-aaea-6c368ea521d3">
+<name>Table 21&#160;&#8212; Dublin Julian Day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_7b8062df-414d-414c-9af2-9800ee5a4c39">djd</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_51a3a4f3-745b-47fa-9ec0-e76cfc69f727">Dublin Julian Day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_665f5e03-901a-466b-b428-12c0874fe84f">Dublin JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_db4f557c-cdbb-414a-8479-46f072077af1">Linear count by day according to the epoch of noon Dec 31, 1899.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_85bff62b-f854-4260-afb3-1b5af8431f9c">Introduced by the IAU in 1955.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_fasli_fasli_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.22<tab/><tt>fasli:</tt> Fasli calendar</title>
+<table id="_40f607ce-6b65-4b8e-8ca7-578d9b998c39">
+<name>Table 22&#160;&#8212; Fasli calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_0848dddd-4adc-4696-8a3f-c785be2809da">fasli</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_70f45503-0414-4d16-bbe7-9b820295c2d4">Fasli calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_4f03c0cc-f697-4af6-92bb-a5d2bc5fa856">
+<dt>urd-Arab</dt>
+<dd>
+<p id="_4c9861bc-d825-4b25-9b60-a7899967e844">&#1601;&#1589;&#1604;&#1740;&#8206;</p>
+</dd>
+<dt>ara-Arab</dt>
+<dd>
+<p id="_4cec1636-f842-4ab0-80cb-16384debde4d">&#1601;&#1589;&#1604;&#1609;&#8206;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_french_republican_french_republican_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.23<tab/><tt>french-republican:</tt> French Republican calendar</title>
+<table id="_ccc1c064-fe23-42dc-9d1c-26a8ee7c62e4">
+<name>Table 23&#160;&#8212; French Republican calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_5a80eefb-d3ce-431e-8974-1b9361188e41">french-republican</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_c7dc211a-87e1-458f-b690-384925c18166">French Republican calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_8dd60584-1c24-4cd6-81f1-86b413c26018">
+<dt>fra-Latn</dt>
+<dd>
+<p id="_dd12dddb-20ce-4e62-8594-51cf1bfc2f62">calendrier r&#233;publicain fran&#231;ais</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_89021d7c-d5a3-4c2f-bbd7-4f01e89284a2">French Revolutionary calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_4696553f-2638-4c0f-ad63-adddbd559a54">France, Haiti</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_gaelic_gaelic_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.24<tab/><tt>gaelic:</tt> Gaelic calendar</title>
+<table id="_e31c00c4-0c39-4f93-807d-101f3393ed0b">
+<name>Table 24&#160;&#8212; Gaelic calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_63c5e77c-cc11-43c9-9467-e75aec091bce">gaelic</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_597affa3-6319-49c5-8bd6-4a536a1305d1">Gaelic calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_gregorian_gregorian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.25<tab/><tt>gregorian:</tt> Gregorian calendar</title>
+<table id="_a9d6e87e-8f50-4069-8666-ddabc7608aca">
+<name>Table 25&#160;&#8212; Gregorian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_2fdf26bc-6584-41be-8434-5583c646b3cd">gregorian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_a350c299-5ed6-412d-b37f-cb487ced1bd8">Gregorian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_0001f40a-0222-44c0-9beb-0c9042d96a07">AD (after), BC (before), CE (Common Era)</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_fd5a1115-f03b-4f25-a632-bd906569ab80">See <eref type="inline" bibitemid="ISO34000" citeas="ISO/DIS 34000">ISO/DIS 34000</eref><fn reference="a">
+                          <p id="_8c7289c2-cffa-40c6-b448-71bab3da31d3">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p></fn>.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_d6a3ab91-d3e7-43d6-ab46-a55ccecf516b">Global</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_hebrew_hebrew_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.26<tab/><tt>hebrew:</tt> Hebrew calendar</title>
+<table id="_769dc887-081a-4d71-87d2-3baba644a571">
+<name>Table 26&#160;&#8212; Hebrew calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_97e384df-9423-4fa4-abfa-e15a6ed6478a">hebrew</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_487cf689-9f10-4b14-b5d1-feff6d025c68">Hebrew calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_ae1b790b-449f-4c9a-a090-7c856442ea65">
+<dt>heb-Hebr</dt>
+<dd>
+<p id="_1e74369f-d962-42ef-80a3-77a150847b16">&#1492;&#1500;&#1493;&#1495; &#1492;&#1506;&#1489;&#1512;&#1497;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_385bc962-c25d-4989-9fa7-69b56232f009">AM</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_25ae6bec-bfdc-45f7-9fd8-0a1a6205ca01">Israel</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_hindu_hindu" inline-header="false" obligation="normative">
+<title depth="2">4.27<tab/><tt>hindu:</tt> Hindu</title>
+<table id="_9ffe0d37-17c3-4ce8-8428-0b5f897071e9">
+<name>Table 27&#160;&#8212; Hindu</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_03b834d7-20db-4aab-a4b4-0158b0443631">hindu</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_3d07eefc-0d6e-4845-aed0-a748ee8207cd">Hindu</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_853e02b8-fdf0-46ba-af0f-cebc887d3232">
+<dt>hin-Deva</dt>
+<dd>
+<p id="_a58594c0-19a4-44ee-bfc6-06c118a369c0">&#2361;&#2367;&#2344;&#2381;&#2342;&#2370; &#2346;&#2306;&#2330;&#2366;&#2306;&#2327;; &#2346;&#2334;&#2381;&#2330;&#2366;&#2329;&#2381;&#2327;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_32176fb9-435e-48e6-a812-e635c98d3833">Panchanga</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_bba2cc1a-475f-4473-a0e0-04724cfea325">India</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_c5a37b65-c9d0-4af5-a88e-926940bf6937">Religious</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_f26375a2-8b2a-4547-bcf6-e5bab66f9265">Largely replaced by the Indian Civil calendar in daily use</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_hijri_qamari_hijri_qamari" inline-header="false" obligation="normative">
+<title depth="2">4.28<tab/><tt>hijri-qamari:</tt> Hijri-qamari</title>
+<table id="_d4ab488a-2312-4c79-9916-79964420c444">
+<name>Table 28&#160;&#8212; Hijri-qamari</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_d29bbc76-4870-44b7-9473-3e8494a95f99">hijri-qamari</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_41db248b-2e1e-41f5-93cc-07480f73413e">Hijri-qamari</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_428907b9-cb07-41aa-8441-dc33ee651a5b">
+<dt>ara-Arab</dt>
+<dd>
+<p id="_e4b9c1d1-a201-4b5e-bab5-eaf29c108186">&#1575;&#1604;&#1578;&#1602;&#1608;&#1610;&#1605; &#1575;&#1604;&#1607;&#1580;&#1585;&#1610;&#8206;&#8206;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_83a80d22-3a37-4c41-811d-7daf5b7779da">AH (after Hijri) and BH (before Hijri)</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_a6c1a149-b483-4444-bd29-eb4a4d07f50d">Used in many Islamic countries</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_hijri_shamsi_hijri_shamsi" inline-header="false" obligation="normative">
+<title depth="2">4.29<tab/><tt>hijri-shamsi:</tt> Hijri-shamsi</title>
+<table id="_7095f63c-9ed5-45e9-8dd2-30064f9bd49a">
+<name>Table 29&#160;&#8212; Hijri-shamsi</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_53d6f77c-3d27-4175-9e6f-074431208d99">hijri-shamsi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_d7d2ffe2-ca12-4d44-87cf-a0b52f312c5b">Hijri-shamsi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_e86b4c9e-297a-40f5-b6a5-2ade2f6bb9b5">
+<dt>ara-Arab</dt>
+<dd>
+<p id="_2e97d1ab-9811-421b-bea0-42b1cf77ab9f">&#1578;&#1602;&#1608;&#1610;&#1605; &#1607;&#1580;&#1585;&#1610; &#1588;&#1605;&#1587;&#1610;</p>
+</dd>
+<dt>per-Arab</dt>
+<dd>
+<p id="_d5018779-ee91-4ab2-b7ef-5975224b9a60">&#1711;&#1575;&#1607;&#8204;&#1588;&#1605;&#1575;&#1585;&#1740; &#1607;&#1580;&#1585;&#1740; &#1582;&#1608;&#1585;&#1588;&#1740;&#1583;&#1740;</p>
+</dd>
+<dt>pus-Arab</dt>
+<dd>
+<p id="_a331e48c-2063-40fe-9392-9c7a6af6a173">&#1604;&#1605;&#1585;&#1610;&#1586; &#1604;&#1744;&#1686;&#1583;&#1740;&#1586; &#1705;&#1604;&#1740;&#1586;&#8206;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_d37505dd-ccfc-4c97-870e-c25d635948bd">Solar Hijri calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_5514490b-41a4-4df1-bae5-a331251ff827">AH, SH</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_0ee78da3-8f7d-4e11-a13b-6c2605f7e72e">Iran, Afghanistan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_hua_huangdi_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.30<tab/><tt>hua:</tt> Huangdi calendar</title>
+<table id="_f7fec60f-fc98-439a-8b22-e2989c3b8c17">
+<name>Table 30&#160;&#8212; Huangdi calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_3c6841eb-c163-4674-b73a-8050732f236b">hua</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_17170ce1-0231-496c-9b0c-ba668280b22f">Huangdi calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_35ee587d-3edd-492b-9b0e-867d22d01815">
+<dt>zho-Hant</dt>
+<dd>
+<p id="_106ceec7-c338-46b4-ba52-b8095d6b0b5d">&#40643;&#24093;&#32000;&#20803;; &#36562;&#36677;&#32000;&#24180;</p>
+</dd>
+<dt>zho-Hans</dt>
+<dd>
+<p id="_5382f753-0f19-46be-a766-85e9194a5433">&#40644;&#24093;&#32426;&#20803;, &#36713;&#36757;&#32426;&#24180;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_ea5357ca-2914-43d2-a04e-c163ce19b490">Linear count of year with epoch from Gregorian year 2698BC</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_ab168556-54d5-45df-b2a6-81b8382df4a3">Historic calendar, cultural usage</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_igbo_igbo_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.31<tab/><tt>igbo:</tt> Igbo calendar</title>
+<table id="_b356d6fd-00a6-4a9a-bcf8-8f0898d67f76">
+<name>Table 31&#160;&#8212; Igbo calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_c6eea6f5-0685-4a94-a9b6-23b64663f312">igbo</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_ca704412-8844-4d82-9737-ca27644be1a4">Igbo calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_435b4cfd-634f-47d6-b39c-77eea521e6b6">
+<dt>ibo-Latn</dt>
+<dd>
+<p id="_4c129f77-ed72-4ca2-a586-137b126c4ff4">&#210;g&#7909;&#769;&#224;f&#7885;&#768; &#7882;&#768;gb&#242;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_ilahi_ilahi" inline-header="false" obligation="normative">
+<title depth="2">4.32<tab/><tt>ilahi:</tt> Ilahi</title>
+<table id="_17bf3390-5fcd-4e04-af4b-30e4e404a07e">
+<name>Table 32&#160;&#8212; Ilahi</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_1897a500-85d8-483e-9c67-63dd6af2e708">ilahi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_d5b5030c-e324-4c53-8ab3-51c5bd72429a">Ilahi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_d312dc3f-f906-44fe-b4e9-6bd14ea0db21">
+<dt>ben-Beng</dt>
+<dd>
+<p id="_22657680-41be-4a60-ae02-00f545b0e733">&#2476;&#2494;&#2434;&#2482;&#2494; &#2488;&#2494;&#2482;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_621f78b7-82ff-4b9f-866e-56ed522f5039">Bangladesh</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_aa709fb4-6304-4083-a746-929fea3b9b61">Civil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_e9638817-1dcf-4149-acb3-aadb90626c34">compare with the Bengali calendar which is not a civil one.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_ind_indian_civil_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.33<tab/><tt>ind:</tt> Indian Civil calendar</title>
+<table id="_10a1dbdb-c7ef-43bd-b831-a3cefd28531a">
+<name>Table 33&#160;&#8212; Indian Civil calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_b07ed4e2-2304-441e-9727-112fd6780199">ind</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_858318a5-375f-45dd-9ae2-6c11cbb70ac7">Indian Civil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_9f5e5cd3-39f7-4fee-aa0b-ca7313626b4e">
+<dt>hin-Devi</dt>
+<dd>
+<p id="_687bac27-a761-4b07-a6ee-9432ef6eb483">&#2349;&#2366;&#2352;&#2340;&#2368;&#2351; &#2352;&#2366;&#2359;&#2381;&#2335;&#2381;&#2352;&#2368;&#2351; &#2346;&#2306;&#2330;&#2366;&#2306;&#2327;</p>
+</dd>
+<dt>tam-Taml</dt>
+<dd>
+<p id="_6036c02e-f35e-4f7e-a0f2-8fdb155e7511">&#2951;&#2984;&#3021;&#2980;&#3007;&#2991;&#2980;&#3021; &#2980;&#3015;&#2970;&#3007;&#2991; &#2984;&#3006;&#2975;&#3021;&#2965;&#3006;&#2975;&#3021;&#2975;&#3007;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_02d4dc8f-bf55-442c-85a5-7694ecbfeb90">SE</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_d2562016-3aaa-4b71-b837-90f97df80b06">India</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_iranian_jalali_iranian_jalali" inline-header="false" obligation="normative">
+<title depth="2">4.34<tab/><tt>iranian-jalali:</tt> Iranian-Jalali</title>
+<table id="_14c6efe6-db17-485e-a648-9b6ae7713202">
+<name>Table 34&#160;&#8212; Iranian-Jalali</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_13f5eff5-6152-44d4-9d5a-e7180e15552c">iranian-jalali</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_0fab1cd3-fd20-4c1c-b732-2d36c4250328">Iranian-Jalali</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_aad83877-c3e4-4b2e-b12e-513bfd2bf5c5">
+<dt>fas-Arab</dt>
+<dd>
+<p id="_518ea76d-fcf3-48a4-85a9-42b38abbc6ba">&#1711;&#1575;&#1607;&#8204;&#1588;&#1605;&#1575;&#1585;&#1740; &#1580;&#1604;&#1575;&#1604;&#1740; &#1578;&#1602;&#1608;&#1740;&#1605;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_c27946e0-d90b-4cfe-afa7-d90f124ee692">Iran, Azerbaijan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_9ab44d60-1f7c-4fd0-a504-d072fec29295">Iran now mostly uses the Hijri-shamsi calendar.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_iranian_yazdigird_iranian_yazdigird" inline-header="false" obligation="normative">
+<title depth="2">4.35<tab/><tt>iranian-yazdigird:</tt> Iranian-Yazdigird</title>
+<table id="_71f980c8-8739-4391-a8f1-a0b02213a039">
+<name>Table 35&#160;&#8212; Iranian-Yazdigird</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_c34b1af0-79d7-4930-a645-e55d1817802e">iranian-yazdigird</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_271ee038-f716-4309-9b76-1d71685f5376">Iranian-Yazdigird</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_992331f1-c800-4810-ad16-8a24695db665">Iran, Azerbaijan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_65be3697-31d3-4d84-adbb-7a2016ca1427">Iran now mostly uses the Hijri-shamsi calendar.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_jap_japanese_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.36<tab/><tt>jap:</tt> Japanese calendar</title>
+<table id="_a01cc30d-a5c4-4d47-9f53-baba6ec44c0c">
+<name>Table 36&#160;&#8212; Japanese calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_459451c7-bcf5-4012-b614-8176e4e376c8">jap</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_5d9597fc-c5ca-4446-b676-2a3251666bf2">Japanese calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_3315ec7a-e0ae-4d00-b2de-63decccbe2cc">
+<dt>jap-Jpan</dt>
+<dd>
+<p id="_e25c477f-c7d5-4f1a-8f2b-2464fa2eb29e">&#21644;&#26278;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_b577cb33-7173-41cb-8b86-24984d8de28d">Japan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_a11f881c-6ced-4b54-86a7-f4ff0e495d9c">Civil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_313de6bc-50b1-4d4f-b28e-411c57a1e1a1">Used in official documents in Japan</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_javanese_javanese_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.37<tab/><tt>javanese:</tt> Javanese calendar</title>
+<table id="_c41b2c28-da56-4669-855d-bf9e60a63e50">
+<name>Table 37&#160;&#8212; Javanese calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_fb2544f3-8596-4fcb-a2e8-98fe490feb3a">javanese</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_01b0b171-9e1f-4996-be2b-6a6df8e411ad">Javanese calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_9e3e583b-2983-4f9d-a1e1-f8f0ae6b0cde">
+<dt>ind-Latn</dt>
+<dd>
+<p id="_d2e71cf4-b03c-4232-ace4-46df0e13b2bd">Kalendar Jawa</p>
+</dd>
+<dt>mal-Arab</dt>
+<dd>
+<p id="_098291f7-e2e3-4c4a-b7cb-00d8bd93d225">&#1700;&#1575;&#1606;&#1696;&#1708;&#1575;&#1604;&#1606; &#1580;&#1575;&#1608;&#1575;&#8217;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_09d310a7-c446-46ba-9228-09796df9e046">Java, Indonesia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_91282a04-9f78-4d43-a49e-5470f290390a">Religious</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_310b2268-4c00-4c8c-9279-89be9fb193dd">Usually used alongside Hijri-qamari</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_jld_julian_date" inline-header="false" obligation="normative">
+<title depth="2">4.38<tab/><tt>jld:</tt> Julian date</title>
+<table id="_6bfcf74d-6230-42f6-adf6-22c5337b088d">
+<name>Table 38&#160;&#8212; Julian date</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_a02567db-4f97-4f4a-8c02-65a3f25631b0">jld</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_7ea3574f-0ebc-4d73-a767-0f4124541ee9">Julian date</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_eb18e8e6-de97-4aec-8112-bcdeacd50653">JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_4c11adb5-22bb-4f26-bc03-f4ae8cf0d111">
+<xref target="IAUGA23Julian">clause=&#8221;Resolution B1&#8221;</xref>
+</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_juche_juche_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.39<tab/><tt>juche:</tt> Juche calendar</title>
+<table id="_58a0a84e-b172-4ad1-bc04-e63fa6c40488">
+<name>Table 39&#160;&#8212; Juche calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_134533c5-8a17-4f65-85df-65ed26bcbe1b">juche</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_fb2f904c-3537-41bc-b5db-590e39fecf47">Juche calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_880a30f1-0e86-49fb-a7ac-b98fe8b1ed06">
+<dt>kor-Hang</dt>
+<dd>
+<p id="_a186d91b-7d3a-426a-8483-6ff19025c690">&#51452;&#52404;&#50672;&#54840;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_ed861079-fec6-4cd8-be21-cb66edf01a7c">North Korea</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_julian_julian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.40<tab/><tt>julian:</tt> Julian calendar</title>
+<table id="_943c6e41-694d-4480-9d3b-4027727431bd">
+<name>Table 40&#160;&#8212; Julian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_179d3b0f-92c0-4bee-bc55-e204ea36e432">julian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_fb6e21ae-7b76-467a-ac2c-2117dc8ada0e">Julian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_b8586eb9-1a50-4546-b2f4-ff0398dc9881">AD (after), BC (before), OS (Old Style)</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_163723f4-10fd-49f7-ba3b-ddf05e07c57a">Historic civil time.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_koki_japanese_imperial_year" inline-header="false" obligation="normative">
+<title depth="2">4.41<tab/><tt>koki:</tt> Japanese Imperial Year</title>
+<table id="_e6ae2ae1-025d-4b0f-86b5-3e89ced660ee">
+<name>Table 41&#160;&#8212; Japanese Imperial Year</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_b159374e-c0b9-40bc-b06f-5b55a75f0178">koki</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_d701e2b2-e974-450b-8cfc-0cb42e5ef120">Japanese Imperial Year</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_58ac4495-c069-4c0e-8ace-0ac060ef1197">
+<dt>jap-Jpan</dt>
+<dd>
+<p id="_9d52976f-c1b6-48d6-aa04-a6371c2e57cb">&#31070;&#27494;&#22825;&#30343;&#21363;&#20301;&#32000;&#20803;; &#30343;&#32000;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_c791f5c8-00a5-471a-987a-b2b143c4d43a">Japanese Imperial Year; K&#333;ki&#8217;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_2c0920c7-8027-4a02-8818-6cf22e682b8f">Linear count of year with epoch from Gregorian year 660BC, month and day according to Gregorian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_kurdish_kurdish_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.42<tab/><tt>kurdish:</tt> Kurdish calendar</title>
+<table id="_e482d9ba-0343-4a1d-afa4-815e0f15b74e">
+<name>Table 42&#160;&#8212; Kurdish calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_1db0533f-3024-40f6-a19a-837b002e8c71">kurdish</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_51e53282-5b2e-440f-a078-bab79232e507">Kurdish calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_c8fb5cdf-4f63-4dd5-806b-13cc133762e7">
+<dt>kur-Arab</dt>
+<dd>
+<p id="_3c8ed582-e437-4dfa-868f-7b9d67c5a724">&#1685;&#1734;&#1688;&#1688;&#1605;&#1742;&#1585;&#1740; &#1705;&#1608;&#1585;&#1583;&#1740;</p>
+</dd>
+<dt>fas-Arab</dt>
+<dd>
+<p id="_82111b22-b0e1-4a56-b839-af2d175a57ef">&#1711;&#1575;&#1607;&#8204;&#1588;&#1605;&#1575;&#1585;&#1740; &#1705;&#1585;&#1583;&#1740;&#8217;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_7fe6d760-6a5b-4830-92d5-809ae7c90cbb">Iran, Iraq, Syria, Turkey.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_lilian_lilian_date" inline-header="false" obligation="normative">
+<title depth="2">4.43<tab/><tt>lilian:</tt> Lilian date</title>
+<table id="_1feac6d9-a870-4b15-8b4d-decb8e645b5e">
+<name>Table 43&#160;&#8212; Lilian date</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_35cd8216-7a9c-4ac8-9db5-9f116655971d">lilian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_da791d92-3fba-41b0-9fcd-dead4df809ee">Lilian date</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_426efd05-0ca7-497c-982d-b2ba3a90b4a5">Count of days of the Gregorian calendar. Linear count by day according to the epoch of Oct 15, 1582.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_lit_lithuanian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.44<tab/><tt>lit:</tt> Lithuanian calendar</title>
+<table id="_4cabeb2b-9c34-4844-8431-f19045c5a498">
+<name>Table 44&#160;&#8212; Lithuanian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_3ff20298-aa9b-4936-94fa-749d6149bafd">lit</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_93688b84-a11f-4613-a16c-5a99e71d829c">Lithuanian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_macedonian_ancient_macedonian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.45<tab/><tt>macedonian:</tt> Ancient Macedonian calendar</title>
+<table id="_3596e0c1-6272-4a87-b69c-255bc07f140a">
+<name>Table 45&#160;&#8212; Ancient Macedonian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_71a1a1a1-ab80-49c7-a591-0b42a02c2e9c">macedonian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_ceacaa26-b946-4d7b-ade1-8ccc46e04ee0">Ancient Macedonian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_malayalam_malayalam_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.46<tab/><tt>malayalam:</tt> Malayalam calendar</title>
+<table id="_23adaeda-7ede-437c-b8b5-089a11335d12">
+<name>Table 46&#160;&#8212; Malayalam calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_d8854d5d-e750-4c26-950d-ed5a999378fb">malayalam</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_9a5cc015-f6d9-4ff6-93f6-1b7bee1c5c2e">Malayalam calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_54364ecd-8f33-444e-957e-8584b822ff32">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_04edd99a-1d97-42b0-aa02-9d84bb1c12be">Kollam Era</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_mars_sol_mars_sol_date" inline-header="false" obligation="normative">
+<title depth="2">4.47<tab/><tt>mars-sol:</tt> Mars Sol Date</title>
+<table id="_e565efce-a809-43dc-b0e2-206cbc3e3adf">
+<name>Table 47&#160;&#8212; Mars Sol Date</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_ac54ddb8-71a1-4f5c-8b5d-b01a06e83f42">mars-sol</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_5bb19351-b881-48e8-9baa-d6a5ecd3fdd0">Mars Sol Date</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_b0cb9dc7-f56d-4887-aefc-8372009226de">Linear count of Martian days according to the epoch of noon Dec 29, 1873.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_maya_maya_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.48<tab/><tt>maya:</tt> Maya calendar</title>
+<table id="_4cd6dd2f-d6f4-474b-834c-4020c92c0459">
+<name>Table 48&#160;&#8212; Maya calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_30418095-a7e7-4130-ad88-477f890a7519">maya</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_4c427959-a260-4248-bbd7-86bbd5ac2fa2">Maya calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_6374c092-46d9-44eb-aa1e-1383b234dcc0">
+<dt>spa-Latn</dt>
+<dd>
+<p id="_a616353a-c7f1-4e25-bf2e-14900ae4f671">calendario maya</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_71e84f08-ebd2-4692-96ef-94fef98d4a2b">pre-Columbian Meso-American calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_c3a7474a-78c5-42e4-86e7-300228013f9c">Central America, predominantly Mexico, Guatemala, Belize.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_melanau_melanau_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.49<tab/><tt>melanau:</tt> Melanau calendar</title>
+<table id="_eeae5d8a-38d8-4c55-8d13-ec20782fdc26">
+<name>Table 49&#160;&#8212; Melanau calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_7aa5e598-1609-45dd-917e-5af8ce647a72">melanau</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_dd525c55-b6bd-4eb2-a028-c6a99d20482b">Melanau calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_a0e462e7-77d5-42c6-9333-be2b89da5e72">
+<dt>mal-Latn</dt>
+<dd>
+<p id="_cf15da1f-28be-42f6-9e4a-8c464207f058">Bulan Melanau</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_minguo_minguo_year_numbering" inline-header="false" obligation="normative">
+<title depth="2">4.50<tab/><tt>minguo:</tt> Minguo year numbering</title>
+<table id="_1c16d0a6-e729-4a59-ae89-ee7f05e0b1c8">
+<name>Table 50&#160;&#8212; Minguo year numbering</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_5ff2a126-2b62-42e3-9c33-9b3922171348">minguo</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2f279183-9acf-401e-901d-41f16a855c9c">Minguo year numbering</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_b491b80e-2e95-4595-aa58-77d2c6c0a233">
+<dt>zho-Hant</dt>
+<dd>
+<p id="_7095f8d4-371f-4522-a020-e6c634951ca3">&#27665;&#22283;&#32000;&#20803;; &#27665;&#22283;&#32000;&#24180;</p>
+</dd>
+<dt>zho-Hans</dt>
+<dd>
+<p id="_24141a7e-dfa7-46ed-b7d5-2a8baf2718b7">&#27665;&#22269;&#32426;&#20803;; &#27665;&#22269;&#32426;&#24180;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_bc89ead3-b2f4-41d8-8da9-ec82e5743fe0">Linear count of year with epoch from Gregorian year 1912, month and day according to Gregorian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_e798296e-4f57-40c6-9464-7f8849b2abf0">China</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_fe58c127-ec12-4458-b2b9-d01db3625b32">From January 1, 1912 to September 30, 1949.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_mjd_modified_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.51<tab/><tt>mjd:</tt> Modified Julian day</title>
+<table id="_c3627713-2f3d-4157-8bc0-82acc340745d">
+<name>Table 51&#160;&#8212; Modified Julian day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_59243fc8-5f62-4587-8fde-289b94d6f307">mjd</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_c41063d6-eadd-4da7-9be4-a883c9945af5">Modified Julian day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_c14ef98b-ff4c-434c-97e9-db2b40ac1814">Modified JD, MJD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_2f665bcf-4628-4e46-a94c-37150c358f0c">
+<xref target="IAUGA23Julian">clause=&#8221;Resolution B1&#8221;</xref>
+</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_mongol_mongol_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.52<tab/><tt>mongol:</tt> Mongol calendar</title>
+<table id="_0cf2eafd-d19d-4413-8721-470f031bc561">
+<name>Table 52&#160;&#8212; Mongol calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_420e0153-836a-4127-8cc6-2708fa8565c6">mongol</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_ad8e41ce-7bb2-4a7d-8020-c581bce2848a">Mongol calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_da63e1a1-4fa9-4b06-a782-d0a7420662c4">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_a400d656-119d-46c2-8600-88468166d8f5">Type: lunisolar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_muisca_muisca_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.53<tab/><tt>muisca:</tt> Muisca calendar</title>
+<table id="_8c6a4716-71d8-4d9e-9773-68bfd5ab0e52">
+<name>Table 53&#160;&#8212; Muisca calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_ca62c2af-e798-445d-893a-e76bbf17db2b">muisca</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_3d3418aa-5326-4c0b-935a-d194408c0edd">Muisca calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_6651cbc0-c669-4d1a-9107-2a1ef1e01bdf">Type: lunisolar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_nan_nanakshahi" inline-header="false" obligation="normative">
+<title depth="2">4.54<tab/><tt>nan:</tt> Nanakshahi</title>
+<table id="_cbbb518a-3d14-4774-a85f-66b26e22b443">
+<name>Table 54&#160;&#8212; Nanakshahi</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_21906eab-d393-4dad-ac67-f75005fec16c">nan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_34f63cb7-8e50-4810-8597-451227680be2">Nanakshahi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_8e10d8af-8905-49e9-82f9-10230ffb7189">
+<dt>pan-Devi</dt>
+<dd>
+<p id="_71bf882f-a7ca-47b9-852d-f776a1519185">&#2600;&#2622;&#2600;&#2581;&#2616;&#2620;&#2622;&#2617;&#2624;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_nepal_nepal_sambat" inline-header="false" obligation="normative">
+<title depth="2">4.55<tab/><tt>nepal:</tt> Nepal Sambat</title>
+<table id="_4045f537-8084-41ad-9664-cba44b4ec1e4">
+<name>Table 55&#160;&#8212; Nepal Sambat</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_2e66b9cf-3a0c-448c-91b4-668d8e2538f7">nepal</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_208cc504-85d3-4ac7-8a4d-2d1b12ac4efd">Nepal Sambat</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_939acac4-28bc-4a46-bee7-26f22f1ddb04">
+<dt>nep-Devi</dt>
+<dd>
+<p id="_561fab37-639f-437a-99d7-82d283af80f4">&#2344;&#2375;&#2346;&#2366;&#2354; &#2360;&#2350;&#2381;&#2348;&#2340;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_db91b44f-5074-470f-b2ec-b283012d995b">Type: lunar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_pawukon_pawukon_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.56<tab/><tt>pawukon:</tt> Pawukon calendar</title>
+<table id="_111f3705-60cb-4c63-b9c4-d64a8a0bebf6">
+<name>Table 56&#160;&#8212; Pawukon calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_e18cef7e-6aba-41e6-a7b2-f6ac181fe16d">pawukon</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_106a9800-93e9-4420-9ffd-8ba2667ee6cc">Pawukon calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_ee13c3bd-bf60-48f5-b07d-cb689e661bb3">
+<dt>ind-Latn</dt>
+<dd>
+<p id="_98f4f480-92a0-4a34-9a06-fe8eadf8346e">Wuku</p>
+</dd>
+<dt>mal-Arab</dt>
+<dd>
+<p id="_6054cd16-ba2b-4e2e-8244-0a87bb209421">&#1608;&#1608;&#1603;&#1608;&#8217;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_06910bec-d316-46c4-97a5-b55891bd80bc">Bali, Indonesia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_1d9f3ea0-2355-4a44-9674-a64f2a85879b">Religious</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_328e7b82-d4ff-4034-9173-af4f2ad1277b">In use in Bali</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_rad_rata_die" inline-header="false" obligation="normative">
+<title depth="2">4.57<tab/><tt>rad:</tt> Rata Die</title>
+<table id="_77c59c54-06f4-430d-82af-876895fd3677">
+<name>Table 57&#160;&#8212; Rata Die</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_d68e4f6c-ae80-4462-93fe-409ddd10eb96">rad</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_ff6b34da-30f2-4683-adbd-aaeee0c1284c">Rata Die</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_540b424b-7d69-40a1-a411-7d49784502cd">R.D.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_85fcd221-279c-477c-b85e-5860edddce26">Count of days of the Common Era. Linear count by day according to the epoch of Jan 1, 1 proleptic Gregorian calendar.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_rjd_reduced_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.58<tab/><tt>rjd:</tt> Reduced Julian day</title>
+<table id="_4b18bfc1-c09e-42fd-92d0-62bf3cfc3513">
+<name>Table 58&#160;&#8212; Reduced Julian day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_1265767f-6efa-4de9-8994-ba3b31e1c334">rjd</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_53832de1-0e70-4000-ad9a-31cce90236ce">Reduced Julian day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_2300ee7a-3e93-4744-b1f4-ec3d87fdaa58">Reduced JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_4ffda97f-6105-4c38-8ce3-f7bb89721fb2">Linear count by day according to the epoch of noon Nov 16, 1858.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_9c835426-cd64-4868-b446-04ca3c4e8b8f">Introduced by SAO in 1957.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_rumi_rumi_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.59<tab/><tt>rumi:</tt> Rumi calendar</title>
+<table id="_a24114d6-4478-4b1a-b7cd-2f580cd6799a">
+<name>Table 59&#160;&#8212; Rumi calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_bf91b625-7f4a-460c-b7ca-9fc77afdd166">rumi</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_b8d00386-9113-4052-99bc-53247225773b">Rumi calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_2118f7b4-173d-4e61-a886-505e2b9331a0">solar Ottoman calendar based on the Julian calendar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_somali_somali_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.60<tab/><tt>somali:</tt> Somali calendar</title>
+<table id="_3aae1edf-7ff5-4cb5-9937-9f7fc27075d0">
+<name>Table 60&#160;&#8212; Somali calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_9a99ea4f-ffa2-404b-9f72-e684b67e767c">somali</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_a762085b-49da-46a3-8840-0a4f3e8dbae1">Somali calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_f7dab32a-eafc-40c6-96dc-249490587731">
+<dt>som-Latn</dt>
+<dd>
+<p id="_6c38b01e-dd8f-4d6b-bbfa-2b6ace4f5a3c">Soomaali tiro ammin</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_f67bcc74-40ab-419b-a43e-7a29e61b2766">Somalia</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_spanish_spanish" inline-header="false" obligation="normative">
+<title depth="2">4.61<tab/><tt>spanish:</tt> Spanish</title>
+<table id="_070fc237-b428-4757-ab15-0f11efb3565e">
+<name>Table 61&#160;&#8212; Spanish</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_38e99470-6b60-4341-ae55-0a79757806ee">spanish</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2d2e9b3d-855c-48b0-bd8f-e72d6efe6f73">Spanish</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_464e367f-f335-4930-90ce-cf7b48701379">Presumably a colonial or pre-colonial era calendar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_thai_lunar_thai_lunar_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.62<tab/><tt>thai-lunar:</tt> Thai lunar calendar</title>
+<table id="_6607f8a5-9453-4ed6-a777-41d79b9387d6">
+<name>Table 62&#160;&#8212; Thai lunar calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_a0448a95-7ff2-43f1-a33c-5ab5d8e9e587">thai-lunar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_f186e936-7746-40e6-a483-3ab312dc7bdf">Thai lunar calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_02d2b930-4b43-4a64-87d5-67dafae4a679">
+<dt>tha-Thai</dt>
+<dd>
+<p id="_23e0b58f-23ee-42e5-aae5-21d2bd2917f5">&#3611;&#3599;&#3636;&#3607;&#3636;&#3609;&#3592;&#3633;&#3609;&#3607;&#3619;&#3588;&#3605;&#3636;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_f73742dc-ff7c-4250-b79d-ba6b8b14eb62">Tai calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_929d301e-18f9-4015-a27d-5d8045069d44">Thailand</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_6d7f3e2e-d499-4fa9-b680-91ab4ae1bb40">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_5160ef87-0231-4337-b89e-b278cf1bf39d">Type: lunar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_tamil_tamil_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.63<tab/><tt>tamil:</tt> Tamil calendar</title>
+<table id="_641dbd7f-653d-4d71-9df0-152f4114db37">
+<name>Table 63&#160;&#8212; Tamil calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_66d11689-90eb-427b-9ee0-acb2d09a398e">tamil</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_9c2e2568-c16f-432d-9cdf-8f960134b4ab">Tamil calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_709e1afc-ac7f-4855-ab83-1913f77b27dc">
+<dt>tam-Taml</dt>
+<dd>
+<p id="_1e5d25fb-b24d-4b4b-8246-a44cb5e6125f">&#2980;&#2990;&#3007;&#2996;&#3021; &#2990;&#3006;&#2980;&#2969;&#3021;&#2965;&#2995;&#3021;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_thai_solar_thai_solar_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.64<tab/><tt>thai-solar:</tt> Thai solar calendar</title>
+<table id="_a4f863ef-e400-4a22-b865-95b3daec0147">
+<name>Table 64&#160;&#8212; Thai solar calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_0c44fab8-76e9-40fa-b920-de8bc1e9000e">thai-solar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_2d801841-b7ef-4db1-b1a9-63aafd7147dc">Thai solar calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_94cc1df7-7a91-430a-b1e1-54d87139c38a">
+<dt>tha-Thai</dt>
+<dd>
+<p id="_7f69d762-bcd0-4e54-aa8b-f08178c10fd1">&#3611;&#3599;&#3636;&#3607;&#3636;&#3609;&#3626;&#3640;&#3619;&#3636;&#3618;&#3588;&#3605;&#3636;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_edb5236e-e66d-4081-9c73-683eb4323b7b">Thailand</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_a0179c98-0322-4ea9-9c5a-87ee39339760">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_cec3ad13-a3bf-4e4f-a789-c2266128e139">Type: solar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_tibetan_phugpa_tibetan_calendar_phugpa_calculations" inline-header="false" obligation="normative">
+<title depth="2">4.65<tab/><tt>tibetan-phugpa:</tt> Tibetan calendar (Phugpa calculations)</title>
+<table id="_c65b4dc1-071d-4052-874d-da19cebc4939">
+<name>Table 65&#160;&#8212; Tibetan calendar (Phugpa calculations)</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_cff624a0-b881-4b24-a78f-fac5bf841b57">tibetan-phugpa</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_afd1f4d0-beeb-417c-a434-9a1da189c6bc">Tibetan calendar (Phugpa calculations)</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_e2a43bcc-e0f5-4a7c-a01f-533ad6ebe688">
+<dt>bod-Tibt</dt>
+<dd>
+<p id="_04e90adf-35ab-4d9e-a944-eac109f9841c">&#3925;&#3956;&#3906;&#3851;&#3939;&#3956;&#3906;&#3942;&#3851;&#3939;&#3964;&#3851;&#3920;&#3964;&#3853;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_f4adc97c-6d82-4bdb-9c0a-e74e17eb9d21">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_5232af70-4d31-4e3f-a4f4-01fb6729f2fa">Type: lunisolar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_tibetan_tsurphu_tibetan_calendar_tsurphu_calculations" inline-header="false" obligation="normative">
+<title depth="2">4.66<tab/><tt>tibetan-tsurphu:</tt> Tibetan calendar (Tsurphu calculations)</title>
+<table id="_8a1cd438-610d-46b3-ac12-3b47cb214f0f">
+<name>Table 66&#160;&#8212; Tibetan calendar (Tsurphu calculations)</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_7a1f30f7-d634-4323-a4cc-6851bde367d5">tibetan-tsurphu</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_277ca5e5-ab64-4ea4-9ab5-af1572bdf4b5">Tibetan calendar (Tsurphu calculations)</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_7140c7fe-66f7-4ecb-b36b-06db672343b7">
+<dt>bod-Tibt</dt>
+<dd>
+<p id="_eafa6a05-69c6-4127-b057-1696e6d6f0fe">&#3928;&#3930;&#3956;&#3938;&#3851;&#3925;&#3956;&#3936;&#3954;&#3851;&#3939;&#3964;&#3851;&#3920;&#3964;&#3853;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_a23b77c8-c30b-4988-8b5e-747b4b4af944">Cultural</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_ee51a436-de6e-4dc0-9b5c-11fcc90c41b7">Type: lunisolar</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_tjd_truncated_julian_day" inline-header="false" obligation="normative">
+<title depth="2">4.67<tab/><tt>tjd:</tt> Truncated Julian day</title>
+<table id="_397ad2ba-137b-499b-a859-2f00c4dfeeb3">
+<name>Table 67&#160;&#8212; Truncated Julian day</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_4d00af36-2c52-40d0-9d80-5d084309cd57">tjd</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_e1a8b56a-2e17-46c5-a105-020dbf8fcc62">Truncated Julian day</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_d5f5ccc2-6f0a-4f9e-aa54-d43f785990ed">Truncated JD</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_e9ffa0d4-4068-4693-8ce2-5a23ea9d098e">Linear count by day according to the epoch of 0h May 24, 1968.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_55216732-6130-47bc-a9f7-fe54d6f6a1d4">Introduced by the IAU in 1955.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_unix_unix_time" inline-header="false" obligation="normative">
+<title depth="2">4.68<tab/><tt>unix:</tt> Unix time</title>
+<table id="_de2cee49-19c9-4409-bdeb-d9ce83c75137">
+<name>Table 68&#160;&#8212; Unix time</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_0d73ff18-613f-40a2-a25c-c629a23a771b">unix</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_5a42258a-d4b1-47dd-80c2-beb6df15ba1e">Unix time</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left">
+<p id="_97c880b3-d645-4b44-b8b9-085b5ba4100a">Linear count of seconds according to the epoch of 0h Jan 1, 1970.</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_18df7249-c1ab-4e20-80fb-c4c1744ff211">Similar to POSIX time.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_vaisnava_vaisnava_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.69<tab/><tt>vaisnava:</tt> Vaisnava calendar</title>
+<table id="_c6925057-f4e7-40ef-8aa7-9ce4635769d8">
+<name>Table 69&#160;&#8212; Vaisnava calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_b063ec67-9d49-4c79-8590-e58331f11aa4">vaisnava</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_87f38c86-923d-49bf-8f81-b39f6deb848b">Vaisnava calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_74971d7c-31ae-4a82-9cb1-ec4734c48f60">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_dd8459fe-ced5-4360-a0fb-bd0a20e65ccb">Gaurabda calendar; Krishna consciousness calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_7e419bc2-9324-4127-9efb-3bc187a35cff">Braj region of India</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left">
+<p id="_6426d383-7163-4def-940d-715dfba8532e">Religious</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_5cade018-5e75-4696-bfc2-932ec3110fab">Sometimes used as civil calendar.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_vikrami_vikram_sambat" inline-header="false" obligation="normative">
+<title depth="2">4.70<tab/><tt>vikrami:</tt> Vikram Sambat</title>
+<table id="_dc89f120-d8ef-464a-b9fb-8bd69d2559d3">
+<name>Table 70&#160;&#8212; Vikram Sambat</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_b4092173-af31-48f6-bf71-842b5eaf6439">vikrami</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_02703d61-3d7a-48f8-b86b-224fbcee604d">Vikram Sambat</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_64b0f072-36da-4dde-8894-4c4901f0add8">
+<dt>nep-Devi</dt>
+<dd>
+<p id="_7ad25a00-6f6d-4e62-a095-aa70b9ad3fe8">&#2357;&#2367;&#2325;&#2381;&#2352;&#2350; &#2360;&#2350;&#2381;&#2357;&#2340;&#2381;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_3149e5de-1e3f-4cdd-8b23-55565a14c3ee">Vikrami calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left">
+<p id="_fb4200c7-3316-4cdc-a3f1-a5c4890020b6">VS</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_daf6d794-42d7-4aea-b004-df7c3ec4001a">Nepal</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_vira_vira_nirvana_sambat" inline-header="false" obligation="normative">
+<title depth="2">4.71<tab/><tt>vira:</tt> Vira Nirvana Sambat</title>
+<table id="_7e3ebbd2-c3e0-4c40-81a5-e0cb56c3cb83">
+<name>Table 71&#160;&#8212; Vira Nirvana Sambat</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_46519e65-e664-4a25-890e-0589869a3e88">vira</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_820ec0cc-86f8-4a89-b0b8-1e21a982b050">Vira Nirvana Sambat</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_ba4a74ec-024b-456c-9d18-199b82d9e54f">
+<dt>eng-Latn</dt>
+<dd>
+<p id="_96ec8dd0-f1af-43aa-aa12-40f179c2755d">Jain calendar</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_338d804f-6048-49c7-8448-9c80e1fa1c59">India</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_776427e5-4195-4665-8b29-6b5166ab14a1">Use for civil and religious purposes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_yoruba_yoruba_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.72<tab/><tt>yoruba:</tt> Yoruba calendar</title>
+<table id="_fbbc10aa-9b3b-4124-9d71-a9733da69c94">
+<name>Table 72&#160;&#8212; Yoruba calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_679445e4-2caf-4d4f-8678-4d4cebeacd2d">yoruba</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_82750a82-47a3-4a34-85e5-46c3570cdf05">Yoruba calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_cf4522c8-51ba-4046-8e97-505a4d05a460">
+<dt>yor-Latn</dt>
+<dd>
+<p id="_e8e5cb3d-0793-4481-acdd-21dcddc98d49">K&#7762;J&#7762;D&#193;</p>
+</dd>
+<dt>eng-Latn</dt>
+<dd>
+<p id="_7a7acc2e-5231-4692-8fd5-83baa1831843">Kojoda</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left"/>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_zoroastrian_zoroastrian_calendar" inline-header="false" obligation="normative">
+<title depth="2">4.73<tab/><tt>zoroastrian:</tt> Zoroastrian calendar</title>
+<table id="_125008d8-ef24-40fb-a5e9-5ba7eaa83e38">
+<name>Table 73&#160;&#8212; Zoroastrian calendar</name>
+<tbody>
+<tr>
+<th valign="top" align="left">Calendar system code</th>
+<td valign="top" align="left">
+<p id="_eb3004f4-b1d2-4fa6-917a-5614f7c8c93e">zoroastrian</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">English name</th>
+<td valign="top" align="left">
+<p id="_55e69f32-cc31-47ab-a80f-3332c302145f">Zoroastrian calendar</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Names in other languages</th>
+<td valign="top" align="left">
+<dl id="_e400a1c9-e036-4804-b15e-3af682784aec">
+<dt>fas-Arab</dt>
+<dd>
+<p id="_4447d16f-0489-41a8-89bc-003480299394">&#1711;&#1575;&#1607;&#8204;&#1588;&#1605;&#1575;&#1585;&#1740; &#1575;&#1608;&#1587;&#1578;&#1575;&#1740;&#1740; &#1606;&#1608;</p>
+</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Abbreviation</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Specification</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Usage populations</th>
+<td valign="top" align="left">
+<p id="_9010f33c-a11e-4429-9ae2-427841796044">Iran, Azerbaijan</p>
+</td>
+</tr>
+<tr>
+<th valign="top" align="left">Application</th>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<th valign="top" align="left">Remarks</th>
+<td valign="top" align="left">
+<p id="_f02cc6f8-a8fa-4c03-a6d5-cf6c72143e31">Used in Zoroastrian religious publications.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</clause></clause>
+</sections><bibliography><references id="_normative_references" normative="true" obligation="informative" displayorder="3">
+<title depth="1">2<tab/>Normative references</title><p id="_a22cfea2-06ee-4359-be41-62d33275d458">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+<bibitem id="ISO34300" type="standard">
+
+<docidentifier type="ISO">ISO 34300</docidentifier>
+<docnumber>34300</docnumber>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+</bibitem>
+</references><references id="_bibliography" normative="false" obligation="informative" displayorder="6"><title depth="1">Bibliography</title><bibitem id="ISO34000" type="standard">  <fetched>2021-09-15</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Date and time</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Concepts and vocabulary</title>  <title type="main" format="text/plain" language="en" script="Latn">Date and time&#8201;&#8212;&#8201;Concepts and vocabulary</title>  <uri type="src">https://www.iso.org/standard/77019.html</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/07/70/77019.detail.rss</uri>  <docidentifier type="ISO">ISO/DIS 34000</docidentifier>  <docidentifier type="URN">URN urn:iso:std:iso-dis:34000:stage-40.00:ed-1:en</docidentifier>  <docnumber>34000</docnumber>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <note type="Unpublished-Status">
+                          <p id="_d211955c-ba62-47d2-b025-20cb05028f48">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p></note><language>en</language>  <script>Latn</script>  <status>    <stage>40</stage>    <substage>00</substage>  </status>  <copyright>    <from>unknown</from>    <owner>      <organization>        <name>ISO/DIS</name>      </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem><bibitem id="CCSDSTC">
+  <formattedref format="application/x-isodoc+xml">CCSDS RECOMMENDED STANDARD 301.0-B-4. <em>Recommendation for Space Data System Standards: TIME CODE FORMATS</em></formattedref>
+  <docidentifier type="CC">CC CCSDS 301.0-B-4</docidentifier>
+  <docnumber>301.0-B-4</docnumber>
+</bibitem><bibitem id="AST">
+  <formattedref format="application/x-isodoc+xml">CASSINI, Jacques. <em>Tables Astronomiques</em>. 1740.</formattedref>
+  <docidentifier>CASSINI</docidentifier>
+  
+</bibitem><bibitem id="BORANA">
+  <formattedref format="application/x-isodoc+xml">DOYLE, Laurance R. <em>The Borana Calendar REINTERPRETED</em>. In: Current Anthropology. University of California, Santa Cruz.</formattedref>
+  <docidentifier>DOYLE</docidentifier>
+  
+</bibitem><bibitem id="COPTIC">
+  <formattedref format="application/x-isodoc+xml">KOSACK, Wolfgang. <em>Der koptische Heiligenkalender: Deutsch&#8201;&#8212;&#8201;Koptisch&#8201;&#8212;&#8201;Arabisch nach den besten Quellen neu bearbeitet und vollst&#228;ndig herausgegeben mit Index Sanctorum koptischer Heiliger, Index der Namen auf Koptisch, Koptische Patriarchenliste, Geografische Liste.</em> Verlag Christoph Brunner. 2012.</formattedref>
+  <docidentifier>Der koptische Heiligenkalender</docidentifier>
+  
+</bibitem><bibitem id="AKAN">
+  <formattedref format="application/x-isodoc+xml">BARTLE, Philip F.W.. <em>Forty Days; The Akan Calendar</em>. Africa: Journal of the International African Institute. Edinburgh University Press. 48 (1): 80&#8211;84.</formattedref>
+  <docidentifier>Forty Days; The Akan Calendar</docidentifier>
+  
+</bibitem><bibitem id="ARMENIAN">
+  <formattedref format="application/x-isodoc+xml">GIPPERT, Jost. <em>Old Armenian and Caucasian Calendar Systems</em>. In: The Annual of The Society for The Study of Caucasia, 1, 1989, 3-12.</formattedref>
+  <docidentifier>GIPPERT</docidentifier>
+  
+</bibitem><bibitem id="BERBER">
+  <formattedref format="application/x-isodoc+xml">IDRIS, H. R., <em>F&#234;tes chr&#233;tiennes c&#233;l&#233;br&#233;es en Ifr&#238;qiya &#224; l&#8217;&#233;poque ziride</em>. In: Revue Africaine, 98 (1954), pp. 261&#8211;276.</formattedref>
+  <docidentifier>IDRIS</docidentifier>
+  
+</bibitem><bibitem id="ASSYRIAN">
+  <formattedref format="application/x-isodoc+xml">PAULISSIAN, Robert. <em>Tasheeta d&#8217;zoyakha d&#8217;rish sheta Khatta d&#8217;Atoraye w&#8217;Bawlaye (Part II)</em>. In: Journal of Assyrian Academic Studies, 13 (2): 35. 1999.</formattedref>
+  <docidentifier>PAULISSIAN</docidentifier>
+  
+</bibitem><bibitem id="AZTEC">
+  <formattedref format="application/x-isodoc+xml">TENA, Rafael. <em>The Mexica Calendar and the Chronography</em>. In: INAH-CONACULTA. 2008.</formattedref>
+  <docidentifier>TENA</docidentifier>
+  
+</bibitem> </references></bibliography>
+</iso-standard>

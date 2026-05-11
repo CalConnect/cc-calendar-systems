@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="presentation" version="1.9.4">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Date and time&#8201;&#8212;&#8201;Codes for calendar systems&#8201;&#8212;&#8201;Guidelines for maintenance</title>
+<title language="en" format="text/plain" type="title-intro">Date and time</title>
+<title language="en" format="text/plain" type="title-main">Codes for calendar systems</title>
+<title language="en" format="text/plain" type="title-part">Guidelines for maintenance</title>
+<title language="fr" format="text/plain" type="main">Date et heure&#8201;&#8212;&#8201;Codes pour les syst&#232;mes de calendrier&#8201;&#8212;&#8201;Lignes directrices pour la maintenance</title>
+<title language="fr" format="text/plain" type="title-intro">Date et heure</title>
+<title language="fr" format="text/plain" type="title-main">Codes pour les syst&#232;mes de calendrier</title>
+<title language="fr" format="text/plain" type="title-part">Lignes directrices pour la maintenance</title>
+<docidentifier type="ISO">ISO/WD 34300-A</docidentifier><docidentifier type="iso-with-lang">ISO/WD 34300-A(E)</docidentifier><docidentifier type="iso-reference">ISO/WD 34300-A:2021(E)</docidentifier>
+
+
+<docnumber>34300</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</contributor>
+<edition>1</edition>
+
+<language current="true">en</language>
+<script current="true">Latn</script>
+<status>
+<stage abbreviation="WD" language="">20</stage>
+<substage language="">00</substage>
+</status>
+<copyright>
+<from>2021</from>
+<owner>
+<organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">international-standard</doctype>
+<editorialgroup>
+<technical-committee number="154" type="TC">Processes, data elements and documents in commerce, industry and administration</technical-committee>
+<subcommittee/>
+<workgroup number="5" type="WG">Date and time</workgroup>
+<secretariat>SAC</secretariat>
+</editorialgroup>
+<structuredidentifier>
+<project-number part="A">ISO 34300</project-number>
+</structuredidentifier>
+<stagename>Working draft</stagename>
+</ext>
+</bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en"><p>ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+<ul>
+<li> <p>ISO Online browsing platform: available at
+  <link target="http://www.iso.org/obp"/></p> </li>
+<li> <p>IEC Electropedia: available at
+<link target="http://www.electropedia.org"/>
+</p> </li> </ul>
+</localized-string><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Abstract</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="deflist" language="en">Definition List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition.danger" language="en">Danger</localized-string><localized-string key="admonition.warning" language="en">Warning</localized-string><localized-string key="admonition.caution" language="en">Caution</localized-string><localized-string key="admonition.important" language="en">Important</localized-string><localized-string key="admonition.safety_precautions" language="en">Safety Precautions</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="all_rights_reserved" language="en">All rights reserved</localized-string><localized-string key="reference_number" language="en">Reference Number</localized-string><localized-string key="price_based_on" language="en">Price based on % pages</localized-string><localized-string key="under_preparation" language="en">Under preparation. (Stage at the time of publication %).</localized-string><localized-string key="date" language="en">Date</localized-string><localized-string key="index" language="en">Index</localized-string><localized-string key="see" language="en">see</localized-string><localized-string key="see_also" language="en">see also</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <title depth="1">COPYRIGHT PROTECTED DOCUMENT</title>
+    <p id="boilerplate-year">
+    &#169; ISO 2021
+  </p>
+
+  <p id="boilerplate-message">
+    All rights
+reserved. Unless otherwise specified, no part of this publication may be
+reproduced or utilized otherwise in any form or by any means, electronic or
+mechanical, including photocopying, or posting on the internet or an intranet,
+without prior written permission. Permission can be requested from either ISO
+at the address below or ISO&#8217;s member body in the country of the requester.
+  </p>
+
+  <p id="boilerplate-address" align="left">
+    ISO copyright office<br/>
+    Ch. de Blandonnet 8 &#8226; CP 401<br/>
+    CH-1214 Vernier, Geneva, Switzerland<br/>
+    Tel.&#160;&#160;+ 41 22 749 01 11<br/>
+    Fax&#160;&#160;+ 41 22 749 09 47<br/>
+    Email: copyright@iso.org<br/>
+    Website: www.iso.org
+  </p>
+    <p id="boilerplate-place">
+    Published in Switzerland
+  </p>
+</clause>
+  </copyright-statement>
+
+  
+  <license-statement>
+    <clause>
+<title depth="1">Warning for WDs and CDs</title>
+
+<p id="_e07f0faa-a83e-413e-8fe8-2fded02b30b8">This
+document is not an ISO International Standard. It is distributed for review and
+comment. It is subject to change without notice and may not be referred to as
+an International Standard.</p>
+
+<p id="_09638eac-6cb9-44b7-a683-6aa3b758e5b9">Recipients
+of this draft are invited to submit, with their comments, notification of any
+relevant patent rights of which they are aware and to provide supporting
+documentation.</p>
+</clause>
+  </license-statement>
+
+</boilerplate>
+<preface><foreword id="_60bb8f4c-31fa-40b7-afa5-94a4237d0f44" obligation="informative" displayorder="1"><title>Foreword</title><p id="_9b743435-521d-4154-96d1-2d38cb229a58">ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+<p id="_19ce6521-3a1b-4da5-8a09-2a88c0d42216">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+<p id="_6c3e404a-dffb-4b48-92c0-12447b2c2b02">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+<p id="_cc8685f9-2859-44cb-96b5-4242a15bd504">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+<p id="_9c15f026-198f-4f32-a142-1e834c7ee306">For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#8217;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p>
+<p id="_b1c9f752-5584-453d-9708-1c0618b6d91e">This document was prepared by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>.</p>
+<p id="_f2db1944-ac29-4788-aa03-bc686b61a9b4">This document is amongst a series of International Standards dealing with the conversion of systems of writing produced by Technical Committee ISO/TC 154, <em>Processes, data elements and documents in commerce, industry and administration</em>, WG 5 <em>Date and time</em>.</p>
+<p id="_3fded41b-84b5-426b-abe1-0c30b5ed4b6b">This is the first edition of this document.</p></foreword></preface><sections>
+<clause id="_scope" type="scope" inline-header="false" obligation="normative" displayorder="2">
+<title depth="1">1<tab/>Scope</title>
+<p id="_3677e24f-7de7-4d7f-984b-24f98ea71265">This document provides guidelines for the maintenance of ISO 34300 codes
+for the ISO 34300 registration authority.</p>
+</clause>
+
+<terms id="_terms_and_definitions" obligation="normative" displayorder="4"><title depth="1">3<tab/>Terms and definitions</title><p id="_7e5404b1-092d-484f-b388-bdddd7e0a69f">For the purposes of this document, 
+    the following terms and definitions apply.</p>
+<p id="_660d8d01-6b19-4910-b1b8-b2acbb36e49e">ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+<ul id="_0c912418-04e3-4b11-97e6-5f3756406afc">
+<li> <p id="_49df0326-a9d6-48ba-8f80-7caf59d9665e">ISO Online browsing platform: available at
+  <link target="http://www.iso.org/obp"/></p> </li>
+<li> <p id="_9e00a865-841e-45b5-8a7e-baced6777737">IEC Electropedia: available at
+<link target="http://www.electropedia.org"/>
+</p> </li> </ul>
+<term id="term-code"><name>3.1</name><preferred>code</preferred><definition><p id="_2e68a29c-638e-40d5-8bf0-e7b2a242fd6c">data representation in different forms according to a pre-established set of
+rules</p></definition>
+<termsource status="identical">
+<origin bibitemid="ISO639-2" type="inline" citeas="ISO 639-2:1998">ISO 639-2:1998</origin>
+</termsource></term>
+<term id="term-registration-item"><name>3.2</name>
+<preferred>registration item</preferred>
+<definition><p id="_d55239e8-f685-4914-8f28-bbb754351a15">data element in a register</p></definition>
+</term>
+<term id="term-registration-code"><name>3.3</name>
+<preferred>registration code</preferred>
+<definition><p id="_8a4deb0e-3402-403e-a610-323f8cbe6d28">code that identifies a <em>registration item</em> (<xref target="term-registration-item">3.2</xref>) within a register</p></definition>
+</term>
+<term id="term-iso-34300-registration-authority"><name>3.4</name><preferred>ISO 34300 registration authority</preferred>
+<admitted>ISO 34300/RA</admitted>
+
+<definition><p id="_fa17503a-6b98-4ff8-9d63-ffaf4f9d4b0c">registration authority that manages the <em>ISO 34300 register</em> (<xref target="term-iso-34300-register">3.5</xref>)</p></definition></term>
+<term id="term-iso-34300-register"><name>3.5</name>
+<preferred>ISO 34300 register</preferred>
+<definition><p id="_11e6ccd0-fe6e-483c-a4da-fdad7da362d5">register containing <em>ISO 34300 registration items</em> (<xref target="term-iso-34300-registration-item">3.7</xref>)</p></definition>
+</term>
+<term id="term-iso-34300-advisory-group"><name>3.6</name><preferred>ISO 34300 advisory group</preferred>
+<admitted>ISO 34300/AG</admitted>
+
+<definition><p id="_c18c5ad8-4d39-4901-9558-e318b58fd4b8">group that provides advice to the <em>ISO 34300 registration authority</em> (<xref target="term-iso-34300-registration-authority">3.4</xref>) on the
+contents of the ISO 34300 register</p></definition></term>
+<term id="term-iso-34300-registration-item"><name>3.7</name>
+<preferred>ISO 34300 registration item</preferred>
+<definition><p id="_8873365a-3021-4c49-9894-f8d0a49c768d">registration item identified by a registration code unique to the
+ISO 34300 register</p></definition>
+</term></terms>
+<clause id="_iso_34300_registration_authority_2" inline-header="false" obligation="normative" displayorder="5">
+<title depth="1">4<tab/>ISO 34300 registration authority</title>
+<p id="_0fd73196-f575-4ae7-a1ee-fca1fe1f49e5">Unresolved directive in iso-34300-a.adoc&#8201;&#8212;&#8201;include::/Users/mulgogi/src/calconnect/csd-calendar-systems/sources/a1-1-content.adoc[leveloffset=-1]</p>
+</clause>
+</sections><bibliography><references id="_normative_references" normative="true" obligation="informative" displayorder="3"><title depth="1">2<tab/>Normative references</title><p id="_6f85fb6b-5296-4cb3-ae7c-c75056f11b0d">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p> <bibitem id="ISO19135-1" type="standard">  <fetched>2021-09-15</fetched>  <title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>  <title type="title-main" format="text/plain" language="en" script="Latn">Procedures for item registration</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Fundamentals</title>  <title type="main" format="text/plain" language="en" script="Latn">Geographic information&#8201;&#8212;&#8201;Procedures for item registration&#8201;&#8212;&#8201;Part 1: Fundamentals</title>  <uri type="src">https://www.iso.org/standard/54721.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:54721:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/05/47/54721.detail.rss</uri>  <docidentifier type="ISO">ISO 19135-1:2015</docidentifier>  <docidentifier type="URN">URN urn:iso:std:iso:19135:-1:stage-90.92:ed-1:en</docidentifier>  <docnumber>19135</docnumber>  <date type="published">    <on>2015-10</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">ISO 19135-1:2015 specifies procedures to be followed in establishing, maintaining, and publishing registers of unique, unambiguous, and permanent identifiers and meanings that are assigned to items of geographic information. In order to accomplish this purpose, ISO 19135-1:2015 specifies elements that are necessary to manage the registration of these items.</abstract>  <status>    <stage>90</stage>    <substage>92</substage>  </status>  <copyright>    <from>2015</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 19135:2005</formattedref>    </bibitem>  </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/AWI 19135-1</formattedref>    </bibitem>  </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 19135-1:2015/Amd 1:2021</formattedref>      <date type="circulated">        <on>2021-07-19</on>      </date>    </bibitem>  </relation>  <place>Geneva</place></bibitem></references><references id="_bibliography" normative="false" obligation="informative" displayorder="6"><title depth="1">Bibliography</title><bibitem id="ISO639-2" type="standard">  <fetched>2021-09-15</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>  <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Alpha-3 code</title>  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages&#8201;&#8212;&#8201;Part 2: Alpha-3 code</title>  <uri type="src">https://www.iso.org/standard/4767.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4767:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4767.detail.rss</uri>  <docidentifier type="ISO">ISO 639-2:1998</docidentifier>  <docidentifier type="URN">URN urn:iso:std:iso:639:-2:stage-90.60:ed-1:en</docidentifier>  <docnumber>639</docnumber>  <date type="published">    <on>1998-11</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      <name>International Organization for Standardization</name>      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>60</substage>  </status>  <copyright>    <from>1998</from>    <owner>      <organization>        <name>ISO</name>      </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem> </references></bibliography>
+</iso-standard>

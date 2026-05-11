@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <fetched>2021-09-15</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of scripts</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Information and documentation - Codes for the representation of names of scripts</title>
+  <uri type="src">https://www.iso.org/standard/29546.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:29546:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>
+  <docidentifier type="ISO">ISO 15924:2004</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:15924:stage-90.92:ed-1:en</docidentifier>
+  <docnumber>15924</docnumber>
+  <date type="published">
+    <on>2004-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO 15924:2004 provides a code for the presentation of names of scripts. The codes were devised for use in terminology, lexicography, bibliography and linguistics, but they may be used for any application requiring the expression of scripts in coded form. ISO 15924:2004 also includes guidance on the use of script codes in some of these applications.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>92</substage>
+  </status>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO/DIS 15924</formattedref>
+    </bibitem>
+  </relation>
+  <place>Geneva</place>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="46" type="TC" identifier="ISO/TC 46">Information and documentation</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>01.140.10</code>
+      <text>Writing and transliteration</text>
+    </ics>
+    <ics>
+      <code>01.140.20</code>
+      <text>Information sciences</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number part="">ISO 15924</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>
