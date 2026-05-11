@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <fetched>2021-09-15</fetched>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>
+  <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Alpha-2 code</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages - Part 1: Alpha-2 code</title>
+  <uri type="src">https://www.iso.org/standard/22109.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:22109:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/21/22109.detail.rss</uri>
+  <docidentifier type="ISO">ISO 639-1:2002</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:639:-1:stage-90.93:ed-1:en</docidentifier>
+  <docnumber>639</docnumber>
+  <date type="published">
+    <on>2002-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This part of ISO 639 provides a code consisting of language code elements comprising two-letter language identifiers for the representation of names of languages. The language identifiers according to this part of ISO 639 were devised originally for use in terminology, lexicography and linguistics, but may be adopted for any application requiring the expression of language in two-letter coded form, especially in computerized systems. The alpha-2 code was devised for practical use for most of the major languages of the world that are not only most frequently represented in the total body of the world's literature, but which also comprise a considerable volume of specialized languages and terminologies. Additional language identifiers are created when it becomes apparent that a significant body of documentation written in specialized languages and terminologies exists. Languages designed exclusively for machine use, such as computer-programming languages, are not included in this code.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 639:1988</formattedref>
+    </bibitem>
+  </relation>
+  <place>Geneva</place>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="37" type="TC" identifier="ISO/TC 37/SC 2">Terminology workflow and language coding</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>01.140.20</code>
+      <text>Information sciences</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number part="1">ISO 639</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

@@ -1,0 +1,3951 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_a3030b42.275a.4cdb"
+
+------=_NextPart_a3030b42.275a.4cdb
+Content-ID: <iso-34300.htm>
+Content-Disposition: inline; filename="iso-34300.htm"
+Content-Type: text/html; charset="utf-8"
+
+<?xml version="1.0"?>
+<html xmlns:epub="http://www.idpf.org/2007/ops" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40" lang="en" xml:lang="en">
+  <head><!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"/>
+
+  <link rel=File-List href="cid:filelist.xml"/>
+<style>
+  <!--
+@charset "UTF-8";
+/* Font Definitions */
+@font-face {
+  font-family: Arial;
+  panose-1: 2 11 6 4 2 2 2 2 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -536859905 -1073711037 9 0 511 0; }
+
+@font-face {
+  font-family: "Courier New";
+  panose-1: 2 7 3 9 2 2 5 2 4 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536859905 -1073711037 9 0 511 0; }
+
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1107305727 0 0 415 0; }
+
+@font-face {
+  font-family: Calibri;
+  panose-1: 2 15 5 2 2 2 4 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1073786111 1 0 415 0; }
+
+@font-face {
+  font-family: Cambria;
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1073743103 0 0 415 0; }
+
+@font-face {
+  font-family: "Segoe UI";
+  panose-1: 2 11 5 2 4 2 4 2 2 3;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -469750017 -1073683329 9 0 511 0; }
+
+@font-face {
+  font-family: "Malgun Gothic";
+  panose-1: 2 11 5 3 2 0 0 2 0 4;
+  mso-font-charset: 129;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -1879048145 701988091 18 0 524289 0; }
+
+@font-face {
+  font-family: "Cambria",serif;
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-charset: 128;
+  mso-generic-font-family: roman;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoBlockText, li.MsoBlockText, div.MsoBlockText {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 57.6pt;
+  margin-bottom: 0cm;
+  margin-left: 57.6pt;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border: none;
+  mso-border-alt: solid #4472C4 .25pt;
+  mso-border-themecolor: accent1;
+  padding: 0cm;
+  mso-padding-alt: 10.0pt 10.0pt 10.0pt 10.0pt;
+  font-size: 12.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-bidi-theme-font: minor-bidi;
+  color: #4472C4;
+  mso-themecolor: accent1;
+  mso-ansi-language: EN-AU;
+  font-style: italic; }
+
+p.MsoList, li.MsoList, div.MsoList {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-parent: "MsoListParagraph";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-list: l3 level1 lfo20;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoListCxSpFirst, li.MsoListCxSpFirst, div.MsoListCxSpFirst {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-parent: "MsoListParagraph";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-list: l3 level1 lfo20;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoListCxSpMiddle, li.MsoListCxSpMiddle, div.MsoListCxSpMiddle {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-parent: "MsoListParagraph";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-list: l3 level1 lfo20;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoListCxSpLast, li.MsoListCxSpLast, div.MsoListCxSpLast {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-parent: "MsoListParagraph";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-list: l3 level1 lfo20;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  /* do not put in margin-left, it is specific to list level */
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  /* do not put in margin-left, it is specific to list level */
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+div.figure, p.figure {
+  text-align: center; }
+
+h1 {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  
+  font-size: 13.0pt;
+  font-weight: bold;
+  
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h1.ForewordTitle {
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: bold; }
+
+h1.Annex {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  text-align: center;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  font-weight: normal;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+.h2Annex, h2 {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 27.0pt 35.0pt;
+  
+  font-size: 13.0pt;
+  font-weight: bold;
+  
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h2 {
+  mso-list: l1 level2 lfo6;
+  mso-outline-level: 2; }
+
+.h3Annex, h3 {
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 3 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 3;
+  mso-hyphenate: none;
+  tab-stops: list 36.0pt left 44.0pt;
+  
+  font-size: 13.0pt;
+  font-weight: bold;
+  
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h3 {
+  mso-list: l1 level3 lfo6;
+  mso-outline-level: 3; }
+
+.h4Annex, h4 {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 3";
+  mso-style-link: "Heading 4 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt 57.0pt 68.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  
+  font-weight: bold;
+  
+  mso-fareast-font-family: "SimHei",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h4 {
+  mso-list: l1 level4 lfo6;
+  mso-outline-level: 4; }
+
+.h5Annex, h5 {
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 4";
+  mso-style-link: "Heading 5 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 54.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  
+  font-weight: bold;
+  
+  mso-fareast-font-family: "SimHei",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h5 {
+  mso-list: l1 level5 lfo6;
+  mso-outline-level: 5; }
+
+h6 {
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 5";
+  mso-style-link: "Heading 6 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 72.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  
+  font-weight: bold;
+  
+  mso-fareast-font-family: "SimHei",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h6 {
+  mso-list: l1 level6 lfo6;
+  mso-outline-level: 6; }
+
+p.MsoToc1, li.MsoToc1, div.MsoToc1 {
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 6.0pt;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc2, li.MsoToc2, div.MsoToc2 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc3, li.MsoToc3, div.MsoToc3 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 2";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Header Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 30.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoHeaderLandscape, li.MsoHeaderLandscape, div.MsoHeaderLandscape {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Header Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 30.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Footer Char";
+  margin-top: 18.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoFooterLandscape, li.MsoFooterLandscape, div.MsoFooterLandscape {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Footer Char";
+  margin-top: 18.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: right 734.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+span.MsoFootnoteReference {
+  mso-style-priority: 99;
+  vertical-align: super; }
+
+p.MsoCaption, li.MsoCaption, div.MsoCaption {
+  mso-style-priority: 35;
+  mso-style-qformat: yes;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 10.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  color: #44546A;
+  mso-themecolor: text2;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-style: italic; }
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Footnote Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Body Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+a:link, span.MsoHyperlink {
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  mso-ansi-language: EN;
+  color: blue;
+  text-decoration: underline;
+  text-underline: single; }
+
+a:visited, span.MsoHyperlinkFollowed {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-themecolor: followedhyperlink;
+  text-decoration: underline;
+  text-underline: single;
+  color: #954F72; }
+
+p {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-margin-top-alt: auto;
+  margin-right: 0cm;
+  mso-margin-bottom-alt: auto;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Balloon Text Char";
+  margin: 0cm;
+  text-align: justify;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  font-family: "Segoe UI",sans-serif;
+  mso-fareast-font-family: Calibri;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+span.Char1 {
+  mso-style-name: "Balloon Text Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: "Balloon Text";
+  mso-ansi-font-size: 9.0pt;
+  mso-bidi-font-size: 9.0pt;
+  font-family: "Segoe UI",sans-serif;
+  mso-ascii-font-family: "Segoe UI";
+  mso-hansi-font-family: "Segoe UI";
+  mso-bidi-font-family: "Segoe UI";
+  mso-ansi-language: EN-GB; }
+
+span.MsoPlaceholderText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: gray; }
+
+span.Heading1Char, span.1Char {
+  mso-style-name: "Heading 1 Char";
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 1";
+  mso-ansi-font-size: 13.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  
+  font-weight: bold;
+  
+  mso-bidi-font-weight: normal; }
+
+span.Heading2Char, span.2Char {
+  mso-style-name: "Heading 2 Char";
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 2";
+  mso-ansi-font-size: 12.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading3Char, span.3Char {
+  mso-style-name: "Heading 3 Char";
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 3";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading4Char, span.4Char {
+  mso-style-name: "Heading 4 Char";
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 4";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading5Char, span.5Char {
+  mso-style-name: "Heading 5 Char";
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 5";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading6Char, span.6Char {
+  mso-style-name: "Heading 6 Char";
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 6";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a2, li.a2, div.a2 {
+  mso-style-name: a2;
+  mso-style-priority: 11;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level2 lfo12;
+  tab-stops: 1.0cm 36.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a3, li.a3, div.a3 {
+  mso-style-name: a3;
+  mso-style-priority: 12;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level3 lfo12;
+  tab-stops: 20.15pt list 36.0pt;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a4, li.a4, div.a4 {
+  mso-style-name: a4;
+  mso-style-priority: 13;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level4 lfo12;
+  tab-stops: 20.15pt 44.0pt list 54.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-style: italic; }
+
+p.a5, li.a5, div.a5 {
+  mso-style-name: a5;
+  mso-style-priority: 14;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level5 lfo12;
+  tab-stops: 20.15pt list 54.0pt left 62.35pt 68.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-style: italic; }
+
+p.a6, li.a6, div.a6 {
+  mso-style-name: a6;
+  mso-style-priority: 15;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level6 lfo12;
+  tab-stops: 20.15pt 62.35pt 68.0pt list 72.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold; }
+
+span.FooterChar, span.Char {
+  mso-style-name: "Footer Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: Footer;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB; }
+
+span.HeaderChar, span.Char0 {
+  mso-style-name: "Header Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: Header;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.BodyTextChar, span.Char3 {
+  mso-style-name: "Body Text Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Body Text";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Comment Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 12.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+span.MsoCommentReference {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-ansi-font-size: 9.0pt;
+  mso-bidi-font-size: 9.0pt; }
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "Comment Text";
+  mso-style-link: "Comment Subject Char";
+  mso-style-next: "Comment Text";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.Tablebody, li.Tablebody, div.Tablebody {
+  mso-style-name: "Table body";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 3.0pt;
+  margin-left: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  mso-default-props: yes;
+  font-family: "Cambria",serif;
+  font-size: 10.0pt;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-hansi-font-family: "Cambria",serif; }
+
+/* Page Definitions */
+@page {
+  mso-mirror-margins: yes;
+  mso-footnote-separator: url(cid:header.html) fs;
+  mso-footnote-continuation-separator: url(cid:header.html) fcs;
+  mso-endnote-separator: url(cid:header.html) es;
+  mso-endnote-continuation-separator: url(cid:header.html) ecs;
+  mso-facing-pages: yes; }
+
+@page WordSection1 {
+  size: 595.0pt 842.0pt;
+  margin: 72.0pt 90.0pt 72.0pt 90.0pt;
+  mso-header-margin: 35.4pt;
+  mso-footer-margin: 35.4pt;
+  mso-even-header: url(cid:header.html) eha;
+  mso-header: url(cid:header.html) ha;
+  mso-even-footer: url(cid:header.html) efa;
+  mso-paper-source: 0; }
+
+div.WordSection1 {
+  page: WordSection1; }
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: roman-lower;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0; }
+
+@page WordSection2L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef2l;
+  mso-footer: url(cid:header.html) f2l;
+  mso-paper-source: 0; }
+
+@page WordSection2P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef2;
+  mso-footer: url(cid:header.html) f2;
+  mso-paper-source: 0; }
+
+div.WordSection2 {
+  page: WordSection2; }
+
+@page WordSection3 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0; }
+
+@page WordSection3L {
+  size: 841.9pt 595.3pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2l;
+  mso-header: url(cid:header.html) h2l;
+  mso-even-footer: url(cid:header.html) ef3l;
+  mso-footer: url(cid:header.html) f3l;
+  mso-paper-source: 0; }
+
+@page WordSection3P {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) ef3;
+  mso-footer: url(cid:header.html) f3;
+  mso-paper-source: 0; }
+
+div.WordSection3 {
+  page: WordSection3; }
+
+@page WordSection4 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) f4;
+  mso-footer: url(cid:header.html) f4;
+  mso-paper-source: 0; }
+
+div.colophon {
+  page: WordSection4; }
+
+/* List Definitions */
+@list l0 {
+  mso-list-id: 145051656;
+  mso-list-template-ids: 2112159680; }
+
+@list l0:level1 {
+  mso-level-number-format: alpha-upper;
+  mso-level-style-link: ANNEX;
+  mso-level-suffix: none;
+  mso-level-text: "Annex\00A0%1";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-ansi-font-size: 14.0pt;
+  mso-bidi-font-size: 14.0pt;
+  font-family: "Cambria",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level2 {
+  mso-level-style-link: a2;
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level3 {
+  mso-level-style-link: a3;
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level4 {
+  mso-level-style-link: a4;
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level5 {
+  mso-level-style-link: a5;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level6 {
+  mso-level-style-link: a6;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level7 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Figure\00A0%1\.%7\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+@list l0:level8 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Table\00A0%1\.%8\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+@list l0:level9 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "\(%9\)";
+  mso-level-tab-stop: 306.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+@list l1 {
+  mso-list-id: 866942648;
+  mso-list-template-ids: -1756330000; }
+
+@list l1:level1 {
+  mso-level-style-link: "Heading 1";
+  mso-level-text: "%1";
+  mso-level-tab-stop: 21.6pt;
+  mso-level-number-position: left;
+  margin-left: 21.6pt;
+  text-indent: -21.6pt;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level2 {
+  mso-level-style-link: "Heading 2";
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level3 {
+  mso-level-style-link: "Heading 3";
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level4 {
+  mso-level-style-link: "Heading 4";
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level5 {
+  mso-level-style-link: "Heading 5";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level6 {
+  mso-level-style-link: "Heading 6";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level7 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+@list l1:level8 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+@list l1:level9 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria",serif; }
+
+/* ordered list */
+@list l2 {
+  mso-list-id: 525294607;
+  mso-list-template-ids: 67633181; }
+
+@list l2:level1 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%1\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level2 {
+  mso-level-text: "%2\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level3 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%3\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level4 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%4\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level5 {
+  mso-level-number-format: roman-upper;
+  mso-level-text: "%5\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level6 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%6\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7\)";
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level8 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%8\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level9 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%9\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+/* Unordered list */
+@list l3 {
+  mso-list-id: 1308196397;
+  mso-list-type: hybrid;
+  mso-list-template-ids: -277327948 -457018030 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157; }
+
+@list l3:level1 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level2 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level3 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level4 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level5 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level6 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level7 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level8 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level9 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+div.ListContLevel1 {
+  mso-style-priority: 34;
+  margin-left: 18.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel2 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 36.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel3 {
+  mso-style-priority: 34;
+  margin-left: 54.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel4 {
+  mso-style-priority: 34;
+  margin-left: 72.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel5 {
+  mso-style-priority: 34;
+  margin-left: 90.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel6 {
+  mso-style-priority: 34;
+  margin-left: 108.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel7 {
+  mso-style-priority: 34;
+  margin-left: 126.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel8 {
+  mso-style-priority: 34;
+  margin-left: 144.0pt;
+  margin-right: 0cm; }
+
+div.ListContLevel9 {
+  mso-style-priority: 34;
+  margin-left: 162.0pt;
+  margin-right: 0cm; }
+
+table.MsoNormalTable {
+  mso-style-name: "Table Normal";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+ol {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+ul {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+-->
+</style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/>
+    <style>
+      <!--
+div.table_container {
+  margin-bottom: 14pt;
+}
+
+ol
+        {margin-bottom:0cm;}
+ul
+        {margin-bottom:0cm;}
+
+table.MsoISOTable tr
+    {page-break-inside:avoid;}
+
+td { page-break-inside:avoid; }
+tr { page-break-after:avoid; }
+
+table.MsoISOTableBig tr
+    {page-break-inside:auto;}
+
+table.MsoISOTableBig td
+    {page-break-inside:auto;}
+
+span.stem
+    {font-family:"Cambria Math",serif;
+    mso-ascii-font-family:"Cambria Math";
+    font-style:italic;}
+
+dt
+    {page-break-inside:avoid;
+    page-break-after:avoid}
+
+br.section
+    {page-break-before:always;
+    mso-break-type:section-break;}
+br.pagebreak
+    {page-break-before:always;
+    mso-special-character:line-break;}
+
+span.addition {
+        color: blue;
+}
+span.deletion {
+        color: red;
+        text-decoration: line-through;
+}
+
+-->
+    </style>
+    <style>
+      <!--
+@charset "UTF-8";
+p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  font-family: "Courier New",monospace;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.pseudocode, li.pseudocode, div.pseudocode {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.Biblio, li.Biblio, div.Biblio {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 33.15pt;
+  text-indent: -33.15pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.NormRef, li.NormRef, div.NormRef {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0pt;
+  text-indent: 0pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.FigureTitle, li.FigureTitle, div.FigureTitle {
+  mso-style-name: "Figure Title";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Figure Title Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -30.35pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /*mso-list:l9 level1 lfo17;*/
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  font-weight: bold;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.FigureTitleCxSpFirst, li.FigureTitleCxSpFirst, div.FigureTitleCxSpFirst {
+  mso-style-name: "Figure TitleCxSpFirst";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Figure Title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -30.35pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /*mso-list:l9 level1 lfo17;*/
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.FigureTitleCxSpMiddle, li.FigureTitleCxSpMiddle, div.FigureTitleCxSpMiddle {
+  mso-style-name: "Figure TitleCxSpMiddle";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Figure Title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -30.35pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /*mso-list:l9 level1 lfo17;*/
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.FigureTitleCxSpLast, li.FigureTitleCxSpLast, div.FigureTitleCxSpLast {
+  mso-style-name: "Figure TitleCxSpLast";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Figure Title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -30.35pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /*mso-list:l9 level1 lfo17;*/
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+span.NoteChar {
+  mso-style-name: "Note Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: Note;
+  mso-ansi-language: EN-GB; }
+
+p.AnnexFigureTitle, li.AnnexFigureTitle, div.AnnexFigureTitle {
+  mso-style-name: "Annex Figure Title";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Annex Figure Title Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 17.0pt;
+  text-align: center;
+  text-indent: -11.35pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /* mso-list:l6 level1 lfo13; */
+  tab-stops: list 5.65pt left 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.AnnexTableTitle, li.AnnexTableTitle, div.AnnexTableTitle {
+  mso-style-name: "Annex Table Title";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "&#928;&#945;&#961;&#940;&#947;&#961;&#945;&#966;&#959;&#962; &#955;&#943;&#963;&#964;&#945;&#962;";
+  mso-style-link: "Annex Table Title Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  /* mso-list:l4 level1 lfo15; */
+  tab-stops: list 0cm left 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AnnexTableTitleCxSpFirst, li.AnnexTableTitleCxSpFirst, div.AnnexTableTitleCxSpFirst {
+  mso-style-name: "Annex Table TitleCxSpFirst";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Annex Table Title Char";
+  mso-style-type: export-only;
+  margin: 0cm;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  /* mso-list:l4 level1 lfo15; */
+  tab-stops: list 0cm left 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AnnexTableTitleCxSpMiddle, li.AnnexTableTitleCxSpMiddle, div.AnnexTableTitleCxSpMiddle {
+  mso-style-name: "Annex Table TitleCxSpMiddle";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Annex Table Title Char";
+  mso-style-type: export-only;
+  margin: 0cm;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  /* mso-list:l4 level1 lfo15; */
+  tab-stops: list 0cm left 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AnnexTableTitleCxSpLast, li.AnnexTableTitleCxSpLast, div.AnnexTableTitleCxSpLast {
+  mso-style-name: "Annex Table TitleCxSpLast";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Annex Table Title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  /* mso-list:l4 level1 lfo15; */
+  tab-stops: list 0cm left 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Char2 {
+  mso-style-name: "List Paragraph Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: "List Paragraph";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB; }
+
+span.AnnexTableTitleChar {
+  mso-style-name: "Annex Table Title Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "List Paragraph Char";
+  mso-style-link: "Annex Table Title";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AdmonitionTitle, p.RecommendationTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-after: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  font-weight: bold;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.SourceTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  font-weight: bold;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.Tabletitle, li.Tabletitle, div.Tabletitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 36.0pt;
+  text-align: center;
+  text-indent: -18.0pt;
+  line-height: 12.0pt;
+  page-break-after: avoid;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /* mso-list:l8 level1 lfo16; */
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.TabletitleCxSpFirst, li.TabletitleCxSpFirst, div.TabletitleCxSpFirst {
+  mso-style-name: "Table titleCxSpFirst";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Table title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -18.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-list: l8 level1 lfo16;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: FR-CH;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.TabletitleCxSpMiddle, li.TabletitleCxSpMiddle, div.TabletitleCxSpMiddle {
+  mso-style-name: "Table titleCxSpMiddle";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Table title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -18.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-list: l8 level1 lfo16;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: FR-CH;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.TabletitleCxSpLast, li.TabletitleCxSpLast, div.TabletitleCxSpLast {
+  mso-style-name: "Table titleCxSpLast";
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "List Paragraph";
+  mso-style-link: "Table title Char";
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 36.0pt;
+  mso-add-space: auto;
+  text-align: center;
+  text-indent: -18.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-list: l8 level1 lfo16;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: FR-CH;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+span.FigureTitleChar {
+  mso-style-name: "Figure Title Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "List Paragraph Char";
+  mso-style-link: "Figure Title";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB;
+  font-weight: bold; }
+
+span.TabletitleChar {
+  mso-style-name: "Table title Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "List Paragraph Char";
+  mso-style-link: "Table title";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: FR-CH;
+  font-weight: bold; }
+
+span.AnnexFigureTitleChar {
+  mso-style-name: "Annex Figure Title Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: "Annex Figure Title";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB;
+  font-weight: bold; }
+
+p.Note, div.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+/* may need to be revised */
+p.ANNEX, li.ANNEX, div.ANNEX {
+  mso-style-name: ANNEX;
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 24.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level1 lfo12;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.BiblioTitle, li.BiblioTitle, div.BiblioTitle {
+  mso-style-name: "Biblio Title";
+  mso-style-priority: 5;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  mso-outline-level: 1;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Definition, li.Definition, div.Definition {
+  mso-style-name: Definition;
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  mso-style-link: "Definition Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.ForewordTitle, li.ForewordTitle, div.ForewordTitle {
+  mso-style-name: "Foreword Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.IntroTitle, li.IntroTitle, div.IntroTitle {
+  mso-style-name: "Intro Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  page-break-before: always;
+  mso-bidi-font-weight: normal; }
+
+p.TitlePageSubhead, li.TitlePageSubhead, div.TitlePageSubhead {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Terms, li.Terms, div.Terms {
+  mso-style-name: "Term\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AltTerms, li.AltTerms, div.AltTerms {
+  mso-style-name: "AltTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.DeprecatedTerms, li.DeprecatedTerms, div.DeprecatedTerms {
+  mso-style-name: "DeprecatedTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.TermNum, li.TermNum, div.TermNum {
+  mso-style-name: TermNum;
+  mso-style-priority: 7;
+  mso-style-unhide: no;
+  mso-style-next: "Term\(s\)";
+  margin: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzContents, li.zzContents, div.zzContents {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48.0pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzCopyright, li.zzCopyright, div.zzCopyright {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 6.0pt;
+  margin-left: 14.2pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  border: none;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.zzCopyright1 {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 6.0pt;
+  margin-left: 14.2pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  border: none;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.zzAddress {
+  margin: 0cm;
+  margin-bottom: 12pt;
+  margin-left: 20.15pt;
+  mso-layout-grid-align: none;
+  text-autospace: none;
+  padding: 0cm;
+  mso-padding-alt: 0cm 4.0pt 0cm 4.0pt;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+p.zzWarning {
+  border: none;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 10.0pt;
+  mso-bidi-font-weight: bold;
+  font-family: "Cambria",serif; }
+
+p.zzWarningHdr {
+  margin-bottom: 6.0pt;
+  border: none;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 10.0pt;
+  mso-bidi-font-weight: bold;
+  font-family: "Cambria",serif;
+  text-align: center;
+  font-weight: bold; }
+
+p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 20.0pt;
+  margin-right: 0cm;
+  margin-bottom: 38.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzSTDTitle1, li.zzSTDTitle1, div.zzSTDTitle1 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzSTDTitle2, li.zzSTDTitle2, div.zzSTDTitle2 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimHei",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.Quote, li.Quote, div.Quote {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.QuoteAttribution {
+  text-align: right; }
+
+p.Admonition, li.Admonition, div.Admonition {
+  mso-style-priority: 99;
+  mso-pagination: widow-orphan;
+  border: none;
+  padding: 0cm;
+  font-size: 12.0pt;
+  font-family: "Cambria",serif;
+  mso-ascii-font-family: "Cambria",serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Cambria",serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-bidi-theme-font: minor-bidi;
+  font-weight: bold;
+  mso-ansi-language: EN-AU; }
+
+p.Code, li.Code, div.Code {
+  mso-style-name: Code;
+  mso-style-priority: 16;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin: 0cm;
+  line-height: 10.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Courier New",monospace;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria";
+  mso-ansi-language: EN-GB; }
+
+p.Formula, li.Formula, div.Formula {
+  mso-style-name: Formula;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.45pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: "SimSun",serif;
+  mso-bidi-font-family: "Cambria",serif;
+  mso-ansi-language: EN-GB; }
+
+p.ForewordText, li.ForewordText, div.ForewordText {
+  mso-style-name: "Foreword Text";
+  mso-style-unhide: no;
+  mso-style-link: "Foreword Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-fareast-language: EN-US; }
+
+span.ForewordTextChar {
+  mso-style-name: "Foreword Text Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Foreword Text";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt; }
+
+p.Source, li.Source, div.Source {
+  mso-style-name: Source;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: Definition;
+  mso-style-link: "Source Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+span.DefinitionChar {
+  mso-style-name: "Definition Char";
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: Definition;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB; }
+
+span.SourceChar {
+  mso-style-name: "Source Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "Definition Char";
+  mso-style-link: Source;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB; }
+
+table.dl {
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 0cm; }
+
+div.figdl {
+  text-align: left; }
+
+table.figdl {
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  align: left;
+  text-align: left;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-left: 0cm;
+  margin-right: 0cm; }
+
+div.figdl p, table.figdl p {
+  font-size: 10.0pt; }
+
+table.formula_dl {
+  margin-left: 20.15pt; }
+
+table.MsoISOTable, table.MsoISOTableBig {
+  mso-style-name: "Table ISO";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 2.85pt 0cm 2.85pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border-collapse: collapse;
+  /*mso-table-layout-alt:fixed;*/
+  border: solid windowtext 2pt;
+  mso-border-alt: solid windowtext 2pt;
+  mso-yfti-tbllook: 480;
+  mso-border-insideh: .75pt solid windowtext;
+  mso-border-insidev: .75pt solid windowtext;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+table.MsoISOTable th, table.MsoISOTableBig th {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable td, table.MsoISOTableBig td {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable p, table.MsoISOTableBig p {
+  font-size: 10.0pt; }
+
+table.MsoTableGrid {
+  mso-style-name: "Table Grid";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  border: solid windowtext 1.0pt;
+  mso-border-alt: solid windowtext .5pt;
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-border-insideh: .5pt solid windowtext;
+  mso-border-insidev: .5pt solid windowtext;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+div.formula {
+  tab-stops: right 487.45pt; }
+
+body {
+  tab-interval: 36.0pt; }
+
+.coverpage_docnumber {
+  text-align: right;
+  font-size: 14.0pt;
+  font-weight: bold; }
+
+.coverpage_techcommittee {
+  text-align: right; }
+
+.coverpage_docstage {
+  text-align: center;
+  font-size: 30.0pt;
+  color: #485094; }
+
+div.doctitle {
+  margin-top: 100.0pt;
+  text-align: left;
+  font-size: 16.0pt; }
+
+div.coverpage_warning {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt #485094;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 1.0pt 4.0pt #485094;
+  margin-left: 4.25pt;
+  margin-right: 4.25pt; }
+
+.coverpage_warning {
+  color: #485094;
+  font-size: 10.0pt; }
+
+.coverpage {
+  text-align: center;
+  margin: 2em 0; }
+
+.coverpage-logo {
+  color: #485094; }
+
+.coverpage-tc-name {
+  color: #485094;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  margin: 0.25em 0; }
+
+.coverpage-doc-identity {
+  background-color: #485094;
+  color: white;
+  font-size: 2em;
+  line-height: 2em;
+  margin: 0.5em 0; }
+
+.coverpage-title {
+  font-weight: 400; }
+
+.coverpage-title .title-second {
+  display: none; }
+
+.coverpage-stage-block {
+  font-style: italic;
+  font-size: 1.25em;
+  font-weight: 600; }
+
+.coverpage-warning {
+  border-top: solid 1px #f36f36;
+  border-bottom: solid 1px #f36f36;
+  margin: 1em 2em;
+  color: #485094;
+  padding: 1em; }
+
+.coverpage-warning .title {
+  color: #f36f36;
+  font-weight: 500; }
+
+.coverpage-warning .content {
+  font-style: italic; }
+
+.boilerplate-copyright {
+  padding: 1em; }
+
+.boilerplate-copyright .boilerplate-name {
+  color: #485094;
+  font-weight: 600; }
+
+.boilerplate-copyright .boilerplate-address {
+  color: #485094; }
+
+div.rule {
+  width: 100%;
+  height: 1px;
+  background-color: #485094;
+  margin: 2em 0; }
+
+#toc-list ul {
+  margin-bottom: 0.25em; }
+
+#toc-list li {
+  list-style-type: none; }
+
+.MsoTocTextSpan {
+  color: windowtext;
+  display: none;
+  mso-hide: screen;
+  mso-ansi-language: EN-GB;
+  text-decoration: none;
+  text-underline: none; }
+
+a.TableFootnoteRef, span.TableFootnoteRef {
+  mso-style-priority: 99;
+  mso-style-parent: "Footnote Reference";
+  vertical-align: super; }
+
+aside {
+  font-size: 10.0pt; }
+
+/*
+div.example {
+	border:solid black .25pt;
+	mso-border-alt:solid black .25pt;
+	padding:10pt;
+	mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt;
+	margin:10pt;
+	mso-margin-alt:10.0pt 10.0pt 10.0pt 10.0pt;
+}
+*/
+/*
+div.example {
+  margin-left:70.9pt;
+  text-indent:-70.9pt;
+}
+*/
+p.Example, li.Example, div.Example, td.Example {
+  tab-stops: 70.9pt;
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+div.Example, td.Example {
+  margin: 0in;
+  margin-bottom: 6.0pt; }
+
+td.Example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+div.Example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+p.Example, li.Example, div.Example {
+  mso-style-name: Example;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Example Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  /* tab-stops:20.15pt; */
+  font-size: 10.0pt;
+  font-family: "Cambria",serif;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+span.ExampleChar {
+  mso-style-name: "Example Char";
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-link: Example;
+  mso-ansi-language: EN-GB; }
+
+div.Note p.MsoListParagraph {
+  font-size: 10.0pt;
+  margin-left: 1.0cm; }
+
+div.Note span.stem {
+  font-size: 10.0pt; }
+
+div.Note p.Sourcecode, div.Note pre.Sourcecode {
+  font-size: 8.0pt;
+  margin-left: 1.0cm; }
+
+div.Note table.dl {
+  font-size: 10.0pt;
+  margin-left: 1.0cm; }
+
+span.note_label, span.example_label, td.example_label, td.note_label {
+  font-size: 10.0pt;
+  font-family: "Cambria",serif; }
+
+-->
+    </style>
+  </head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
+    <div class="WordSection1">
+<p class="MsoNormal" align="right" style="text-align:right">
+  <b style="mso-bidi-font-weight:&#10;normal">
+    <span lang="EN-GB" style="font-size:14.0pt;mso-no-proof:yes" xml:lang="EN-GB">ISO/WD 34300(E) </span>
+  </b>
+  <b style="mso-bidi-font-weight:normal">
+    <span lang="EN-GB" style="font-size:14.0pt" xml:lang="EN-GB">
+      <p class="MsoNormal"></p>
+    </span>
+  </b>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO/TC 154/WG 5</span>
+</p>
+
+<p class="MsoNormal" align="right" style="margin-bottom:100.0pt;text-align:right">
+  <span lang="EN-GB" xml:lang="EN-GB">Secretariat: <span style="mso-no-proof:yes">SAC</span></span>
+</p>
+
+<p class="MsoNormal" align="left" style="text-align:left;line-height:18.0pt;margin-bottom:0.0pt;font-size:16.0pt">
+<span class="title"><b>Date and time &#x2014; </b></span><b><span class="subtitle">Codes for calendar systems</span></b>
+  
+</p>
+
+
+
+
+<br/>
+<p class="MsoNormal" align="left" style="text-align:left;line-height:18.0pt;margin-bottom:0.0pt;font-size:16.0pt">
+<span class="title">Date et heure &#x2014; </span><span class="subtitle">Codes pour les syst&#xE8;mes de calendrier</span>
+  
+</p>
+
+
+
+
+
+
+<p class="MsoNormal" style="margin-top:100.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+<div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt;&#10;margin-left:4.25pt;margin-right:4.25pt">
+
+<p class="MsoNormal" align="center" style="text-align:center;border:none;&#10;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt"><span lang="EN-GB" style="font-size:40.0pt" xml:lang="EN-GB">WD stage<p class="MsoNormal"></p></span></p>
+
+</div>
+
+<p class="MsoNormal" style="margin-bottom:6.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+<!--
+<div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
+mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt;
+margin-left:4.25pt;margin-right:4.25pt'>
+-->
+
+  <div><a name="boilerplate-license-destination" id="boilerplate-license-destination"></a><div class="boilerplate-license">
+    <div><p class="zzWarningHdr">Warning for WDs and CDs</p>
+
+
+<p class="zzWarning"><a name="_81a2927e-cdd0-471e-b0d7-034ba1c3bff3" id="_81a2927e-cdd0-471e-b0d7-034ba1c3bff3"></a>This
+document is not an ISO International Standard. It is distributed for review and
+comment. It is subject to change without notice and may not be referred to as
+an International Standard.</p>
+
+<p class="zzWarning"><a name="_73803ae6-f7f9-43f5-9aa4-916e5467f025" id="_73803ae6-f7f9-43f5-9aa4-916e5467f025"></a>Recipients
+of this draft are invited to submit, with their comments, notification of any
+relevant patent rights of which they are aware and to provide supporting
+documentation.</p>
+</div>
+  </div></div>
+<!--
+<p class="MsoNormal" align="center" style='margin-bottom:6.0pt;text-align:center;
+border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
+1.0pt 4.0pt 1.0pt 4.0pt'><b style='mso-bidi-font-weight:normal'><span
+lang="EN-GB" style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Warning for WDs
+and CDs<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" style='margin-bottom:6.0pt;border:none;mso-border-alt:solid windowtext .5pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang="EN-GB"
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>This
+document is not an ISO International Standard. It is distributed for review and
+comment. It is subject to change without notice and may not be referred to as
+an International Standard.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style='border:none;mso-border-alt:solid windowtext .5pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang="EN-GB"
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>Recipients
+of this draft are invited to submit, with their comments, notification of any
+relevant patent rights of which they are aware and to provide supporting
+documentation.</span><span lang="EN-GB" style='font-size:10.0pt;mso-bidi-font-size:
+11.0pt'><o:p></o:p></span></p>
+-->
+
+
+<!--</div>-->
+
+
+
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection2"><div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;border-bottom-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 0cm 4.0pt;&#10;margin-left:5.1pt;margin-right:5.1pt">
+<div><a name="boilerplate-copyright-destination" id="boilerplate-copyright-destination"></a><div class="boilerplate-copyright">
+    <div><p class="zzCopyrightHdr">COPYRIGHT PROTECTED DOCUMENT</p>
+
+    <p class="zzCopyright"><a name="boilerplate-year" id="boilerplate-year"></a>
+    &#xA9; ISO 2020
+  </p>
+
+  <p class="zzCopyright1"><a name="boilerplate-message" id="boilerplate-message"></a>
+    All rights
+reserved. Unless otherwise specified, no part of this publication may be
+reproduced or utilized otherwise in any form or by any means, electronic or
+mechanical, including photocopying, or posting on the internet or an intranet,
+without prior written permission. Permission can be requested from either ISO
+at the address below or ISO&#x2019;s member body in the country of the requester.
+  </p>
+
+  <p style="text-align:left;" align="left" class="zzAddress"><a name="boilerplate-address" id="boilerplate-address"></a>
+    ISO copyright office<br/>
+    Ch. de Blandonnet 8 &#x2022; CP 401<br/>
+    CH-1214 Vernier, Geneva, Switzerland<br/>
+    Tel.&#xA0;&#xA0;+ 41 22 749 01 11<br/>
+    Fax&#xA0;&#xA0;+ 41 22 749 09 47<br/>
+    Email: copyright@iso.org<br/>
+    Website: www.iso.org
+  </p>
+    <p class="zzCopyright1"><a name="boilerplate-place" id="boilerplate-place"></a>
+    Published in Switzerland
+  </p>
+</div>
+  </div></div>
+</div>
+
+
+
+<p class="zzContents" style="margin-top:0cm">
+  <span lang="EN-GB" xml:lang="EN-GB">Contents</span>
+</p>
+
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC
+  \o "1-3" \h \z \t "Heading
+  1;1;ANNEX;1;Biblio Title;1;Foreword Title;1;Intro Title;1" <span style="mso-element:field-separator"></span></span>
+<span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc277607124">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc277607124 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc207289872">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc207289872 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc156174045">1 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc156174045 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc882442664">2 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc882442664 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc999377100">3 Calendar system models overview<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc999377100 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc731131835">4 Data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc731131835 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc218641084">4.1 Core data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc218641084 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc837527426">4.2 Common data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc837527426 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc449900937">5 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc449900937 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc281870296">6 Codes and identifiers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc281870296 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc099639434">6.1 Requirements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc099639434 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc3">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc828867007">6.1.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc828867007 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc321082613">6.2 Principles for allocation of code elements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc321082613 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc3">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc538273770">6.2.1 Relationship with names<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc538273770 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc3">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc381022594">6.2.2 Construction of the alphabetic code<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc381022594 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc3">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc367715938">6.2.3 User assigned code elements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc367715938 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc743192200">6.3 List of calendar system and their code elements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc743192200 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc145110908">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc145110908 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-element:field-end"></span>
+  </span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+
+      <div class="authority">
+  
+
+
+  
+
+</div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div><a name="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a" id="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a"></a>
+        <p class="ForewordTitle">Foreword</p>
+        <p class="ForewordText"><a name="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd" id="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd"></a>ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+        <p class="ForewordText"><a name="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb" id="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb"></a>The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+        <p class="ForewordText"><a name="_24c8e604-6a01-4fcc-ad2b-a5295728a896" id="_24c8e604-6a01-4fcc-ad2b-a5295728a896"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+        <p class="ForewordText"><a name="_278531c8-a10c-4adb-a0bd-e49fc055e4aa" id="_278531c8-a10c-4adb-a0bd-e49fc055e4aa"></a>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+        <p class="ForewordText"><a name="_ea4a3f10-1ded-446e-b34b-f5062cd129b1" id="_ea4a3f10-1ded-446e-b34b-f5062cd129b1"></a>For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#x2019;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p>
+        <p class="ForewordText"><a name="_177a5110-c5e0-4a54-9a7c-00afa9c2cd1b" id="_177a5110-c5e0-4a54-9a7c-00afa9c2cd1b"></a>This document was prepared by Technical Committee ISO/TC 154, <i>Processes, data elements and documents in commerce, industry and administration</i>.</p>
+        <p class="ForewordText"><a name="_38b5d03d-e741-4eef-bcbe-953697f21d92" id="_38b5d03d-e741-4eef-bcbe-953697f21d92"></a>This document is amongst a series of International Standards dealing with the conversion of systems of writing produced by Technical Committee ISO/TC 154, <i>Processes, data elements and documents in commerce, industry and administration</i>, WG 5 <i>Date and time</i>.</p>
+        <p class="ForewordText"><a name="_43d87550-56da-4f89-959a-dff9e22ebdaa" id="_43d87550-56da-4f89-959a-dff9e22ebdaa"></a>This is the first edition of this document.</p>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div class="Section3"><a name="introduction" id="introduction"></a>
+        <p class="IntroTitle">Introduction</p>
+        <p class="MsoNormal"><a name="_3c9179e9-0b8c-4bb9-8bad-f31c15932ff3" id="_3c9179e9-0b8c-4bb9-8bad-f31c15932ff3"></a>Calendar systems are essential to the tracking of dates and events.</p>
+        <p class="MsoNormal"><a name="_0bf2c554-ca32-426a-83c9-bcd3f5a3cf48" id="_0bf2c554-ca32-426a-83c9-bcd3f5a3cf48"></a>Date and time tracking applications, such as in computing, archiving,
+communication and bibliography, all depend on the accurate identification
+of calendar systems for their performance. Moreover, accuracy of
+date and time tracking is often paramount to important activities
+from civilian to military use.</p>
+        <p class="MsoNormal"><a name="_aeced896-d137-49b0-9ff1-c0954ebabb1c" id="_aeced896-d137-49b0-9ff1-c0954ebabb1c"></a>This document describes methods to unambiguously define calendar systems,
+their properties, and provides a mechanism to assign unique identifiers
+to these data elements.</p>
+        <p class="MsoNormal"><a name="_ac0f91b7-be0f-4051-8fd8-970961e1e947" id="_ac0f91b7-be0f-4051-8fd8-970961e1e947"></a>This document also sets out the necessary procedures to maintain
+an international registry of calendar systems.
+== Scope</p>
+        <p class="MsoNormal"><a name="_1ecf4c31-c0ef-4aa4-8f4d-f2a923c7ad53" id="_1ecf4c31-c0ef-4aa4-8f4d-f2a923c7ad53"></a>This document provides a list of codes to represent calendar systems, metadata
+to support the usage of those codes, and the corresponding maintenance
+procedures.</p>
+        <p class="MsoNormal"><a name="_8a594791-f657-4b71-bc86-77e823b18d16" id="_8a594791-f657-4b71-bc86-77e823b18d16"></a>The codes were devised for usage of any application requiring
+the expression of calendar systems in coded form, including
+for data interchange.</p>
+      </div>
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection3">
+      <p class="zzSTDTitle1">Date and time &#x2014; Codes for calendar systems</p>
+      <div><h1>1<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1><p class="MsoNormal"><a name="_e9c3e449-5613-435f-9f82-6df24672fab0" id="_e9c3e449-5613-435f-9f82-6df24672fab0"></a>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p> <p class="NormRef"><a name="ISO639-1" id="ISO639-1"></a>ISO 639-1, <i>Codes for the representation of names of languages&#x2009;&#x2014;&#x2009;Part 1: Alpha-2 code</i></p> <p class="NormRef"><a name="ISO639-2" id="ISO639-2"></a>ISO 639-2, <i>Codes for the representation of names of languages&#x2009;&#x2014;&#x2009;Part 2: Alpha-3 code</i></p> <p class="NormRef"><a name="ISO3166-1" id="ISO3166-1"></a>ISO 3166-1, <i>Codes for the representation of names of countries and their subdivisions&#x2009;&#x2014;&#x2009;Part 1: Country code</i></p> <p class="NormRef"><a name="ISO5127" id="ISO5127"></a>ISO 5127 (all parts), <i>Information and documentation &#x2013; Foundation and vocabulary</i></p> <p class="NormRef"><a name="ISO15924" id="ISO15924"></a>ISO 15924:2004, <i>Information and documentation&#x2009;&#x2014;&#x2009;Codes for the representation of names of scripts</i></p></div>
+      <div><a name="_terms_and_definitions" id="_terms_and_definitions"></a><h1>2<span style="mso-tab-count:1">&#xA0; </span>Terms and definitions</h1><p class="MsoNormal"><a name="_c1a15237-4d27-4493-a703-658ff0bbf979" id="_c1a15237-4d27-4493-a703-658ff0bbf979"></a>For the purposes of this document, the terms and definitions
+  given in <a href="#ISO34000">ISO/CD 34000</a> and the following apply.</p><p class="MsoNormal"><a name="_55bc26a8-2177-4727-b014-bc6145d47886" id="_55bc26a8-2177-4727-b014-bc6145d47886"></a>ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpFirst"> ISO Online browsing platform: available at
+  <a href="http://www.iso.org/obp">http://www.iso.org/obp</a> </p>
+<p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpLast"> IEC Electropedia: available at
+<a href="http://www.electropedia.org">http://www.electropedia.org</a>
+ </p> <p class="TermNum"><a name="term-code" id="term-code"></a>2.1</p><p class="Terms" style="text-align:left;">code</p><p class="Definition"><a name="_313c9167-db64-4755-bd9c-09ff54f21abd" id="_313c9167-db64-4755-bd9c-09ff54f21abd"></a>data representation in different forms according to a pre-established set of rules</p>
+<p class="Source">[SOURCE: <a href="#ISO639-2">ISO 639-2</a>]</p><p class="TermNum"><a name="term-calendar-code" id="term-calendar-code"></a>2.2</p>
+<p class="Terms" style="text-align:left;">calendar code</p>
+<p class="Definition"><a name="_b814a0f6-19bc-4f01-9635-21a4b5d89035" id="_b814a0f6-19bc-4f01-9635-21a4b5d89035"></a><i>code</i>(<a href="#term-code">2.1</a>) used to represent a calendar system</p>
+<p class="TermNum"><a name="term-language-code" id="term-language-code"></a>2.3</p><p class="Terms" style="text-align:left;">language code</p><p class="Definition"><a name="_fdce18a7-fc0c-4b61-817d-d8604e8776eb" id="_fdce18a7-fc0c-4b61-817d-d8604e8776eb"></a>combination of characters used to represent the name of a language or languages</p>
+<p class="Source">[SOURCE: <a href="#ISO5127">ISO 5127, 3.2.5.14</a>]</p><p class="TermNum"><a name="term-script-code" id="term-script-code"></a>2.4</p><p class="Terms" style="text-align:left;">script code</p><p class="Definition"><a name="_2fcc5532-1abf-4e42-8479-66d5bd0a658c" id="_2fcc5532-1abf-4e42-8479-66d5bd0a658c"></a>combination of characters used to represent the name of a script</p>
+<p class="Source">[SOURCE: <a href="#ISO15924">ISO 15924:2004, 3.8</a>]</p></div>
+      <div><a name="models-overview" id="models-overview"></a>
+        <h1>3<span style="mso-tab-count:1">&#xA0; </span>Calendar system models overview</h1>
+        <p class="MsoNormal"><a name="_78447ae5-e660-47e3-8e9b-ef9ec607889f" id="_78447ae5-e660-47e3-8e9b-ef9ec607889f"></a>The data models are arranged as shown in the following
+structure.</p>
+        <p class="Sourcecode" style="page-break-after:avoid;"><a name="_6b3f038b-f789-4eb4-a07b-686853d73025" id="_6b3f038b-f789-4eb4-a07b-686853d73025"></a>diagram TopDown {<br/>&#xA0; title "Calendar system model overview in UML"<br/><br/>&#xA0; include ../models/CalendarSystem.lutaml<br/>&#xA0; include ../models/CalendarEra.lutaml<br/>}<br/><br/>//&#xA0; relations:<br/>//&#xA0;&#xA0;&#xA0; - source: CalendarEra<br/>//&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; target: CalendarSystem<br/>//&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; direction: 'up'<br/>//&#xA0; fidelity:<br/>//&#xA0;&#xA0;&#xA0; hideMembers: true<br/>//&#xA0;&#xA0;&#xA0; hideOtherClasses: true</p>
+        <p class="SourceTitle" style="text-align:center;">Figure 1</p>
+      </div>
+      <div><a name="common-data" id="common-data"></a>
+        <h1>4<span style="mso-tab-count:1">&#xA0; </span>Data types</h1>
+        <div><a name="_core_data_types" id="_core_data_types"></a><h2>4.1<span style="mso-tab-count:1">&#xA0; </span>Core data types</h2><p class="MsoNormal"><a name="_0dae586c-737d-4dd5-bea6-f7b5c1e8e3c5" id="_0dae586c-737d-4dd5-bea6-f7b5c1e8e3c5"></a>These are the core data types used within this document.</p>
+
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpFirst">
+
+<tt>CharacterString</tt>
+
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+<tt>DateTime</tt>, <tt>Date</tt>, <tt>Time</tt>
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+<tt>Number</tt>, <tt>Integer</tt>, <tt>Decimal</tt>, <tt>Real</tt>
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+
+<tt>Vector</tt>
+
+</p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpLast">
+
+<tt>Boolean</tt>
+
+</p>
+</div>
+        <div><a name="_common_data_types" id="_common_data_types"></a><h2>4.2<span style="mso-tab-count:1">&#xA0; </span>Common data types</h2><p class="MsoNormal"><a name="_d86f6c64-45b8-445b-8dee-8a00256d881f" id="_d86f6c64-45b8-445b-8dee-8a00256d881f"></a>The following data models are used by other data models specified in
+this document.</p>
+<p class="Sourcecode" style="page-break-after:avoid;"><a name="_af3041fc-fe64-46c1-8a0d-be0b94d66f17" id="_af3041fc-fe64-46c1-8a0d-be0b94d66f17"></a>diagram DataTypes {<br/>&#xA0; title "Data types used in this document"<br/><br/>&#xA0; include ../models/iso639Code.lutaml<br/>&#xA0; include ../models/iso639Code.lutaml<br/>&#xA0; include ../models/LocalizedTag.lutaml<br/>&#xA0; include ../models/LocalizedString.lutaml<br/>&#xA0; include ../models/JulianDate.lutaml<br/>&#xA0; include ../models/CalendarDate.lutaml<br/>}</p><p class="SourceTitle" style="text-align:center;">Figure 2</p>
+</div>
+      </div>
+      <div><a name="data-models" id="data-models"></a>
+        <h1>5<span style="mso-tab-count:1">&#xA0; </span>Data models</h1>
+        <p class="Sourcecode" style="page-break-after:avoid;"><a name="_9c06317d-376e-4c08-9b0c-4d5c9810fab3" id="_9c06317d-376e-4c08-9b0c-4d5c9810fab3"></a>diagram CalendarSystem {<br/>&#xA0; title "Calendar system and era models"<br/><br/>&#xA0; include ../models/CalendarSystem.lutaml<br/>&#xA0; include ../models/CalendarEra.lutaml<br/>}<br/><br/>// imports:<br/>//&#xA0;&#xA0; CalendarSystem:<br/>//&#xA0;&#xA0; CalendarEra:<br/>// groups:<br/>//&#xA0;&#xA0; # - - AddressProfile<br/>//&#xA0;&#xA0; # - - FormTemplate<br/>//&#xA0;&#xA0; #&#xA0;&#xA0; - DisplayTemplate<br/>// relations:<br/>//&#xA0;&#xA0; - source: CalendarEra<br/>//&#xA0;&#xA0;&#xA0;&#xA0; target: CalendarSystem<br/>//&#xA0;&#xA0;&#xA0;&#xA0; direction: 'up'<br/>//&#xA0;&#xA0; # - source: FormTemplate<br/>//&#xA0;&#xA0; #&#xA0;&#xA0; target: DisplayTemplate<br/>//&#xA0;&#xA0; #&#xA0;&#xA0; direction: '[hidden]right'</p>
+        <p class="SourceTitle" style="text-align:center;">Figure 3</p>
+      </div>
+      <div><a name="codes" id="codes"></a>
+        <h1>6<span style="mso-tab-count:1">&#xA0; </span>Codes and identifiers</h1>
+        <div><a name="scsa-requirements" id="scsa-requirements"></a><h2>6.1<span style="mso-tab-count:1">&#xA0; </span>Requirements</h2>
+
+<div><a name="_general" id="_general"></a><h3>6.1.1<span style="mso-tab-count:1">&#xA0; </span>General</h3><p class="MsoNormal"><a name="_3109daf1-3977-423b-a8e6-e87fa14a09ac" id="_3109daf1-3977-423b-a8e6-e87fa14a09ac"></a>A calendar system is eligible for assignment of an entry based on its usage of date identification and the need for international interchange.</p>
+<p class="MsoNormal"><a name="_64793ab0-16bf-4960-ac9a-4fe256e3a008" id="_64793ab0-16bf-4960-ac9a-4fe256e3a008"></a>Usage of a calendar system is determined by at least one of the following conditions, by presentation of evidence:</p>
+
+<p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpFirst">
+The system has been approved for official use at some level of government (current, historic, or will be in the near future);
+</p>
+<p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpLast">
+The system has been used to identify with dates, such as in bibliographic information (current, historic, or will be in the near future).
+</p>
+
+<p class="MsoNormal"><a name="_6653effa-70f8-47d4-a1da-81c351169224" id="_6653effa-70f8-47d4-a1da-81c351169224"></a>Justification should be given to indicate that international interchange is necessary.</p>
+<p class="MsoNormal"><a name="_bb655f59-7c3f-485b-96d4-0e3f691c4241" id="_bb655f59-7c3f-485b-96d4-0e3f691c4241"></a>A similar set of requirements apply to the registration of calendar eras. A calendar era entry must be associated
+with at least one calendar system entry.</p></div>
+</div>
+        <div><a name="_principles_for_allocation_of_code_elements" id="_principles_for_allocation_of_code_elements"></a><h2>6.2<span style="mso-tab-count:1">&#xA0; </span>Principles for allocation of code elements</h2><div><a name="_relationship_with_names" id="_relationship_with_names"></a><h3>6.2.1<span style="mso-tab-count:1">&#xA0; </span>Relationship with names</h3><p class="MsoNormal"><a name="_62fe4587-7ea3-40a6-a51c-9cbb4d038182" id="_62fe4587-7ea3-40a6-a51c-9cbb4d038182"></a>Calendar systems have codes in the following format:</p>
+<p class="Sourcecode" style="page-break-after:avoid;"><a name="_ad86e324-d8bf-4161-a50f-4324e53c1969" id="_ad86e324-d8bf-4161-a50f-4324e53c1969"></a>[system-code]</p><p class="SourceTitle" style="text-align:center;">Figure 4</p>
+
+<div class="Example"><a name="_ec208db6-c7c7-4ea6-b12e-e1d73f1d6f70" id="_ec208db6-c7c7-4ea6-b12e-e1d73f1d6f70"></a><p class="Example"><span class="example_label">EXAMPLE</span><span style="mso-tab-count:1">&#xA0; </span><tt>gregorian</tt> or <tt>gre</tt> for the Gregorian calendar, whose specification is
+provided in <a href="#ISO8601-1">ISO 8601-1</a>.</p></div></div>
+<div><a name="_construction_of_the_alphabetic_code" id="_construction_of_the_alphabetic_code"></a><h3>6.2.2<span style="mso-tab-count:1">&#xA0; </span>Construction of the alphabetic code</h3><p class="MsoNormal"><a name="_b96ebe4a-4a22-4902-aac6-b9b477e4d957" id="_b96ebe4a-4a22-4902-aac6-b9b477e4d957"></a>The following rules are to be adhered to for the assignment of the alphabetic code:</p>
+
+<p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpFirst">
+The alphabetic code uses combinations, in lower case, of between 3 and 20 fixed letters of the 26-character Latin alphabet.
+</p>
+<p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpLast">
+Codes shall encourage descriptive and distinguishable alphabetic names.
+</p>
+
+<p class="MsoNormal"><a name="_5515b333-a976-4624-8a0b-6bdfecda2e62" id="_5515b333-a976-4624-8a0b-6bdfecda2e62"></a>An additional short alias for the alphabetic code composed of 3 fixed letters of the 26-character Latin alphabet is allowed.</p></div>
+<div><a name="_user_assigned_code_elements" id="_user_assigned_code_elements"></a><h3>6.2.3<span style="mso-tab-count:1">&#xA0; </span>User assigned code elements</h3><p class="MsoNormal"><a name="_863377ac-89a3-4e42-ace0-0ebdc7fb89ef" id="_863377ac-89a3-4e42-ace0-0ebdc7fb89ef"></a>If users need code elements to represent calendar systems not included in the calendar code registry, the code prefix of <tt>zz</tt> can be used.</p>
+<p class="MsoNormal"><a name="_4958345c-ba4f-4a93-94f1-a9778acbfed8" id="_4958345c-ba4f-4a93-94f1-a9778acbfed8"></a>The code length for the calendar system identifier must be 3 letters.</p>
+<p class="MsoNormal"><a name="_6204dbd5-7fbf-464c-921a-be393f176311" id="_6204dbd5-7fbf-464c-921a-be393f176311"></a>Such calendar system identifiers are in the following format:</p>
+<p class="Sourcecode" style="page-break-after:avoid;"><a name="_58f212c4-a036-4d6f-b098-554fb48834cd" id="_58f212c4-a036-4d6f-b098-554fb48834cd"></a>zz[calendar-system-identifier]</p><p class="SourceTitle" style="text-align:center;">Figure 5</p>
+
+<div class="Note"><a name="_bad018ca-29a2-42fe-8058-b9edcecd0db8" id="_bad018ca-29a2-42fe-8058-b9edcecd0db8"></a><p class="Note"><span class="note_label">NOTE</span><span style="mso-tab-count:1">&#xA0; </span>Users are advised that the above series of codes are not universals, those code elements are not compatible between different entities.</p></div></div></div>
+        <div><a name="_list_of_calendar_system_and_their_code_elements" id="_list_of_calendar_system_and_their_code_elements"></a><h2>6.3<span style="mso-tab-count:1">&#xA0; </span>List of calendar system and their code elements</h2><p class="MsoNormal"><a name="_c9164e01-5ccd-40ac-9fc5-6a15823b7ad1" id="_c9164e01-5ccd-40ac-9fc5-6a15823b7ad1"></a>The list of items composing the content of the country code is initially
+compiled in a separate dataset outside of this document.
+Additional and new entries will be listed by the ISO 34300/AG.</p>
+<p class="MsoNormal"><a name="_6ca5a490-22a1-450a-9fff-857029dc3c98" id="_6ca5a490-22a1-450a-9fff-857029dc3c98"></a>Data attributes provided in the list is defined in <a href="#codes">Clause 6</a>.</p></div>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div><p class="BiblioTitle">Bibliography</p><p class="Biblio"><a name="ISO8601-1" id="ISO8601-1"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>ISO 8601-1, <i>Date and time&#x2009;&#x2014;&#x2009;Representations for information interchange&#x2009;&#x2014;&#x2009;Part 1: Basic rules</i></p><p class="Biblio"><a name="ISO10646-2" id="ISO10646-2"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC 10646-2, <i>Information technology&#x2009;&#x2014;&#x2009;Universal Multiple-Octet Coded Character Set (UCS)&#x2009;&#x2014;&#x2009;Part 2: Supplementary Planes</i></p><p class="Biblio"><a name="ISO15285" id="ISO15285"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC TR 15285:1998, <i>Information technology&#x2009;&#x2014;&#x2009;An operational model for characters and glyphs</i></p><p class="Biblio"><a name="ISO34000" id="ISO34000"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO/CD 34000<span style="mso-bookmark:_Ref173928445"><a class="FootnoteRef" href="#_ftn1" epub:type="footnote" style="mso-footnote-id:ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i>Date and time&#x2009;&#x2014;&#x2009;Concepts and vocabulary</i></p><p class="Biblio"><a name="IAUGA23Julian" id="IAUGA23Julian"></a>[5]<span style="mso-tab-count:1">&#xA0; </span>The XXIIIrd International Astronomical Union General Assembly, <i>The XXIIIrd International Astronomical Union General Assembly</i>, 1997. Available at: <a href="https://www.iers.org/IERS/EN/Science/Recommendations/resolutionB1.html">https://www.iers.org/IERS/EN/Science/Recommendations/resolutionB1.html</a></p>   </div>
+      
+    </div>
+  <div style="mso-element:footnote-list"><div style="mso-element:footnote" id="ftn1">
+  
+  <p class="MsoFootnoteText"><a style="mso-footnote-id:ftn1" href="#_ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a>
+                          Under preparation. (Stage at the time of publication ISO/CD 34000).</p>
+  <p class="MsoFootnoteText"><a name="_2cc283bc-a68f-4cb4-a026-f2e7e7c23f2d" id="_2cc283bc-a68f-4cb4-a026-f2e7e7c23f2d"></a>Under preparation. (Stage at the time of publication ISO/CD 34000).</p>
+</div>
+</div></body>
+</html>
+
+
+------=_NextPart_a3030b42.275a.4cdb
+Content-ID: <filelist.xml>
+Content-Disposition: inline; filename="filelist.xml"
+Content-Transfer-Encoding: base64
+Content-Type: application/xml
+
+PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
+ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uL3NvdXJjZXMvaXNvLTM0MzAwLmh0bSIvPiAgPG86
+RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxlIEhSZWY9ImhlYWRlci5odG1sIi8+
+CjwveG1sPgo=
+
+------=_NextPart_a3030b42.275a.4cdb
+Content-ID: <header.html>
+Content-Disposition: inline; filename="header.html"
+Content-Transfer-Encoding: base64
+Content-Type: text/html charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uL3NvdXJjZXMvaXNvLTM0MzAw
+Lmh0bWwiPg0KPCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQogPG86c2hhcGVkZWZhdWx0cyB2OmV4
+dD0iZWRpdCIgc3BpZG1heD0iMjA0OSIvPg0KPC94bWw+PCFbZW5kaWZdLS0+DQo8L2hlYWQ+DQoN
+Cjxib2R5IGxhbmc9RU4gbGluaz1ibHVlIHZsaW5rPSIjOTU0RjcyIj4NCg0KPGRpdiBzdHlsZT0n
+bXNvLWVsZW1lbnQ6Zm9vdG5vdGUtc2VwYXJhdG9yJyBpZD1mcz4NCg0KPHAgY2xhc3M9TXNvTm9y
+bWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1o
+ZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFs
+LWNoYXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4N
+Cg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFu
+Pjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290bm90
+ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJyBpZD1mY3M+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBz
+dHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0
+Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFy
+YWN0ZXI6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRvcic+PCFbaWYgIXN1cHBvcnRGb290
+bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVmdCBzaXplPTE+DQoNCjwhW2VuZGlmXT48L3NwYW4+PC9z
+cGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmVuZG5vdGUtc2Vw
+YXJhdG9yJyBpZD1lcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9t
+OjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxh
+bmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1zZXBh
+cmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0x
+IHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0K
+DQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLWNvbnRpbnVhdGlvbi1zZXBhcmF0b3In
+IGlkPWVjcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTtt
+YXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
+R0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1jb250aW51YXRp
+b24tc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+DQoNCjxociBhbGlnbj1sZWZ0
+IHNpemU9MT4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRp
+diBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laGE+DQoNCjxwIGNsYXNzPU1zb0hlYWRl
+ciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7bGluZS1oZWlnaHQ6MTIuMHB0Ow0K
+bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5JU08vV0QgMzQz
+MDA6MjAyMChFKTwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVu
+dDpoZWFkZXInIGlkPWhhPg0KDQo8cCBjbGFzcz1Nc29IZWFkZXIgc3R5bGU9J21hcmdpbi1ib3R0
+b206MTguMHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28t
+YmlkaS1mb250LXNpemU6MTEuMHB0O2ZvbnQtd2VpZ2h0Om5vcm1hbCc+wqkNCklTTyZuYnNwOzIw
+MjAmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDwvc3Bhbj48c3BhbiBsYW5nPUVOLUdCDQpz
+dHlsZT0nZm9udC13ZWlnaHQ6bm9ybWFsJz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2
+Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVmYT4NCg0KPHAgY2xhc3M9
+TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNv
+LWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0
+eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHls
+ZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1zcGFj
+ZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDC
+oA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1z
+ZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJp
+ZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6
+MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1uby1w
+cm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpz
+dHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5
+bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+
+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPsKpDQpJU08m
+bmJzcDsyMDIwJm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48
+L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWVoMj4N
+CjxwIGNsYXNzPU1zb0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7bGlu
+ZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFu
+Zz1FTi1HQj5JU08vV0QgMzQzMDA6MjAyMChFKTwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBz
+dHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laDJsPg0KPHAgY2xhc3M9TXNvSGVhZGVyTGFu
+ZHNjYXBlIGFsaWduPWxlZnQgc3R5bGU9J3RleHQtYWxpZ246bGVmdDtsaW5lLWhlaWdodDoxMi4w
+cHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3BhbiBsYW5nPUVOLUdCPklTTy9X
+RCAzNDMwMDoyMDIwKEUpPC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxl
+bWVudDpoZWFkZXInIGlkPWgyPg0KPHAgY2xhc3M9TXNvSGVhZGVyIGFsaWduPXJpZ2h0IHN0eWxl
+PSd0ZXh0LWFsaWduOnJpZ2h0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1y
+dWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0I+SVNPL1dEIDM0MzAwOjIwMjAoRSk8L3NwYW4+
+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9aDJsPg0K
+PHAgY2xhc3M9TXNvSGVhZGVyTGFuZHNjYXBlIGFsaWduPXJpZ2h0IHN0eWxlPSd0ZXh0LWFsaWdu
+OnJpZ2h0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHkn
+PjxzcGFuIGxhbmc9RU4tR0I+SVNPL1dEIDM0MzAwOjIwMjAoRSk8L3NwYW4+PC9wPg0KPC9kaXY+
+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZWYyPg0KPHAgY2xhc3M9TXNv
+Rm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhh
+Y3RseSc+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21z
+by1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46
+eWVzJz7CoDwvc3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwv
+c3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJh
+dG9yJz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdm
+b250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0n
+bXNvLW5vLXByb29mOnllcyc+aWk8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+
+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48
+L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
+cHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6
+DQoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgIDwvc3Bhbj7CqQ0KSVNPJm5ic3A7MjAyMCZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVk
+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50
+OmZvb3RlcicgaWQ9ZWYybD4NCjxwIGNsYXNzPU1zb0Zvb3RlckxhbmRzY2FwZSBzdHlsZT0nbGlu
+ZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjwhLS1baWYgc3Vw
+cG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNv
+LWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1i
+ZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFH
+RTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JN
+QVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bh
+bj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDtt
+c28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMn
+PmlpPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdC
+IHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFu
+DQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0t
+PjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQt
+c2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50Og0KMSc+wqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+wqkNCklT
+TyZuYnNwOzIwMjAmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+PC9zcGFu
+PjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWYyPg0K
+PHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQnPjxzcGFuIGxhbmc9
+RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQn
+PsKpIElTTyZuYnNwOzIwMjAmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxzcGFuIHN0eWxl
+PSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bh
+bg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6
+MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+IFBB
+R0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9S
+TUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3Nw
+YW4+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVz
+Jz5paWk8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNw
+YW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZd
+LS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9u
+dC1zaXplOjExLjBwdCc+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5
+bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZjJsPg0KPHAgY2xhc3M9TXNvRm9vdGVyTGFuZHNj
+YXBlIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQnPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdm
+b250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPsKpIElTTyZuYnNwOzIw
+MjAmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50
+OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+IDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0K
+c3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+IFBBR0U8c3BhbiBzdHlsZT0n
+bXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxl
+PSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+
+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz5paWk8L3NwYW4+PC9z
+cGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
+c2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28t
+ZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1F
+Ti1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+
+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50
+OmZvb3RlcicgaWQ9ZWYzPg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEy
+LjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48
+IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3Jt
+YWwnPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZv
+bnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwv
+c3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBz
+dHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFu
+IHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwh
+W2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBs
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjEx
+LjBwdCc+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48
+IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9y
+bWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGkt
+Zm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9z
+cGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
+c2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28t
+dGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqAgPC9zcGFuPsKpDQpJU08mbmJzcDsyMDIwJm5ic3A74oCTIEFsbCByaWdodHMg
+cmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNv
+LWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjNsPg0KPHAgY2xhc3M9TXNvRm9vdGVyTGFuZHNjYXBlIHN0
+eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0
+LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlk
+aS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6
+MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1l
+bnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKg
+PC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwq
+IE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwv
+c3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWln
+aHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNv
+LWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8
+L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJp
+ZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6
+MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVt
+ZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9
+RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+
+PHNwYW4NCnN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPsKpDQpJU08mbmJzcDsyMDIwJm5i
+c3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4N
+Cg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mMz4NCjxwIGNsYXNzPU1zb0Zv
+b3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6MTIuMHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0n
+Zm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz7CqSBJU08mbmJzcDsy
+MDIwJm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3Vu
+dDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgIDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1i
+aWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXpl
+OjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxl
+bWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPg0KUEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46
+eWVzJz7CoMKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50
+OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxl
+PSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2Zv
+bnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0n
+bXNvLW5vLXByb29mOnllcyc+Mzwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxk
+c10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48
+c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtl
+bmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlk
+aS1mb250LXNpemU6MTEuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRp
+diBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mM2w+DQo8cCBjbGFzcz1Nc29Gb290ZXJM
+YW5kc2NhcGUgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdCc+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5
+bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+wqkgSVNPJm5i
+c3A7MjAyMCZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21zby10YWIt
+Y291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoCA8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdt
+c28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
+c2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNv
+LWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4NClBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNl
+cnVuOnllcyc+wqDCoCA8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4NCnN0eWxlPSdtc28tZWxl
+bWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpz
+dHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5
+bGU9J21zby1uby1wcm9vZjp5ZXMnPjM8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRG
+aWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5n
+PUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBw
+dCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+
+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNv
+LWJpZGktZm9udC1zaXplOjExLjBwdCc+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoN
+CjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZjQ+DQogIA0KDQoNCjxwIGNsYXNz
+PU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDowY20nPjxzcGFuIGxhbmc9RU4tQVUgc3R5bGU9
+J2ZvbnQtc2l6ZToNCjEwLjBwdDttc28tYW5zaS1sYW5ndWFnZTpFTi1BVSc+UHJpY2UgYmFzZWQg
+b24gPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4gc3R5
+bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPk5VTVBBR0VTPHNwYW4gc3R5bGU9J21zby1z
+cGFjZXJ1bjp5ZXMnPsKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVs
+ZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5
+ZXMnPjI2PC9zcGFuPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj4g
+cGFnZXM8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz1Nc29Gb290ZXI+PHNwYW4gbGFuZz1FTi1BVSBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDsnPsKpDQpJU08mbmJzcDsyMDIwJm5ic3A74oCTIEFsbCBy
+aWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQoNCg0KPC9i
+b2R5Pg0KDQo8L2h0bWw+DQo=
+
+------=_NextPart_a3030b42.275a.4cdb--

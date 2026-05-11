@@ -1,0 +1,79 @@
+/Users/mulgogi/src/calconnect/csd-calendar-systems/site/documents/iso-34300-b.err errors
+
+
+== Anchors
+
+(XML Line 000379): normalised identifier in <clause id="_badi_bad__xed___x2bf__calendar" inline-header="false" obligation="normative"/> from _badi_badíʿ_calendar
+	<clause id="_badi_bad__xed___x2bf__calendar" inline-header="false" obligation="normative">
+	<title><tt>badi:</tt> Badíʿ calendar</title>
+	<table id="_9a0b90a8-2698-4637-86b4-ab9bbf796be2">
+	<name>Badíʿ calendar</name>
+	<tbody>
+
+
+== Style
+
+(XML Line 000001): number not broken up in threes: 34000
+	<note type="Unpublished-Status">
+	                          <p id="_d211955c-ba62-47d2-b025-20cb05028f48">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p></note>
+(XML Line 000001): number not broken up in threes: 34000
+	<fn reference="a">
+	                          <p id="_8c7289c2-cffa-40c6-b448-71bab3da31d3">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p></fn>
+(XML Line 000002): number not broken up in threes: 34000
+	<p id="_d211955c-ba62-47d2-b025-20cb05028f48">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p>
+(XML Line 000002): number not broken up in threes: 34000
+	<p id="_8c7289c2-cffa-40c6-b448-71bab3da31d3">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p>
+(XML Line 000007): No French Title Part!
+	<title language="en" format="text/plain" type="title-part">Liste d’enregistrement</title>
+(XML Line 000060): Foreword may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights
+	<foreword id="_0081aff0-5352-48e0-b2e3-4b75fd2ea0cd" obligation="informative"><title>Foreword</title><p id="_6f4c63ee-8702-4c91-b496-c2c204f771f7">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_33258f25-8be7-43ac-9453-4bec27f01180">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_82022a60-4b99-4b1d-aae4-5e46fab7e2b2">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_fffd3a66-3ae1-403f-ad8e-34f3dfca5877">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000060): Foreword may contain permission: Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights
+	<foreword id="_0081aff0-5352-48e0-b2e3-4b75fd2ea0cd" obligation="informative"><title>Foreword</title><p id="_6f4c63ee-8702-4c91-b496-c2c204f771f7">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_33258f25-8be7-43ac-9453-4bec27f01180">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_82022a60-4b99-4b1d-aae4-5e46fab7e2b2">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_fffd3a66-3ae1-403f-ad8e-34f3dfca5877">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000060): Foreword may contain recommendation: In particular the different approval criteria needed for the different types of ISO documents should be noted
+	<foreword id="_0081aff0-5352-48e0-b2e3-4b75fd2ea0cd" obligation="informative"><title>Foreword</title><p id="_6f4c63ee-8702-4c91-b496-c2c204f771f7">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_33258f25-8be7-43ac-9453-4bec27f01180">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_82022a60-4b99-4b1d-aae4-5e46fab7e2b2">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_fffd3a66-3ae1-403f-ad8e-34f3dfca5877">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000794): number not broken up in threes: 1958
+	<p id="_004becd6-c27f-4111-9667-46cda59e0e9e">Linear count by day according to the epoch of 0h Jan 1, 1958. See <eref type="inline" bibitemid="CCSDSTC" citeas="CC CCSDS 301.0-B-4"/>.</p>
+(XML Line 000903): number not broken up in threes: 1950
+	<p id="_a17a3794-b9f2-4926-b446-12fe3fa17ce2">Linear count by day according to the epoch of 0h Jan 1, 1950.</p>
+(XML Line 001187): number not broken up in threes: 1899
+	<p id="_db4f557c-cdbb-414a-8479-46f072077af1">Linear count by day according to the epoch of noon Dec 31, 1899.</p>
+(XML Line 001393): number not broken up in threes: 34000
+	<p id="_fd5a1115-f03b-4f25-a632-bd906569ab80">See <eref type="inline" bibitemid="ISO34000" citeas="ISO/DIS 34000"/><fn reference="a">
+	                          <p id="_8c7289c2-cffa-40c6-b448-71bab3da31d3">Under preparation. (Stage at the time of publication ISO/DIS 34000).</p></fn>.</p>
+(XML Line 002391): number not broken up in threes: 1582
+	<p id="_426efd05-0ca7-497c-982d-b2ba3a90b4a5">Count of days of the Gregorian calendar. Linear count by day according to the epoch of Oct 15, 1582.</p>
+(XML Line 002576): number not broken up in threes: 1873
+	<p id="_b0cb9dc7-f56d-4887-aefc-8372009226de">Linear count of Martian days according to the epoch of noon Dec 29, 1873.</p>
+(XML Line 002741): number not broken up in threes: 1912
+	<p id="_bc89ead3-b2f4-41d8-8da9-ec82e5743fe0">Linear count of year with epoch from Gregorian year 1912, month and day according to Gregorian calendar</p>
+(XML Line 002757): number not broken up in threes: 1949
+	<p id="_fe58c127-ec12-4458-b2b9-d01db3625b32">From January 1, 1912 to September 30, 1949.</p>
+(XML Line 002757): number not broken up in threes: 1912
+	<p id="_fe58c127-ec12-4458-b2b9-d01db3625b32">From January 1, 1912 to September 30, 1949.</p>
+(XML Line 003096): no dots in abbreviations: R.D
+	<p id="_540b424b-7d69-40a1-a411-7d49784502cd">R.D.</p>
+(XML Line 003150): number not broken up in threes: 1858
+	<p id="_4ffda97f-6105-4c38-8ce3-f7bb89721fb2">Linear count by day according to the epoch of noon Nov 16, 1858.</p>
+(XML Line 003624): number not broken up in threes: 1968
+	<p id="_e9ffa0d4-4068-4693-8ce2-5a23ea9d098e">Linear count by day according to the epoch of 0h May 24, 1968.</p>
+(XML Line 003672): number not broken up in threes: 1970
+	<p id="_97c880b3-d645-4b44-b8b9-085b5ba4100a">Linear count of seconds according to the epoch of 0h Jan 1, 1970.</p>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000055:26): value of attribute "part" is invalid; must be an integer
+(XML Line 004024:27): element "docidentifier" not allowed yet; expected element "fetched", "formattedref" or "title"
+(XML Line 004035:261): character content of element "from" invalid; must be a year

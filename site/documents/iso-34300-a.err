@@ -1,0 +1,41 @@
+/Users/mulgogi/src/calconnect/csd-calendar-systems/site/documents/iso-34300-a.err errors
+
+
+== Style
+
+(XML Line 000061): Foreword may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights
+	<foreword id="_60bb8f4c-31fa-40b7-afa5-94a4237d0f44" obligation="informative"><title>Foreword</title><p id="_9b743435-521d-4154-96d1-2d38cb229a58">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_19ce6521-3a1b-4da5-8a09-2a88c0d42216">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_6c3e404a-dffb-4b48-92c0-12447b2c2b02">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_cc8685f9-2859-44cb-96b5-4242a15bd504">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000061): Foreword may contain permission: Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights
+	<foreword id="_60bb8f4c-31fa-40b7-afa5-94a4237d0f44" obligation="informative"><title>Foreword</title><p id="_9b743435-521d-4154-96d1-2d38cb229a58">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_19ce6521-3a1b-4da5-8a09-2a88c0d42216">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_6c3e404a-dffb-4b48-92c0-12447b2c2b02">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_cc8685f9-2859-44cb-96b5-4242a15bd504">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000061): Foreword may contain recommendation: In particular the different approval criteria needed for the different types of ISO documents should be noted
+	<foreword id="_60bb8f4c-31fa-40b7-afa5-94a4237d0f44" obligation="informative"><title>Foreword</title><p id="_9b743435-521d-4154-96d1-2d38cb229a58">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_19ce6521-3a1b-4da5-8a09-2a88c0d42216">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_6c3e404a-dffb-4b48-92c0-12447b2c2b02">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_cc8685f9-2859-44cb-96b5-4242a15bd504">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000092): number not broken up in threes: 34300
+	<p id="_fa17503a-6b98-4ff8-9d63-ffaf4f9d4b0c">registration authority that manages the <concept><refterm>ISO 34300 register</refterm><renderterm>ISO 34300 register</renderterm><xref target="term-iso-34300-register"/></concept></p>
+(XML Line 000095): number not broken up in threes: 34300
+	<p id="_11e6ccd0-fe6e-483c-a4da-fdad7da362d5">register containing <concept><refterm>ISO 34300 registration item</refterm><renderterm>ISO 34300 registration items</renderterm><xref target="term-iso-34300-registration-item"/></concept></p>
+(XML Line 000100): number not broken up in threes: 34300
+	<p id="_c18c5ad8-4d39-4901-9558-e318b58fd4b8">group that provides advice to the <concept><refterm>ISO 34300 registration authority</refterm><renderterm>ISO 34300 registration authority</renderterm><xref target="term-iso-34300-registration-authority"/></concept> on the
+	contents of the <concept><refterm>ISO 34300 register</refterm><renderterm>ISO 34300 register</renderterm><xref target="term-iso-34300-register"/></concept></p>
+(XML Line 000100): number not broken up in threes: 34300
+	<p id="_c18c5ad8-4d39-4901-9558-e318b58fd4b8">group that provides advice to the <concept><refterm>ISO 34300 registration authority</refterm><renderterm>ISO 34300 registration authority</renderterm><xref target="term-iso-34300-registration-authority"/></concept> on the
+	contents of the <concept><refterm>ISO 34300 register</refterm><renderterm>ISO 34300 register</renderterm><xref target="term-iso-34300-register"/></concept></p>
+(XML Line 000104): number not broken up in threes: 34300
+	<p id="_8873365a-3021-4c49-9894-f8d0a49c768d">registration item identified by a registration code unique to the
+	<concept><refterm>ISO 34300 register</refterm><renderterm>ISO 34300 register</renderterm><xref target="term-iso-34300-register"/></concept></p>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000056:26): value of attribute "part" is invalid; must be an integer

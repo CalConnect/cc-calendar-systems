@@ -1,11 +1,35 @@
 
 [[models-overview]]
-== Calendar system models overview
+== Calendar systems and calendar eras
 
-The data models are arranged as shown in the following
-structure.
+=== Calendar systems
 
-[lutaml_diagram]
-....
-include::../views/TopDown.lutaml[]
-....
+The calendar system is an important component for date and time organisation
+in human history, as described in <<ISO34000,clause=9.5.2>>.
+
+Different calendar systems are in use globally, whether for timekeeping,
+administrative, archival, cultural, religious or other purposes.
+
+This document provide identifiers and information models that facilitate
+interoperability of date and time representations using calendar systems across
+information systems.
+
+
+=== Calendar eras
+
+The calendar era is a time scale unit utilized by some calendar systems,
+representing periods of time each, for the specification of date and time.
+
+This document provide identifiers and information models that facilitate
+interoperability of date and time specified using calendar systems that utilize
+calendar eras.
+
+
+// The data models are arranged as shown in the following
+// structure.
+
+// .UML models for CalendarSystem and CalendarEra
+// [lutaml_diagram]
+// ....
+// include::../views/TopDown.lutaml[]
+// ....

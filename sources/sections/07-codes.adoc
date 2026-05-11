@@ -32,50 +32,52 @@ A calendar system may be marked with usage
 
 ==== Relationship with names
 
-Calendar systems have codes in the following format:
+Calendar systems codes represent a respective calendar system by virtue of
+a mapping maintained by the ISO {docnumber}/AG.
 
-[source]
-----
-[system-code]
-----
+The calendar system code is an alphabetic code, and the code may be constructed
+from alphabetical elements from the name of the corresponding calendar system.
 
 [example]
-`gregorian` or `gre` for the Gregorian calendar, whose specification is
-provided in <<ISO8601-1>>.
+The Gregorian calendar, whose specification is provided in <<ISO8601-1>>, is
+assigned the code `gregorian` and the short alias code `gre`.
 
 
+[[calendar-code-construction]]
 ==== Construction of the alphabetic code
 
-The following rules are to be adhered to for the assignment of the alphabetic code:
+The following rules are to be adhered to for the assignment of the alphabetic
+code:
 
-* The alphabetic code uses combinations, in lower case, of between 3 and 20 fixed letters of the 26-character Latin alphabet.
+* The alphabetic code uses combinations, in lower case, of between 3 and 20
+fixed letters of the 26-character Latin alphabet.
 
 * Codes shall encourage descriptive and distinguishable alphabetic names.
 
-An additional short alias for the alphabetic code composed of 3 fixed letters of the 26-character Latin alphabet is allowed.
+* An optional short alias for the alphabetic code composed of 3 fixed letters
+of the 26-character Latin alphabet is allowed.
 
 //, allowing for close to stem:[3^26] combinations.
 
 
 ==== User assigned code elements
 
-If users need code elements to represent calendar systems not included in the calendar code registry, the code prefix of `zz` can be used.
+If users need code elements to represent calendar systems not included in the
+calendar code registry, the code prefix of `zz` can be used.
 
 The code length for the calendar system identifier must be 3 letters.
 
 Such calendar system identifiers are in the following format:
 
+.User-assigned calendar system identifier pattern
 [source]
 ----
 zz[calendar-system-identifier]
 ----
 
-////
-[example]
-`xx-unece-cet` is an example of a user-assigned private code for a calendar code published by the UN/ECE.
-////
-
-NOTE: Users are advised that the above series of codes are not universals, those code elements are not compatible between different entities.
+NOTE: Users are advised that the above series of codes are not universal, as
+such those code elements are not meant to be compatible between different
+entities.
 
 
 === List of calendar system and their code elements

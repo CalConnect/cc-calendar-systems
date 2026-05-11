@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <fetched>2021-09-15</fetched>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages</title>
+  <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Alpha-3 code</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of languages - Part 2: Alpha-3 code</title>
+  <uri type="src">https://www.iso.org/standard/4767.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:4767:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/00/47/4767.detail.rss</uri>
+  <docidentifier type="ISO">ISO 639-2:1998</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:639:-2:stage-90.60:ed-1:en</docidentifier>
+  <docnumber>639</docnumber>
+  <date type="published">
+    <on>1998-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>90</stage>
+    <substage>60</substage>
+  </status>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <place>Geneva</place>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="37" type="TC" identifier="ISO/TC 37/SC 2">Terminology workflow and language coding</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>01.140.20</code>
+      <text>Information sciences</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number part="2">ISO 639</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

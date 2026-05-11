@@ -1,0 +1,98 @@
+sources/iso-34300.err errors
+
+
+== Style
+
+(): _general:General: subclause is only child
+(): Prefatory material must be followed by (clause) Scope
+(): Normative References must be followed by Terms and Definitions
+(): Scope clause missing
+(XML Line 000001): number not broken up in threes: 34000
+	<note type="Unpublished-Status">
+	                          <p id="_2cc283bc-a68f-4cb4-a026-f2e7e7c23f2d">Under preparation. (Stage at the time of publication ISO/CD 34000).</p></note>
+(XML Line 000002): number not broken up in threes: 34000
+	<p id="_2cc283bc-a68f-4cb4-a026-f2e7e7c23f2d">Under preparation. (Stage at the time of publication ISO/CD 34000).</p>
+(XML Line 000059): Foreword may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights
+	<foreword id="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a" obligation="informative"><title>Foreword</title><p id="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_24c8e604-6a01-4fcc-ad2b-a5295728a896">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_278531c8-a10c-4adb-a0bd-e49fc055e4aa">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000059): Foreword may contain permission: Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights
+	<foreword id="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a" obligation="informative"><title>Foreword</title><p id="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_24c8e604-6a01-4fcc-ad2b-a5295728a896">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_278531c8-a10c-4adb-a0bd-e49fc055e4aa">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000059): Foreword may contain recommendation: In particular the different approval criteria needed for the different types of ISO documents should be noted
+	<foreword id="_50bee48b-647e-4286-bb7c-ae7ffb4cee8a" obligation="informative"><title>Foreword</title><p id="_c8932ea0-112f-4afd-8e1f-c57d10b8e9bd">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_7c4dd56a-c8f5-4329-8ed1-460a0d2cedbb">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_24c8e604-6a01-4fcc-ad2b-a5295728a896">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_278531c8-a10c-4adb-a0bd-e49fc055e4aa">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000093): term citation not preceded with italicised term: codecode
+	<xref target="term-code"/>
+(XML Line 000096): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="ISO5127" type="inline" citeas="ISO 5127"><localityStack><locality type="clause"><referenceFrom>3.2.5.14</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000100): possible decimal point: 3.8
+	<termsource status="identical">
+	<origin bibitemid="ISO15924" type="inline" citeas="ISO 15924:2004"><localityStack><locality type="clause"><referenceFrom>3.8</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000120): Hanging paragraph in clause
+	<clause id="common-data" inline-header="false" obligation="normative"><title>Data types</title><clause id="_core_data_types" inline-header="false" obligation="normative"><title>Core data types</title><p id="_0dae586c-737d-4dd5-bea6-f7b5c1e8e3c5">These are the core data types used within this document.</p>
+	<ul id="_288de36e-5046-4942-ae7b-dfe154b73e45">
+	<li>
+	<p id="_9ce1230d-b3e3-4e6c-8dd0-8afeff83751e">
+	<tt>CharacterString</tt>
+(XML Line 000157): Scope must occur before Terms and Definitions
+	<clause id="data-models" inline-header="false" obligation="normative"><title>Data models</title><sourcecode lang="lutaml" id="_9c06317d-376e-4c08-9b0c-4d5c9810fab3">diagram CalendarSystem {
+	  title "Calendar system and era models"
+	
+	  include ../models/CalendarSystem.lutaml
+	  include ../models/CalendarEra.lutaml
+(XML Line 000179): Hanging paragraph in clause
+	<clause id="codes" inline-header="false" obligation="normative"><title>Codes and identifiers</title><clause id="scsa-requirements" inline-header="false" obligation="normative">
+	<title>Requirements</title>
+	<clause id="_general" inline-header="false" obligation="normative"><title>General</title><p id="_3109daf1-3977-423b-a8e6-e87fa14a09ac">A calendar system is eligible for assignment of an entry based on its usage of date identification and the need for international interchange.</p>
+	<p id="_64793ab0-16bf-4960-ac9a-4fe256e3a008">Usage of a calendar system is determined by at least one of the following conditions, by presentation of evidence:</p>
+	<ul id="_e524160f-fbbd-4a80-a6e5-c07d325eea6b">
+(XML Line 000179): Scope must occur before Terms and Definitions
+	<clause id="codes" inline-header="false" obligation="normative"><title>Codes and identifiers</title><clause id="scsa-requirements" inline-header="false" obligation="normative">
+	<title>Requirements</title>
+	<clause id="_general" inline-header="false" obligation="normative"><title>General</title><p id="_3109daf1-3977-423b-a8e6-e87fa14a09ac">A calendar system is eligible for assignment of an entry based on its usage of date identification and the need for international interchange.</p>
+	<p id="_64793ab0-16bf-4960-ac9a-4fe256e3a008">Usage of a calendar system is determined by at least one of the following conditions, by presentation of evidence:</p>
+	<ul id="_e524160f-fbbd-4a80-a6e5-c07d325eea6b">
+(XML Line 000179): Hanging paragraph in clause
+	<clause id="scsa-requirements" inline-header="false" obligation="normative">
+	<title>Requirements</title>
+	<clause id="_general" inline-header="false" obligation="normative"><title>General</title><p id="_3109daf1-3977-423b-a8e6-e87fa14a09ac">A calendar system is eligible for assignment of an entry based on its usage of date identification and the need for international interchange.</p>
+	<p id="_64793ab0-16bf-4960-ac9a-4fe256e3a008">Usage of a calendar system is determined by at least one of the following conditions, by presentation of evidence:</p>
+	<ul id="_e524160f-fbbd-4a80-a6e5-c07d325eea6b">
+(XML Line 000195): Hanging paragraph in clause
+	<clause id="_principles_for_allocation_of_code_elements" inline-header="false" obligation="normative"><title>Principles for allocation of code elements</title><clause id="_relationship_with_names" inline-header="false" obligation="normative"><title>Relationship with names</title><p id="_62fe4587-7ea3-40a6-a51c-9cbb4d038182">Calendar systems have codes in the following format:</p>
+	<sourcecode id="_ad86e324-d8bf-4161-a50f-4324e53c1969">[system-code]</sourcecode>
+	
+	<example id="_ec208db6-c7c7-4ea6-b12e-e1d73f1d6f70">
+	<p id="_f34221a3-17a1-49ff-ae7e-942ad14e71bd"><tt>gregorian</tt> or <tt>gre</tt> for the Gregorian calendar, whose specification is
+
+
+== Metanorma XML Syntax
+
+(XML Line 000137:59): element "terms" not allowed yet; missing required element "clause"
+(XML Line 000138:40): element "eref" missing required attributes "citeas" and "type"
+(XML Line 000180:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000181:171): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "form", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000204:15): element "clause" incomplete; missing required element "clause"
+(XML Line 000217:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000239:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000240:177): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "form", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000242:68): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "form", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000254:54): element "clause" incomplete; missing required element "clause"
+(XML Line 000256:243): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "form", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000262:20): element "clause" incomplete; missing required element "clause"
+(XML Line 000272:184): element "clause" incomplete; missing required element "clause"
+(XML Line 000280:17): element "clause" incomplete; missing required element "clause"
+(XML Line 000284:134): element "clause" incomplete; missing required element "clause"
+(XML Line 000286:260): character content of element "from" invalid; must be a year
