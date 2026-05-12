@@ -5,25 +5,14 @@ on:
     branches: [main]
     paths: ['sources/**', 'metanorma.yml', 'metanorma.release.yml']
   workflow_dispatch:
-    inputs:
-      include-pattern:
-        description: 'Glob pattern to filter documents for release'
-        required: false
-        default: '*'
-      force:
-        description: 'Force release even if content is unchanged'
-        required: false
-        type: boolean
-        default: false
 
 permissions:
   contents: write
 
 jobs:
   release:
-    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@1e39548
+    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@main
     with:
       default-visibility: private
-      include-pattern: ${{ github.event.inputs.include-pattern || '*' }}
-      force: ${{ github.event.inputs.force || 'false' }}
     secrets: inherit
+
