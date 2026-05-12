@@ -21,7 +21,7 @@ permissions:
 
 jobs:
   release:
-    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@1e39548
+    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@main
     with:
       default-visibility: private
       include-pattern: ${{ github.event.inputs.include-pattern || '*' }}
