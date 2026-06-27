@@ -1,8 +1,5 @@
+# metanorma.release.yml — cc-calendar-systems
+
 documents:
-  - source: sources/cc-34300.adoc
-  - source: sources/iso-34300-a.adoc
-    visibility: private
-  - source: sources/iso-34300-b.adoc
-    visibility: private
-  - source: sources/iso-34300.adoc
-    visibility: private
+  - pattern: "cc-*"
+    channels: [public/standards]
