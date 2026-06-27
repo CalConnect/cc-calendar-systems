@@ -1028,7 +1028,7 @@ GEM
       nokogiri
       rainbow
       thor
-    webrick (1.7.0)
+    webrick (1.8.2)
     webrobots (0.1.2)
     websocket-driver (0.8.2)
       base64
