@@ -1,0 +1,1410 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (8.1.3)
+      base64
+      bigdecimal
+      concurrent-ruby (~> 1.0, >= 1.3.1)
+      connection_pool (>= 2.2.5)
+      drb
+      i18n (>= 1.6, < 2)
+      json
+      logger (>= 1.4.2)
+      minitest (>= 5.1)
+      securerandom (>= 0.3)
+      tzinfo (~> 2.0, >= 2.0.5)
+      uri (>= 0.13.1)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
+    algolia (2.3.4)
+      faraday (>= 0.15, < 3)
+      faraday-net_http_persistent (>= 0.15, < 3)
+      multi_json (~> 1.0)
+      net-http-persistent
+    ansi (1.6.0)
+    asciidoctor (2.0.26)
+    ast (2.4.3)
+    base64 (0.3.0)
+    bcp47_spec (0.2.1)
+    benchmark (0.5.0)
+    benchmark-ips (2.15.1)
+    bibtex-ruby (6.2.0)
+      latex-decode (~> 0.0)
+      logger (~> 1.7)
+      racc (~> 1.7)
+    bigdecimal (4.1.2)
+    bindata (2.5.1)
+    brotli (0.8.0)
+    cabriolet (0.2.4)
+      bindata (~> 2.5)
+      fractor (~> 0.1)
+      thor (~> 1.3)
+    camertron-eprun (1.1.1)
+    canon (0.2.12)
+      diff-lcs
+      json
+      moxml (~> 0.1.22)
+      nokogiri
+      paint
+      rainbow
+      table_tennis
+      thor
+      unicode-name
+    cldr-plurals-runtime-rb (1.1.0)
+    cliver (0.3.2)
+    cnccs (0.1.6)
+    concurrent-ruby (1.3.7)
+    connection_pool (3.0.2)
+    coradoc (1.1.8)
+      base64
+      marcel (~> 1.0.0)
+      nokogiri (~> 1.13)
+      oscal (~> 0.1.1)
+      parslet
+      plurimath
+      thor (>= 1.3.0)
+      unitsml
+      word-to-markdown
+    crass (1.0.7)
+    css_parser (3.0.0)
+      addressable
+      ssrf_filter (~> 1.5)
+    csv (3.3.5)
+    date (3.5.1)
+    descriptive_statistics (2.5.1)
+    diff-lcs (2.0.0)
+    domain_name (0.6.20240107)
+    down (5.6.0)
+      addressable (~> 2.8)
+      base64 (~> 0.3)
+    drb (2.2.3)
+    ebnf (2.6.0)
+      base64 (~> 0.2)
+      htmlentities (~> 4.3)
+      rdf (~> 3.3)
+      scanf (~> 1.0)
+      sxp (~> 2.0)
+      unicode-types (~> 1.8)
+    emf2svg (1.4.3-aarch64-linux)
+      ffi (~> 1.0)
+    emf2svg (1.4.3-arm64-darwin)
+      ffi (~> 1.0)
+    emf2svg (1.4.3-x86_64-darwin)
+      ffi (~> 1.0)
+    emf2svg (1.4.3-x86_64-linux)
+      ffi (~> 1.0)
+    excavate (1.1.0)
+      cabriolet (~> 0.2.4)
+      omnizip (~> 0.3.9)
+      thor (~> 1.0)
+    expressir (2.3.7)
+      base64
+      benchmark
+      benchmark-ips
+      csv
+      liquid
+      lutaml-model (~> 0.8.0)
+      moxml
+      nokogiri
+      paint
+      parsanol (~> 1.3.9, >= 1.3.9)
+      ruby-progressbar (~> 1.11)
+      rubyzip (~> 2.3)
+      table_tennis
+      thor (~> 1.0)
+    faraday (2.7.12)
+      base64
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-follow_redirects (0.5.0)
+      faraday (>= 1, < 3)
+    faraday-net_http (3.0.2)
+    faraday-net_http_persistent (2.3.1)
+      faraday (~> 2.5)
+      net-http-persistent (>= 4.0.4, < 5)
+    faraday-retry (2.4.0)
+      faraday (~> 2.0)
+    ferrum (0.17.2)
+      addressable (~> 2.5)
+      base64 (~> 0.2)
+      concurrent-ruby (~> 1.1)
+      webrick (~> 1.7)
+      websocket-driver (~> 0.7)
+    ffi (1.17.4-aarch64-linux-gnu)
+    ffi (1.17.4-aarch64-linux-musl)
+    ffi (1.17.4-arm64-darwin)
+    ffi (1.17.4-x86_64-darwin)
+    ffi (1.17.4-x86_64-linux-gnu)
+    ffi (1.17.4-x86_64-linux-musl)
+    fiber-storage (1.0.1)
+    fiddle (1.1.8)
+    fontisan (0.2.22)
+      base64
+      bindata (~> 2.5)
+      brotli (~> 0.5)
+      logger
+      lutaml-model (~> 0.8)
+      nokogiri (~> 1.16)
+      thor (~> 1.3)
+    fontist (3.0.8)
+      down (~> 5.0)
+      excavate (~> 1.0, >= 1.0.3)
+      fontisan (~> 0.2, >= 0.2.17)
+      fuzzy_match (~> 2.1)
+      git (> 1.0)
+      json (~> 2.0)
+      lutaml-model (~> 0.8.0)
+      marcel (~> 1.0)
+      nokogiri (~> 1.0)
+      octokit (~> 4.0)
+      paint (~> 2.3)
+      parallel (~> 1.24)
+      plist (~> 3.0)
+      socksify (~> 1.7)
+      thor (~> 1.4)
+      unibuf (~> 0.1)
+    fractor (0.1.10)
+      benchmark
+      logger
+    fuzzy_match (2.1.0)
+    gb-agencies (0.0.7)
+    git (3.1.1)
+      activesupport (>= 5.0)
+      addressable (~> 2.8)
+      process_executer (~> 1.3)
+      rchardet (~> 1.9)
+    glossarist (2.8.17)
+      lutaml-model (~> 0.8.15)
+      lutaml-store (~> 0.2.0)
+      paint (~> 2.3)
+      relaton (>= 2.0.0, < 3)
+      rubyzip (>= 2.3, < 3)
+      sts (~> 0.5.6)
+      table_tennis (~> 0.0)
+      tbx (~> 0.1)
+      thor
+    graphql (2.6.3)
+      base64
+      fiber-storage
+      logger
+    graphql-client (0.26.0)
+      activesupport (>= 3.0)
+      graphql (>= 1.13.0)
+    hollaback (0.1.1)
+    html2doc (1.11.1)
+      base64
+      htmlentities (~> 4.3.4)
+      marcel
+      metanorma-utils (>= 1.9.0)
+      nokogiri (~> 1.19)
+      plane1converter (~> 0.0.1)
+      plurimath (~> 0.10.1)
+      thread_safe
+      uuidtools
+      vectory (~> 0.10)
+    htmlentities (4.3.4)
+    http-cookie (1.1.6)
+      domain_name (~> 0.5)
+    i18n (1.15.2)
+      concurrent-ruby (~> 1.0)
+    ieee-idams (0.3.0)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+      thor
+    image_size (3.6.0)
+    io-console (0.8.2)
+    iso-639 (0.3.8)
+      csv
+    iso639 (1.3.3)
+    isodoc (3.6.6)
+      base64
+      bigdecimal
+      html2doc (~> 1.11.0)
+      mn-requirements (~> 0.5.0)
+      mn2pdf (>= 2.13)
+      relaton-render (~> 1.3.0)
+      roman-numerals
+      rouge (~> 4.0)
+      thread_safe
+      twitter_cldr (>= 6.6.0)
+      uuidtools
+    isodoc-i18n (1.5.3)
+      base64
+      htmlentities (~> 4.3.4)
+      japanese_calendar
+      liquid (~> 5)
+      metanorma-utils (>= 1.7.0)
+      roman-numerals
+      twitter_cldr
+    isoics (0.1.13)
+    japanese_calendar (0.4.2)
+    json (2.20.0)
+    json-schema (6.2.0)
+      addressable (~> 2.8)
+      bigdecimal (>= 3.1, < 5)
+    latex-decode (0.4.2)
+    lightly (0.4.0)
+    link_header (0.0.8)
+    liquid (5.12.0)
+      bigdecimal
+      strscan (>= 3.1.1)
+    listen (3.10.0)
+      logger
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
+    loc_mods (0.3.0)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+      thor
+    logger (1.7.0)
+    lutaml (0.10.19)
+      expressir (~> 2.3)
+      fiddle
+      htmlentities
+      liquid
+      listen
+      lutaml-model (~> 0.8.0)
+      lutaml-path
+      nokogiri (~> 1.18)
+      paint
+      parslet (~> 2.0)
+      puma
+      rackup
+      readline
+      ruby-graphviz
+      rubyzip (~> 2.3)
+      sinatra (~> 4.2)
+      sqlite3
+      table_tennis
+      thor (~> 1.4)
+      xmi (~> 0.5, >= 0.5.2)
+    lutaml-hal (0.2.4)
+      faraday (~> 2.0)
+      faraday-follow_redirects (~> 0.3)
+      lutaml-model
+      lutaml-store (~> 0.2)
+      rainbow (~> 3.0)
+    lutaml-model (0.8.16)
+      base64
+      bigdecimal
+      canon
+      concurrent-ruby
+      liquid (>= 4.0, < 6.0)
+      moxml (~> 0.1.23)
+      ostruct
+      rubyzip (~> 2.3)
+      thor
+    lutaml-path (0.1.0)
+      parslet
+    lutaml-store (0.2.2)
+      lutaml-model (~> 0.8.15)
+      rubyzip (~> 2.3)
+    lutaml-xsd (1.1.9)
+      liquid (>= 4.0, < 6.0)
+      lutaml-model (~> 0.8.0)
+      lutaml-store
+      moxml
+      paint (~> 2.3)
+      rng (~> 0.3.5)
+      rubyzip (~> 2.3)
+      table_tennis (~> 0.0.7)
+      thor (~> 1.0)
+      tty-prompt (~> 0.23)
+      xsdvi
+    marcel (1.0.4)
+    matrix (0.4.3)
+    mechanize (2.14.0)
+      addressable (~> 2.8)
+      base64
+      domain_name (~> 0.5, >= 0.5.20190701)
+      http-cookie (~> 1.0, >= 1.0.3)
+      mime-types (~> 3.3)
+      net-http-digest_auth (~> 1.4, >= 1.4.1)
+      net-http-persistent (>= 2.5.2, < 5.0.dev)
+      nkf
+      nokogiri (~> 1.11, >= 1.11.2)
+      rubyntlm (~> 0.6, >= 0.6.3)
+      webrick (~> 1.7)
+      webrobots (~> 0.1.2)
+    memo_wise (1.13.0)
+    metanorma (2.4.3)
+      asciidoctor
+      concurrent-ruby
+      fontist (>= 2.1.2)
+      htmlentities
+      isodoc (>= 3.5.0)
+      marcel
+      metanorma-core
+      metanorma-standoc
+      mn2pdf (~> 2)
+      nokogiri
+      relaton-cli
+    metanorma-bipm (2.8.9)
+      metanorma-generic (~> 3.4.0)
+      metanorma-iso (~> 3.4.2)
+    metanorma-cc (2.8.8)
+      metanorma-generic (~> 3.4.0)
+    metanorma-cli (1.16.5)
+      git (>= 3.0)
+      liquid (~> 5)
+      lutaml-model
+      metanorma (~> 2.4.1)
+      metanorma-bipm (~> 2.8.0)
+      metanorma-cc (~> 2.8.0)
+      metanorma-generic (~> 3.4.0)
+      metanorma-iec (~> 2.8.0)
+      metanorma-ieee (~> 1.6.0)
+      metanorma-ietf (~> 3.7.0)
+      metanorma-iho (~> 1.3.0)
+      metanorma-iso (~> 3.4.2)
+      metanorma-itu (~> 2.8.0)
+      metanorma-jis (~> 1.1.0)
+      metanorma-ogc (~> 2.9.0)
+      metanorma-plateau (~> 1.2.0)
+      metanorma-ribose (~> 2.8.0)
+      metanorma-standoc (~> 3.4.3)
+      mnconvert
+      relaton-cli (>= 0.8.2)
+      socksify
+      suma (~> 0.2.0)
+    metanorma-core (0.2.1)
+      asciidoctor
+      metanorma-taste (~> 1.0.0)
+      metanorma-utils
+      nokogiri
+    metanorma-generic (3.4.0)
+      metanorma-standoc (~> 3.4.2)
+    metanorma-iec (2.8.9)
+      metanorma-iso (~> 3.4.2)
+      pubid
+    metanorma-ieee (1.6.13)
+      metanorma-standoc (~> 3.4.2)
+      mnconvert (~> 1.20)
+      pubid
+    metanorma-ietf (3.7.5)
+      metanorma-ietf-data
+      metanorma-standoc (~> 3.4.0)
+      relaton-render
+    metanorma-ietf-data (0.2.0)
+    metanorma-iho (1.3.8)
+      metanorma-generic (~> 3.4.0)
+    metanorma-iso (3.4.6)
+      metanorma-standoc (~> 3.4.2)
+      mnconvert (~> 1.14)
+      pubid
+      tokenizer (~> 0.3.0)
+    metanorma-itu (2.8.11)
+      metanorma-standoc (~> 3.4.2)
+      pubid
+      twitter_cldr (>= 3.0.0)
+      tzinfo-data
+    metanorma-jis (1.1.3)
+      japanese_calendar (~> 0)
+      metanorma-iso (~> 3.4.2)
+      pubid
+    metanorma-ogc (2.9.8)
+      iso-639
+      metanorma-standoc (~> 3.4.2)
+    metanorma-plateau (1.2.12)
+      metanorma-jis (~> 1.1.0)
+      pubid
+    metanorma-plugin-glossarist (0.3.10)
+      asciidoctor
+      glossarist (~> 2.8, >= 2.8.16)
+      liquid
+      metanorma-utils
+    metanorma-plugin-lutaml (0.7.49)
+      asciidoctor
+      coradoc (~> 1.1.8)
+      expressir (~> 2.3, >= 2.3.5)
+      isodoc
+      liquid
+      lutaml (~> 0.10, >= 0.10.12)
+      lutaml-model (~> 0.8.4)
+      ogc-gml (~> 1.1)
+      relaton-cli
+    metanorma-plugin-plantuml (1.0.15)
+      asciidoctor
+    metanorma-ribose (2.8.8)
+      metanorma-generic (~> 3.4.0)
+    metanorma-standoc (3.4.7)
+      addressable (~> 2.8)
+      asciidoctor (~> 2.0.0)
+      concurrent-ruby
+      crass (~> 1.0.0)
+      isodoc (~> 3.6.0)
+      metanorma-core (~> 0.2.0)
+      metanorma-plugin-glossarist (~> 0.3.0)
+      metanorma-plugin-lutaml (~> 0.7.31)
+      metanorma-plugin-plantuml (~> 1.0.0)
+      metanorma-utils (~> 2.0.1)
+      png_conform (~> 0.1.0)
+      relaton-cli (~> 2.1.0)
+      relaton-iev (~> 2.0.0)
+      ruby-jing
+      svg_conform (~> 0.1.0)
+    metanorma-taste (1.0.9)
+      lutaml-model (>= 0.8)
+    metanorma-utils (2.0.7)
+      asciidoctor (>= 2)
+      concurrent-ruby
+      csv
+      htmlentities (~> 4.3.4)
+      logger
+      nokogiri (>= 1.11)
+      sterile (~> 1.0.14)
+      uuidtools
+    mime-types (3.7.0)
+      logger
+      mime-types-data (~> 3.2025, >= 3.2025.0507)
+    mime-types-data (3.2026.0414)
+    mini_portile2 (2.8.9)
+    minitest (6.0.6)
+      drb (~> 2.0)
+      prism (~> 1.5)
+    mml (2.3.7)
+      lutaml-model (~> 0.8.0)
+      moxml
+    mn-requirements (0.5.11)
+      isodoc-i18n (>= 1.2.0)
+      metanorma-core (>= 0.1.0)
+      metanorma-utils (>= 2.0.0)
+      relaton-render (>= 1.0.0)
+    mn2pdf (2.59)
+    mnconvert (1.86.0)
+    moxml (0.1.25)
+    multi_json (1.15.0)
+    mustermann (3.1.1)
+    net-ftp (0.1.4)
+      net-protocol
+      time
+    net-http-digest_auth (1.4.1)
+    net-http-persistent (4.0.8)
+      connection_pool (>= 2.2.4, < 4)
+    net-protocol (0.2.2)
+      timeout
+    nio4r (2.7.5)
+    nkf (0.3.0)
+    nokogiri (1.19.4-aarch64-linux-gnu)
+      racc (~> 1.4)
+    nokogiri (1.19.4-aarch64-linux-musl)
+      racc (~> 1.4)
+    nokogiri (1.19.4-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-linux-gnu)
+      racc (~> 1.4)
+    nokogiri (1.19.4-x86_64-linux-musl)
+      racc (~> 1.4)
+    nokogiri-styles (0.1.2)
+      nokogiri
+    octokit (4.25.1)
+      faraday (>= 1, < 3)
+      sawyer (~> 0.9)
+    oga (3.5)
+      ast
+      ruby-ll (~> 2.2)
+    ogc-gml (1.1.0)
+      lutaml-model (~> 0.8)
+      nokogiri
+    omml (0.2.1)
+      lutaml-model (>= 0.8.0, < 1.0)
+      moxml (>= 0.1.18, < 0.2)
+      oga (~> 3.4)
+      ox (~> 2.14)
+    omnizip (0.3.9)
+      base64 (~> 0.2)
+      bindata (~> 2.4)
+      cabriolet (~> 0.2, >= 0.2.4)
+      lutaml-model (~> 0.7)
+      marcel (~> 1.0)
+      rexml (~> 3.3)
+    optout (0.0.2)
+    oscal (0.1.1)
+      yaml
+    ostruct (0.6.3)
+    ox (2.14.27)
+      bigdecimal (>= 3.0)
+    paint (2.3.0)
+    parallel (1.28.0)
+    parsanol (1.3.11-aarch64-linux)
+    parsanol (1.3.11-aarch64-linux-musl)
+    parsanol (1.3.11-arm64-darwin)
+    parsanol (1.3.11-x86_64-darwin)
+    parsanol (1.3.11-x86_64-linux)
+    parsanol (1.3.11-x86_64-linux-musl)
+    parslet (2.0.0)
+    pastel (0.8.0)
+      tty-color (~> 0.5)
+    plane1converter (0.0.1)
+    plist (3.7.2)
+    plurimath (0.10.7)
+      bigdecimal
+      htmlentities
+      lutaml-model (~> 0.8.0)
+      mml (~> 2.3.6)
+      omml (~> 0.2.0)
+      ostruct
+      ox
+      parslet
+      thor
+      unitsml (~> 0.6.4)
+    png_conform (0.1.4)
+      bindata (~> 2.5)
+      lutaml-model (~> 0.7)
+      paint (~> 2.3)
+      thor (~> 1.4)
+    premailer (1.29.0)
+      addressable
+      css_parser (>= 1.19.0)
+      htmlentities (>= 4.0.0)
+    prism (1.9.0)
+    process_executer (1.3.0)
+    psych (5.2.6)
+      date
+      stringio
+    pubid (1.15.20)
+      pubid-bsi (= 1.15.20)
+      pubid-ccsds (= 1.15.20)
+      pubid-cen (= 1.15.20)
+      pubid-core (= 1.15.20)
+      pubid-etsi (= 1.15.20)
+      pubid-iec (= 1.15.20)
+      pubid-ieee (= 1.15.20)
+      pubid-iho (= 1.15.20)
+      pubid-iso (= 1.15.20)
+      pubid-itu (= 1.15.20)
+      pubid-jis (= 1.15.20)
+      pubid-nist (= 1.15.20)
+      pubid-plateau (= 1.15.20)
+    pubid-bsi (1.15.20)
+      parslet
+      pubid-cen (= 1.15.20)
+      pubid-core (= 1.15.20)
+      pubid-iec (= 1.15.20)
+      pubid-iso (= 1.15.20)
+    pubid-ccsds (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-cen (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+      pubid-iec (= 1.15.20)
+      pubid-iso (= 1.15.20)
+    pubid-core (1.15.20)
+      parslet
+    pubid-etsi (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-iec (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-ieee (1.15.20)
+      parslet (~> 2.0.0)
+      pubid-iso (= 1.15.20)
+    pubid-iho (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-iso (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-itu (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-jis (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    pubid-nist (1.15.20)
+      lightly
+      nokogiri
+      parslet
+      pubid-core (= 1.15.20)
+      rubyzip
+      thor
+    pubid-plateau (1.15.20)
+      parslet
+      pubid-core (= 1.15.20)
+    public_suffix (7.0.5)
+    puma (8.0.2)
+      nio4r (~> 2.0)
+    racc (1.8.1)
+    rack (3.2.6)
+    rack-protection (4.2.1)
+      base64 (>= 0.1.0)
+      logger (>= 1.6.0)
+      rack (>= 3.0.0, < 4)
+    rack-session (2.1.2)
+      base64 (>= 0.1.0)
+      rack (>= 3.0.0)
+    rackup (2.3.1)
+      rack (>= 3)
+    rainbow (3.1.1)
+    rb-fsevent (0.11.2)
+    rb-inotify (0.11.1)
+      ffi (~> 1.0)
+    rchardet (1.10.2)
+    rdf (3.3.1)
+      bcp47_spec (~> 0.2)
+      link_header (~> 0.0, >= 0.0.8)
+    rdf-turtle (3.3.0)
+      ebnf (~> 2.4)
+      rdf (~> 3.3)
+    readline (0.0.4)
+      reline
+    relaton (2.1.0)
+      relaton-3gpp (~> 2.1.0)
+      relaton-bipm (~> 2.1.0)
+      relaton-bsi (~> 2.1.0)
+      relaton-calconnect (~> 2.1.0)
+      relaton-ccsds (~> 2.1.0)
+      relaton-cen (~> 2.1.0)
+      relaton-cie (~> 2.1.0)
+      relaton-doi (~> 2.1.0)
+      relaton-ecma (~> 2.1.0)
+      relaton-etsi (~> 2.1.0)
+      relaton-gb (~> 2.1.0)
+      relaton-iana (~> 2.1.0)
+      relaton-iec (~> 2.1.0)
+      relaton-ieee (~> 2.1.0)
+      relaton-ietf (~> 2.1.0)
+      relaton-iho (~> 2.1.0)
+      relaton-isbn (~> 2.1.0)
+      relaton-iso (~> 2.1.0)
+      relaton-itu (~> 2.1.0)
+      relaton-jis (~> 2.1.0)
+      relaton-nist (~> 2.1.0)
+      relaton-oasis (~> 2.1.0)
+      relaton-ogc (~> 2.1.0)
+      relaton-omg (~> 2.1.0)
+      relaton-plateau (~> 2.1.0)
+      relaton-un (~> 2.1.0)
+      relaton-w3c (~> 2.1.0)
+      relaton-xsf (~> 2.1.0)
+    relaton-3gpp (2.1.4)
+      csv
+      net-ftp (~> 0.1.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.0)
+    relaton-bib (2.1.5)
+      bibtex-ruby
+      iso639
+      isoics (~> 0.1.0)
+      lutaml-model (~> 0.8.0)
+      nokogiri (>= 1.16)
+      psych (~> 5.2.0)
+      relaton-core (~> 0.0.8)
+      relaton-logger (~> 0.2.0)
+      rfcxml (~> 0.4.3)
+    relaton-bipm (2.1.2)
+      faraday (~> 2.7.0)
+      mechanize (~> 2.10)
+      parslet (~> 2.0.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.2)
+      rubyzip (~> 2.3.0)
+    relaton-bsi (2.1.0)
+      algolia (~> 2.3.0)
+      faraday-net_http_persistent (~> 2.0)
+      graphql (~> 2.3)
+      graphql-client (~> 0.23)
+      relaton-core (~> 0.0.9)
+      relaton-iso (~> 2.1.0)
+    relaton-calconnect (2.1.2)
+      addressable (~> 2.8)
+      mechanize (~> 2.10)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.0)
+      rubyzip (~> 2.3)
+    relaton-ccsds (2.1.2)
+      csv (~> 3.3)
+      mechanize (~> 2.10)
+      pubid-ccsds (~> 1.15.2)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.9)
+      relaton-index (~> 0.2.16)
+    relaton-cen (2.1.0)
+      isoics (~> 0.1)
+      mechanize (~> 2.10)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.9)
+    relaton-cie (2.1.2)
+      ferrum (~> 0.17)
+      mechanize (~> 2.10)
+      parslet (~> 2.0.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.0)
+    relaton-cli (2.1.2)
+      liquid (~> 5)
+      relaton (~> 2.1.0)
+      thor
+      thor-hollaback
+    relaton-core (0.0.13)
+      nokogiri (>= 1.16)
+      psych (~> 5.2.0)
+      relaton-logger (~> 0.2.0)
+    relaton-doi (2.1.2)
+      mechanize (~> 2.0)
+      relaton-bib (~> 2.1.3)
+      relaton-bipm (~> 2.1.0)
+      relaton-ieee (~> 2.1.0)
+      relaton-ietf (~> 2.1.0)
+      relaton-nist (~> 2.1.0)
+    relaton-ecma (2.1.1)
+      mechanize (~> 2.10)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.4)
+    relaton-etsi (2.1.1)
+      mechanize (~> 2.8)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.7)
+    relaton-gb (2.1.0)
+      cnccs (~> 0.1.1)
+      csv (~> 3.0)
+      gb-agencies (~> 0.0.1)
+      mechanize (~> 2.10)
+      relaton-core (~> 0.0.13)
+      relaton-iso (~> 2.1.0)
+    relaton-iana (2.1.1)
+      faraday (~> 2.7.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+    relaton-iec (2.1.1)
+      addressable
+      base64
+      pubid-iec (~> 1.15.11)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.20)
+      relaton-iso (~> 2.1.0)
+      rubyzip
+    relaton-ieee (2.1.2)
+      faraday (~> 2.7.0)
+      ieee-idams (~> 0.3.0)
+      mini_portile2 (~> 2.8.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+      rubyzip (~> 2.3.0)
+    relaton-ietf (2.1.2)
+      base64
+      parallel (~> 1.26)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.3)
+    relaton-iev (2.0.1)
+      htmlentities (~> 4.3.4)
+      nokogiri (>= 1.13.0)
+      relaton (>= 2.0.0.pre.alpha.1, < 3)
+      uuidtools
+    relaton-iho (2.1.1)
+      base64
+      pubid-iho (~> 1.15.16)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+    relaton-index (0.2.22)
+      pubid-core (~> 1.15.6)
+      relaton-logger (~> 0.2.0)
+      rubyzip (~> 2.3.0)
+    relaton-isbn (2.1.0)
+      isoics (~> 0.1.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+    relaton-iso (2.1.5)
+      isoics (~> 0.1.6)
+      pubid-iso (~> 1.15.20)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.12)
+      relaton-index (~> 0.2.12)
+    relaton-itu (2.1.1)
+      mechanize (~> 2.10)
+      parslet (~> 2.0.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+    relaton-jis (2.1.1)
+      mechanize (~> 2.10)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+      relaton-iso (~> 2.1.0)
+    relaton-logger (0.2.4)
+      logger (~> 1.6)
+    relaton-nist (2.1.1)
+      base64
+      loc_mods (~> 0.3.0)
+      mechanize (~> 2.0)
+      pubid (~> 1.15.6)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+      rubyzip
+    relaton-oasis (2.1.2)
+      ferrum (~> 0.17)
+      mechanize (~> 2.10)
+      multi_json (~> 1.15.0)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+    relaton-ogc (2.1.1)
+      faraday (~> 2.7)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+      relaton-iso (~> 2.1.0)
+    relaton-omg (2.1.0)
+      base64
+      mechanize (~> 2.8)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+    relaton-plateau (2.1.1)
+      base64
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.12)
+      relaton-iso (~> 2.1.0)
+      relaton-logger (~> 0.2.0)
+    relaton-render (1.3.0)
+      base64
+      bigdecimal
+      isodoc-i18n (~> 1.5.0)
+      liquid (~> 5)
+      metanorma-utils (~> 2)
+      nokogiri
+      relaton-bib (>= 2.0.0.pre.alpha.6, < 3)
+      twitter_cldr
+      tzinfo-data
+    relaton-un (2.1.1)
+      addressable (~> 2.8)
+      faraday (~> 2.7)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+    relaton-w3c (2.1.4)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.8)
+      w3c_api (~> 0.3.2)
+    relaton-xsf (2.1.1)
+      mechanize (~> 2.10)
+      relaton-bib (~> 2.1.0)
+      relaton-core (~> 0.0.13)
+      relaton-index (~> 0.2.0)
+    reline (0.6.3)
+      io-console (~> 0.5)
+    reverse_markdown (2.1.1)
+      nokogiri
+    rexml (3.4.4)
+    rfcxml (0.4.4)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+    rng (0.3.7)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+      parslet
+      thor
+    roman-numerals (0.3.0)
+    rouge (4.7.0)
+    ruby-graphviz (1.2.5)
+      rexml
+    ruby-jing (0.0.3)
+      optout (>= 0.0.2)
+    ruby-ll (2.2.0)
+      ansi
+      ast
+    ruby-progressbar (1.13.0)
+    ruby2_keywords (0.0.5)
+    rubyntlm (0.6.5)
+      base64
+    rubyzip (2.3.2)
+    sawyer (0.9.3)
+      addressable (>= 2.3.5)
+      faraday (>= 0.17.3, < 3)
+    scanf (1.0.0)
+    securerandom (0.4.1)
+    sinatra (4.2.1)
+      logger (>= 1.6.0)
+      mustermann (~> 3.0)
+      rack (>= 3.0.0, < 4)
+      rack-protection (= 4.2.1)
+      rack-session (>= 2.0.0, < 3)
+      tilt (~> 2.0)
+    singleton (0.3.0)
+    socksify (1.8.1)
+    sqlite3 (2.9.5-aarch64-linux-gnu)
+    sqlite3 (2.9.5-aarch64-linux-musl)
+    sqlite3 (2.9.5-arm64-darwin)
+    sqlite3 (2.9.5-x86_64-darwin)
+    sqlite3 (2.9.5-x86_64-linux-gnu)
+    sqlite3 (2.9.5-x86_64-linux-musl)
+    ssrf_filter (1.5.0)
+    sterile (1.0.26)
+      nokogiri (>= 1.11.7)
+    stringio (3.2.0)
+    strscan (3.1.8)
+    sts (0.5.6)
+      bigdecimal
+      lutaml-model (~> 0.8.0)
+      mml (~> 2.3.1)
+    suma (0.2.6)
+      expressir (~> 2.1, >= 2.1.29)
+      glossarist (~> 2.4)
+      lutaml-model (~> 0.8.0)
+      metanorma (~> 2.3)
+      plurimath
+      ruby-progressbar
+      rubyzip (~> 2.3)
+      svg_conform (~> 0.1.0)
+      table_tennis
+      thor (>= 0.20)
+    svg_conform (0.1.12)
+      lutaml-model (~> 0.7)
+      moxml (~> 0.1, >= 0.1.10)
+      table_tennis
+      thor
+    sxp (2.0.0)
+      matrix (~> 0.4)
+      rdf (~> 3.3)
+    sys-proctable (1.3.0)
+      ffi (~> 1.1)
+    table_tennis (0.0.7)
+      csv (~> 3.3)
+      ffi (~> 1.17)
+      memo_wise (~> 1.11)
+      paint (~> 2.3)
+      unicode-display_width (~> 3.1)
+    tbx (0.1.2)
+      lutaml-model (~> 0.8.0)
+    thor (1.5.0)
+    thor-hollaback (0.2.1)
+      hollaback (~> 0.1)
+      thor (>= 0.19.1)
+    thread_safe (0.3.6)
+    tilt (2.7.0)
+    time (0.4.2)
+      date
+    timeout (0.6.1)
+    tokenizer (0.3.0)
+    tty-color (0.6.0)
+    tty-cursor (0.7.1)
+    tty-prompt (0.23.1)
+      pastel (~> 0.8)
+      tty-reader (~> 0.8)
+    tty-reader (0.9.0)
+      tty-cursor (~> 0.7)
+      tty-screen (~> 0.8)
+      wisper (~> 2.0)
+    tty-screen (0.8.2)
+    twitter_cldr (6.14.0)
+      base64
+      camertron-eprun
+      cldr-plurals-runtime-rb (~> 1.1)
+      tzinfo
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2026.2)
+      tzinfo (>= 1.0.0)
+    ukiryu (0.3.0)
+      git (~> 3.0)
+      json-schema
+      lutaml-model (~> 0.8.0)
+      lutaml-xsd (~> 1.1.0)
+      thor
+      versionian (~> 0.1)
+    unibuf (0.1.2)
+      bindata (~> 2.5)
+      lutaml-model (~> 0.7)
+      parslet (~> 2.0)
+      thor (~> 1.4)
+    unicode-display_width (3.2.0)
+      unicode-emoji (~> 4.1)
+    unicode-emoji (4.2.0)
+    unicode-name (1.14.0)
+      unicode-types (~> 1.11)
+    unicode-types (1.11.0)
+    unitsdb (2.2.2)
+      fuzzy_match
+      lutaml-model (~> 0.8.0)
+      rdf (~> 3.1)
+      rdf-turtle (~> 3.1)
+      rubyzip (~> 2.3)
+      table_tennis (~> 0.0.7)
+      thor (~> 1.0)
+    unitsml (0.6.5)
+      htmlentities
+      lutaml-model (~> 0.8.0)
+      mml (~> 2.3.6)
+      ox
+      parslet
+      unitsdb (~> 2.2.2)
+    uri (1.1.1)
+    uuidtools (3.0.0)
+    vectory (0.10.0)
+      base64
+      emf2svg
+      image_size (>= 3.2.0)
+      marcel (~> 1.0)
+      nokogiri (~> 1.14)
+      thor (~> 1.0)
+      ukiryu (~> 0.3.0)
+    versionian (0.1.0)
+      singleton (~> 0.2)
+    w3c_api (0.3.2)
+      faraday
+      faraday-follow_redirects
+      faraday-retry (~> 2.0)
+      lutaml-hal (~> 0.2.1)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+      rainbow
+      thor
+    webrick (1.9.2)
+    webrobots (0.1.2)
+    websocket-driver (0.8.2)
+      base64
+      websocket-extensions (>= 0.1.0)
+    websocket-extensions (0.1.5)
+    wisper (2.0.1)
+    word-to-markdown (1.1.9)
+      cliver (~> 0.3)
+      descriptive_statistics (~> 2.5)
+      nokogiri-styles (~> 0.1)
+      premailer (~> 1.8)
+      reverse_markdown (>= 1, < 3)
+      sys-proctable (~> 1.0)
+    xmi (0.5.10)
+      lutaml-model (~> 0.8.0)
+      nokogiri
+    xsdvi (1.0.2)
+      nokogiri (~> 1.16)
+      thor (~> 1.3)
+    yaml (0.4.0)
+
+PLATFORMS
+  aarch64-linux
+  aarch64-linux-gnu
+  aarch64-linux-musl
+  arm64-darwin
+  x86_64-darwin
+  x86_64-linux
+  x86_64-linux-gnu
+  x86_64-linux-musl
+
+DEPENDENCIES
+  metanorma-cli
+
+CHECKSUMS
+  activesupport (8.1.3) sha256=21a5e0dfbd4c3ddd9e1317ec6a4d782fa226e7867dc70b0743acda81a1dca20e
+  addressable (2.9.0) sha256=7fdf6ac3660f7f4e867a0838be3f6cf722ace541dd97767fa42bc6cfa980c7af
+  algolia (2.3.4) sha256=9ea5c2c309af01a60b900e3f7b9dc232fa3b018bdd2479bfff7cb8ac1b948c9b
+  ansi (1.6.0) sha256=ac9ea0c0ea8d32fb4e271348e609963ac78882f34b73836c2a02b3622e666658
+  asciidoctor (2.0.26) sha256=16e3accf1fc206bbd6335848649d7fd65f31d2daa60d85af13d47a8ee4b071c1
+  ast (2.4.3) sha256=954615157c1d6a382bc27d690d973195e79db7f55e9765ac7c481c60bdb4d383
+  base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
+  bcp47_spec (0.2.1) sha256=3fd62edf96c126bd9624e4319ac74082a966081859d1ee0ef3c3041640a37810
+  benchmark (0.5.0) sha256=465df122341aedcb81a2a24b4d3bd19b6c67c1530713fd533f3ff034e419236c
+  benchmark-ips (2.15.1) sha256=07a1a9f3c6105ecaf68c174fc3fbcddd71a0e9ada6236ae03093a0dcfd812d59
+  bibtex-ruby (6.2.0) sha256=d610eba78d6adf503a843daf144644449fb34e7c3f4a75e9ab67fae5dfd7c69a
+  bigdecimal (4.1.2) sha256=53d217666027eab4280346fba98e7d5b66baaae1b9c3c1c0ffe89d48188a3fbd
+  bindata (2.5.1) sha256=53186a1ec2da943d4cb413583d680644eb810aacbf8902497aac8f191fad9e58
+  brotli (0.8.0) sha256=0c5a42046b3b603fb109656881147fd76064c034b7d19c1b4fcc32a093a4d55d
+  bundler (4.0.12) sha256=7f8b757d28dfb636e7b24fba2344ac6dd13b5b24f4b46d62573d483f211825ac
+  cabriolet (0.2.4) sha256=fde76321a5b7ee5506581c01aeac44e4476332bc64fe7ae1a07a72227a318e9b
+  camertron-eprun (1.1.1) sha256=9a8e337916445e62648f6a4f35d229302fc44c50549cc881bff1e296ccf9ce4b
+  canon (0.2.12) sha256=9b87514fbf6c0f9f28d1e2746ea5837b08e24e50c30751dba27a89f86e8709af
+  cldr-plurals-runtime-rb (1.1.0) sha256=2353875af89be9fac049c60891e973825b24a979eeef7274093c9ff5fd56dfa9
+  cliver (0.3.2) sha256=8775445218c612bb57f50c392c4906a1ab5cca067eab093bde3cc77d6426ce24
+  cnccs (0.1.6) sha256=01f47296fb351db9f7b66c330eede6336c5a0a895316ff2153b64c24d2e91344
+  concurrent-ruby (1.3.7) sha256=4412caec3a5ea2e5fdc52076724c071a81f2c0593d83b2ac8cbb8ca63b3151b0
+  connection_pool (3.0.2) sha256=33fff5ba71a12d2aa26cb72b1db8bba2a1a01823559fb01d29eb74c286e62e0a
+  coradoc (1.1.8) sha256=6108a3911ce29ee22032cc04814ef01db2200d061e69a33adc46ffd0dca78c77
+  crass (1.0.7) sha256=94868719948664c89ddcaf0a37c65048413dfcb1c869470a5f7a7ceb5390b295
+  css_parser (3.0.0) sha256=eaf0e9283fd581d06e815235ceef4f0910c0b394c606355dbc69f93e84443885
+  csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
+  date (3.5.1) sha256=750d06384d7b9c15d562c76291407d89e368dda4d4fff957eb94962d325a0dc0
+  descriptive_statistics (2.5.1) sha256=1b8f9a38ca9554bd791d053c265d364ed7abebd10f7aeb7d2b04c8bda0db29fb
+  diff-lcs (2.0.0) sha256=708a5d52ec2945b50f8f53a181174aa1ef2c496edf81c05957fe956dabb363d5
+  domain_name (0.6.20240107) sha256=5f693b2215708476517479bf2b3802e49068ad82167bcd2286f899536a17d933
+  down (5.6.0) sha256=48ec6ddb078cbf3b425d02596bb388303316f976143c6e94a7b3169d6712b593
+  drb (2.2.3) sha256=0b00d6fdb50995fe4a45dea13663493c841112e4068656854646f418fda13373
+  ebnf (2.6.0) sha256=e746a316caa885cc45e243dc33efc194943956760bc9bc13948de1732fbcf63e
+  emf2svg (1.4.3-aarch64-linux) sha256=3238e1200c5a72d6b75a65db7d3daaae915397f34a03dcddd9f953d865f4cec2
+  emf2svg (1.4.3-arm64-darwin) sha256=e4e2b1ca038c356c5709b59bcbbf35fbd4f0aeedd3405da8933213ebc75a607a
+  emf2svg (1.4.3-x86_64-darwin) sha256=0fcb77ed6ee43f7dd08823fd9231ca04f0732eb52c0fb87a8f27a31315582450
+  emf2svg (1.4.3-x86_64-linux) sha256=968f041286944f76430d49e6232064772f23adcd39a4b1fc10dcd9643302d635
+  excavate (1.1.0) sha256=9e394785e23dc1bdba38fd1a82700da1f7c700b50067f60dd2226c273d95808d
+  expressir (2.3.7) sha256=4da06c9ab1630d4dd27fc8697197504b710a1b582629e25b2fb3a4f7f4238a6a
+  faraday (2.7.12) sha256=ed38dcd396d2defcf8a536bbf7ef45e6385392ab815fe087df46777be3a781a7
+  faraday-follow_redirects (0.5.0) sha256=5cde93c894b30943a5d2b93c2fe9284216a6b756f7af406a1e55f211d97d10ad
+  faraday-net_http (3.0.2) sha256=6882929abed8094e1ee30344a3369e856fe34530044630d1f652bf70ebd87e8d
+  faraday-net_http_persistent (2.3.1) sha256=23ffba37d6a27807a10f033d01918ec958aa73fa6ff0fccfbcd5ce2d2e68fca3
+  faraday-retry (2.4.0) sha256=7b79c48fb7e56526faf247b12d94a680071ff40c9fda7cf1ec1549439ad11ebe
+  ferrum (0.17.2) sha256=2c2540a850b211a46f4d81de21bfd62048f507e4c327d1807225c3823c17e6ee
+  ffi (1.17.4-aarch64-linux-gnu) sha256=b208f06f91ffd8f5e1193da3cae3d2ccfc27fc36fba577baf698d26d91c080df
+  ffi (1.17.4-aarch64-linux-musl) sha256=9286b7a615f2676245283aef0a0a3b475ae3aae2bb5448baace630bb77b91f39
+  ffi (1.17.4-arm64-darwin) sha256=19071aaf1419251b0a46852abf960e77330a3b334d13a4ab51d58b31a937001b
+  ffi (1.17.4-x86_64-darwin) sha256=aa70390523cf3235096cf64962b709b4cfbd5c082a2cb2ae714eb0fe2ccda496
+  ffi (1.17.4-x86_64-linux-gnu) sha256=9d3db14c2eae074b382fa9c083fe95aec6e0a1451da249eab096c34002bc752d
+  ffi (1.17.4-x86_64-linux-musl) sha256=3fdf9888483de005f8ef8d1cf2d3b20d86626af206cbf780f6a6a12439a9c49e
+  fiber-storage (1.0.1) sha256=f48e5b6d8b0be96dac486332b55cee82240057065dc761c1ea692b2e719240e1
+  fiddle (1.1.8) sha256=7fa8ee3627271497f3add5503acdbc3f40b32f610fc1cf49634f083ef3f32eee
+  fontisan (0.2.22) sha256=de2805ba52348f7ee5d19ed2b23a84c6d6ece455d753182482d6198e35026d99
+  fontist (3.0.8) sha256=fc40263c72f3776c4d0b3e56a930c70639c261758c785f86b0577a2a7b09d726
+  fractor (0.1.10) sha256=a1b5d6de7265bbcb02d3e0606962e581c3456a04d51130976c80ea8c45b6820f
+  fuzzy_match (2.1.0) sha256=e97e25d0eaee48a5f77ed970d007c7b6ff3c6a6858303fead2d1986859204dfc
+  gb-agencies (0.0.7) sha256=6c363d9653fbb03a1e3ea2c3610439e986bee1d53af90ce18f26e8da0b742797
+  git (3.1.1) sha256=f057fe24046aa52016678b4c383dd092a711f16479018d16331d69846c667592
+  glossarist (2.8.17) sha256=581e40bc65e1e37a940f492ff917e6edd321401b3bde4c2193135cbef097bc41
+  graphql (2.6.3) sha256=31fe845b509fda27db38d09380f27ffc0de1c7ea2f9f3b12fa42bdde8317239b
+  graphql-client (0.26.0) sha256=190b122707e0aa4937089229799ed4a6980092ef4cb9d8dc6042d07a85459cf1
+  hollaback (0.1.1) sha256=5a0826d92a5785a345b713de611dbf08cdfdaaa2380cb36203393080a3cc94bc
+  html2doc (1.11.1) sha256=fff6d84e67104000b6cbc9e9602a3559ea299a4897c532773fffe3102c69ee63
+  htmlentities (4.3.4) sha256=125a73c6c9f2d1b62100b7c3c401e3624441b663762afa7fe428476435a673da
+  http-cookie (1.1.6) sha256=ba4b82be64de61dc281243dac70e3c382c45142f20268ed9276a3670c93feaa9
+  i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
+  ieee-idams (0.3.0) sha256=a63b76e44f128b5cd6042fdda9d535a83a9a8cbed435192d59b75e3cfd99cbdf
+  image_size (3.6.0) sha256=1b9c4196cb658bf503a887920543a3991e927a4b767a5c770fb9665bce0dcb28
+  io-console (0.8.2) sha256=d6e3ae7a7cc7574f4b8893b4fca2162e57a825b223a177b7afa236c5ef9814cc
+  iso-639 (0.3.8) sha256=48b8104a4b55367fda347609e36ef8eeb3a0b4d048b36365371c274958be7535
+  iso639 (1.3.3) sha256=ba9ec9df124b250dbc21b8d4dc74266a0d06fc58e25104916b1864b14b8f1eac
+  isodoc (3.6.6) sha256=82b5d8282e67830b416db50a4728bb069580d5e2c91232b6a9779f416841ccae
+  isodoc-i18n (1.5.3) sha256=39e16f8dc35ec130da3241b44bb13199e5b407bfd7c4874a0ee02482cd7d6e47
+  isoics (0.1.13) sha256=57d3a1e30817e03fe8e2442bf62ec5b17e101bae0eea2c0f507030fe834c7482
+  japanese_calendar (0.4.2) sha256=4357d4232215f498f905204d503d0cf4b88999e3be589e5e4e1168ca27e6c11d
+  json (2.20.0) sha256=9362bc6e55a952b056abf9167cf053358181c904cb70cd6eee0808ea830fc32b
+  json-schema (6.2.0) sha256=e8bff46ed845a22c1ab2bd0d7eccf831c01fe23bb3920caa4c74db4306813666
+  latex-decode (0.4.2) sha256=e85633406e315e348e0ca6de231dee1bf45a22496b0866059c635f7502c2a592
+  lightly (0.4.0) sha256=587c142b3eec854300e5500e424909243947b13dd800201803944c5803ed677e
+  link_header (0.0.8) sha256=15c65ce43b29f739b30d05e5f25c22c23797e89cf6f905dbb595fb4c70cb55f9
+  liquid (5.12.0) sha256=5a3c2c2430cd925d21c53e4ed9abea52cd0a9da53b541422f81dee79aca2a673
+  listen (3.10.0) sha256=c6e182db62143aeccc2e1960033bebe7445309c7272061979bb098d03760c9d2
+  loc_mods (0.3.0) sha256=b261f560891119815ce735b6ff0f54607d2e6b13721708a3f01789c2f46dc106
+  logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
+  lutaml (0.10.19) sha256=3649a4a8c146265b3258d8008fb278fc6a80b230b50c4afca0901d495cf42f58
+  lutaml-hal (0.2.4) sha256=3076607be6acbe3558d5bec3eeca75de13c2d4fabe16f44edd6441dce5a2e501
+  lutaml-model (0.8.16) sha256=9c3a112d7356e57b9c30b84b8cdf751aa23b1a068275e497ee6b9cd8fbfe11ab
+  lutaml-path (0.1.0) sha256=3db3a8aae7b814783908ec50dce1071fe2ecb7a05d31e2ad7ffca331900ffecc
+  lutaml-store (0.2.2) sha256=07340b936950eb7efdc4656cae53ace9b5e6530d575cf7a9e43d0258648505ff
+  lutaml-xsd (1.1.9) sha256=8e9a41682bedea472721ac9afbd92cc67afbc87083781699e606368cba496a10
+  marcel (1.0.4) sha256=0d5649feb64b8f19f3d3468b96c680bae9746335d02194270287868a661516a4
+  matrix (0.4.3) sha256=a0d5ab7ddcc1973ff690ab361b67f359acbb16958d1dc072b8b956a286564c5b
+  mechanize (2.14.0) sha256=33e76b7639d0181a46eaf1136b05f0e9043dfc5fc4b1a7b9fd8ae8bd437dd5e4
+  memo_wise (1.13.0) sha256=30220c38c4cef410849bc73553c58664dc2c91c6379e4a1df22aea02358b716b
+  metanorma (2.4.3) sha256=e8ae319989c9cef8c7c5a796cd4805e7d89891b6d7cfdf4c99b7b48a008ecf3c
+  metanorma-bipm (2.8.9) sha256=ba6bfe1132e156f2d28501ec92efec164cc864e3baeea8a2123fdad8d4a0f30e
+  metanorma-cc (2.8.8) sha256=df845d913cdd999fff44fefd0a51b07b5285185a3e652846764b85ff5e7faf13
+  metanorma-cli (1.16.5) sha256=4d462c7f2967098c10b83ff1202955028c9e5676eed75fb473e5c6dbecdcd7ec
+  metanorma-core (0.2.1) sha256=646b5be754f54ba9dea2bf0e7c6ca87407a5015672386aba3bf958805cb641a0
+  metanorma-generic (3.4.0) sha256=eeb488efcf7aac0a6de8f0505830b6bc720cbc74737e998821a22bde59d32266
+  metanorma-iec (2.8.9) sha256=d60e061af9966c9849f323b51257cc5a269cce22f0f03082d2eb4f03030cb0ca
+  metanorma-ieee (1.6.13) sha256=91dac39947e50af56dfb8e4be0419fb419f4cf0b144a3366c5d09c70975e788c
+  metanorma-ietf (3.7.5) sha256=93700f2ce87e1863b1d25892a45ecb354ca2a25ab009f4ddd15a6187e6ddcc89
+  metanorma-ietf-data (0.2.0) sha256=3bae28b99b24212cc8b92dc3def3559dbeaf8868b319da8c21d42bda3f09bbf7
+  metanorma-iho (1.3.8) sha256=0481d77683b88f1a10744af1678e62bb9034198d82d08db62dffddf9408d9b4d
+  metanorma-iso (3.4.6) sha256=353e5881b10b3d11d3d70b4346868f6bd009ed5e1fc2f08adf53616237b20f8f
+  metanorma-itu (2.8.11) sha256=11ddc67b914d4e33f79679078c845cff2f5b2dc78363854c44f56cc4dd03d399
+  metanorma-jis (1.1.3) sha256=3f673af79fad2f01af6f9c1aa1a39b1eed9c64e17f223c092da63c9e0aeeb817
+  metanorma-ogc (2.9.8) sha256=8ff16155e81b2d70fa7d72fd7f0ad7641403d98660e1c00c19bdee321fcebbf2
+  metanorma-plateau (1.2.12) sha256=111c89b72386cda831bf090f6bea6c785610bc0a28a53610547ab132e14ada6a
+  metanorma-plugin-glossarist (0.3.10) sha256=d879d28c73953887c2d43b3c2416ed2e62fe6f883a8cb9f9e6e6c1cd1da894fd
+  metanorma-plugin-lutaml (0.7.49) sha256=fdc0059b67db27a428ba897c16e38dcc00861ba8bc1e754a42180fd4df208988
+  metanorma-plugin-plantuml (1.0.15) sha256=59c2a57f1709051d9430baf9595d7855ea45b72626632ee98e6f4b363e3a4172
+  metanorma-ribose (2.8.8) sha256=bf5f394fdc47d0464c3aec202872c5d03baa2b323519826ffc74530260f3eacd
+  metanorma-standoc (3.4.7) sha256=41c26b0878e67c3dc35b62ce5bb1fe719b5b90c7361d51f9a282260c087575c7
+  metanorma-taste (1.0.9) sha256=0ba2722ddeb0d2449d3a8369462fec75e613591afb955efc7a48af490fac4a68
+  metanorma-utils (2.0.7) sha256=35075056c30a803ea428bb2649c8418598ade7e70c393a8ac9b83fc944ffd878
+  mime-types (3.7.0) sha256=dcebf61c246f08e15a4de34e386ebe8233791e868564a470c3fe77c00eed5e56
+  mime-types-data (3.2026.0414) sha256=461c4c655373a44bd6c5fe54bcf5b7776026ea96e808144b1ec465c4b99148cc
+  mini_portile2 (2.8.9) sha256=0cd7c7f824e010c072e33f68bc02d85a00aeb6fce05bb4819c03dfd3c140c289
+  minitest (6.0.6) sha256=153ea36d1d987a62942382b61075745042a2b3123b1cd48f4c3675af9cc7d6f1
+  mml (2.3.7) sha256=2c004bdc56805b943bb5c6a66deb94dc7a0ed59ea2ad5e43c2946800861fd1eb
+  mn-requirements (0.5.11) sha256=1ca6330698b734e1c3a44cb093bb997c3eeb2900231f1a724ebd761dbc8fb350
+  mn2pdf (2.59) sha256=c5d22cad729f7b6662e852ab8dd70ea5d1c4a3b2cdaf68034750b3afdcef09b9
+  mnconvert (1.86.0) sha256=07e4c5818d813ce42d5df436c3c9e4a837b6c4862d10194003fc50b35d50f373
+  moxml (0.1.25) sha256=9cec15d56fc0e82d21f5a612cbd29d4e9812fbf2823f68de0b474548d6567afc
+  multi_json (1.15.0) sha256=1fd04138b6e4a90017e8d1b804c039031399866ff3fbabb7822aea367c78615d
+  mustermann (3.1.1) sha256=4c6170c7234d5499c345562ba7c7dfe73e1754286dcc1abb053064d66a127198
+  net-ftp (0.1.4) sha256=454735259262cf5d27dfbdf2a040921bc3070574bb9244b27e503ae749073182
+  net-http-digest_auth (1.4.1) sha256=4b8ad50ed8d180a58db5d6c49449b987dd0466fe01e24037945bc007562a08db
+  net-http-persistent (4.0.8) sha256=ef3de8319d691537b329053fae3a33195f8b070bbbfae8bf1a58c796081960e6
+  net-protocol (0.2.2) sha256=aa73e0cba6a125369de9837b8d8ef82a61849360eba0521900e2c3713aa162a8
+  nio4r (2.7.5) sha256=6c90168e48fb5f8e768419c93abb94ba2b892a1d0602cb06eef16d8b7df1dca1
+  nkf (0.3.0) sha256=357a8dbeba38b727b75930f665146546076a394a1c243faf634ff176e3588895
+  nokogiri (1.19.4-aarch64-linux-gnu) sha256=1269fb644a6de405057a53dd5c762b1209b43ca7424f839454d3dbc677c31a8f
+  nokogiri (1.19.4-aarch64-linux-musl) sha256=35c65b9ce72b3bb03207bdbe7067915019dc18c1b9b59139684bd6690fdd01af
+  nokogiri (1.19.4-arm64-darwin) sha256=a46db9853286e6597b36ebc6953817d15acf3a299583eb3f89fdc6f91dd63527
+  nokogiri (1.19.4-x86_64-darwin) sha256=7fd17057d3e1f00e9954a74b3cd76595d3d4a5ef233b7ed9599047c204f70551
+  nokogiri (1.19.4-x86_64-linux-gnu) sha256=379fae440b28915e3f19d752ce2dcf8465ed2b2fbefd2a7ca0dd497bc981a06a
+  nokogiri (1.19.4-x86_64-linux-musl) sha256=17dfb7c1fa194ae02fbf7c51a7afc8d278045ab3fdacfd86f91d02d7b274470b
+  nokogiri-styles (0.1.2) sha256=b2d32391d8db15c5b0ec681f13904c9448f627355c5b3725e460ca9d53a380c9
+  octokit (4.25.1) sha256=c02092ee82dcdfe84db0e0ea630a70d32becc54245a4f0bacfd21c010df09b96
+  oga (3.5) sha256=2b65fe1dd192c01079f93748a04a7a8011369e4c99ea1c7e73f4a037e3229353
+  ogc-gml (1.1.0) sha256=68ddf5a24382ce635d19d9c5bb2ee4a9c86c7db6a9b57ff7939d9e6b156721fa
+  omml (0.2.1) sha256=2db79af8acba229bd3c77ad787a4e92571c46f432fad0f48ea810e665f35d75d
+  omnizip (0.3.9) sha256=bf46605a4fc69b43343980f2b676212079a64c212b94eff6323989fdf763c7e6
+  optout (0.0.2) sha256=7846380279d8381add42f3c0c2a288c5aff02877dcc8940ee8c0265f3edb435d
+  oscal (0.1.1) sha256=c8381f91227eae3709be73f13eea2c36e0c37f9aaba68a0a53fdfbabdda862a6
+  ostruct (0.6.3) sha256=95a2ed4a4bd1d190784e666b47b2d3f078e4a9efda2fccf18f84ddc6538ed912
+  ox (2.14.27) sha256=5e84f06124ee82e8178dfa4dd7fa2c10ec01d45c1be466ee7d1e4ec98d3b9b9c
+  paint (2.3.0) sha256=327d623e4038619d5bd99ae5db07973859cd78400c7f0329eea283cef8e83be5
+  parallel (1.28.0) sha256=33e6de1484baf2524792d178b0913fc8eb94c628d6cfe45599ad4458c638c970
+  parsanol (1.3.11-aarch64-linux) sha256=f1044d0048a069b193313ec32f9c3b682ae21edfcea5c7ebfb4e7aafc3a01c54
+  parsanol (1.3.11-aarch64-linux-musl) sha256=b03d3d7cc1c8b0d10320f42e46964c0d014c33abe6c19275f77279b6883a0eeb
+  parsanol (1.3.11-arm64-darwin) sha256=1596d3521e4ac541bcfb4682a2d4c64bfa1e130bf6d1bc08af3c01144f838e25
+  parsanol (1.3.11-x86_64-darwin) sha256=105b17d4f351a955333ce314db19f4196f611f26911d0e83dbb9b4676c6d9f1d
+  parsanol (1.3.11-x86_64-linux) sha256=07de892f8b50673c3faa12f67d96d68f9635eb9508faa977f21cf4aa522deee2
+  parsanol (1.3.11-x86_64-linux-musl) sha256=cce919d12fcd6def88711aea5cefa3aa506adf592d45b652124e634148e942a2
+  parslet (2.0.0) sha256=d45130695d39b43d7e6a91f4d2ec66b388a8d822bae38de9b4de9a5fbde1f606
+  pastel (0.8.0) sha256=481da9fb7d2f6e6b1a08faf11fa10363172dc40fd47848f096ae21209f805a75
+  plane1converter (0.0.1) sha256=86c5dd19ba46c013c0e1780499657702a21d75e05611275714db2dc3773703a9
+  plist (3.7.2) sha256=d37a4527cc1116064393df4b40e1dbbc94c65fa9ca2eec52edf9a13616718a42
+  plurimath (0.10.7) sha256=adf5e581dc7c360ea98ed5ab057788389a884054780bcb57849b44e7bfe6add0
+  png_conform (0.1.4) sha256=cff7cff873bfbf45bb494cd93d9d76f8c8fcd0c32e8db2b770ac9b9ec519eea8
+  premailer (1.29.0) sha256=015f30c520701f3d47fd898886a3eaf4e5171efcc5fd239b872efd1ba61d3da0
+  prism (1.9.0) sha256=7b530c6a9f92c24300014919c9dcbc055bf4cdf51ec30aed099b06cd6674ef85
+  process_executer (1.3.0) sha256=3b01a22d27e13204598d8f73118b5b1c3b59576969724a380b712a72edd5546f
+  psych (5.2.6) sha256=814328aa5dcb6d604d32126a20bc1cbcf05521a5b49dbb1a8b30a07e580f316e
+  pubid (1.15.20) sha256=84a5c23fd886e559ad5c1057b9985d8678b272132a4836c87a1a4ae4e983b909
+  pubid-bsi (1.15.20) sha256=c4a9241fb9e53b7520a543bd9881b05515e63bca6d6f70728aaec56b717d0ceb
+  pubid-ccsds (1.15.20) sha256=e63228784fbc46f5f5813ecff905cce208c4e8069bbbe000f7c0d52c7b6964cc
+  pubid-cen (1.15.20) sha256=0699ac717c15420ff857a5dbfb51bd8c82a50a71782a90383a3da78ccaa947eb
+  pubid-core (1.15.20) sha256=3290c2cabf04ebd60db7747ccc423b55299787a596a98e5dc72235f503881555
+  pubid-etsi (1.15.20) sha256=883a3a3153faa7ad816ee799c4bc249880852ec89c1920d38583bb06b68ae513
+  pubid-iec (1.15.20) sha256=1348063a0db22d32db2a398c4f529b8fa536498ed829608cc8941e0bb5b48243
+  pubid-ieee (1.15.20) sha256=7e4aa342b509629392e87022356321a6d57005af55f730e6ee9694e70d079d85
+  pubid-iho (1.15.20) sha256=fae572c59f5f3ea7f1752051f8cb9400f62e56a5681c83a24cd2efd97cb1aa6c
+  pubid-iso (1.15.20) sha256=a091fe70950d076d708042228ef3b78f6ad9613fa34e1238c049c3f285c6dc16
+  pubid-itu (1.15.20) sha256=e71dfbd34de13720eace66b15653726c09a87e479f74023b211321b8f1e084ed
+  pubid-jis (1.15.20) sha256=e16bbeab99bcb9c4388ea2e567a67d430ff38c63adfa8d2e2596e42d4cd5c13d
+  pubid-nist (1.15.20) sha256=042f2adc107f1e82183cd0b3a5fb19b2a706b694f7bc1cb65c884a6e4030bd7f
+  pubid-plateau (1.15.20) sha256=c3e04f9317aaa3f4e048b6ae704e03716bdd31ebe88f4722fb18d80459253f27
+  public_suffix (7.0.5) sha256=1a8bb08f1bbea19228d3bed6e5ed908d1cb4f7c2726d18bd9cadf60bc676f623
+  puma (8.0.2) sha256=c8ed871dfbbe66448ea9ffd46692342d9804d4071522b52b5331b7b6e7b686fb
+  racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
+  rack (3.2.6) sha256=5ed78e1f73b2e25679bec7d45ee2d4483cc4146eb1be0264fc4d94cb5ef212c2
+  rack-protection (4.2.1) sha256=cf6e2842df8c55f5e4d1a4be015e603e19e9bc3a7178bae58949ccbb58558bac
+  rack-session (2.1.2) sha256=595434f8c0c3473ae7d7ac56ecda6cc6dfd9d37c0b2b5255330aa1576967ffe8
+  rackup (2.3.1) sha256=6c79c26753778e90983761d677a48937ee3192b3ffef6bc963c0950f94688868
+  rainbow (3.1.1) sha256=039491aa3a89f42efa1d6dec2fc4e62ede96eb6acd95e52f1ad581182b79bc6a
+  rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
+  rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
+  rchardet (1.10.2) sha256=e041cb195f464dc10e49ab130f78c8b5956cd9a4f4f6df84e0c183b87c135f33
+  rdf (3.3.1) sha256=dda6a2c95198915fc63d66ee270e35d4a76d431720747a2cf97ecd92062fa150
+  rdf-turtle (3.3.0) sha256=10320428670be3510364195e68e365b888c458c4a462cfc8c28cdffccc64f699
+  readline (0.0.4) sha256=6138eef17be2b98298b672c3ea63bf9cb5158d401324f26e1e84f235879c1d6a
+  relaton (2.1.0) sha256=8cff80b10302656a9f808e41e6a34ce86ffc93c44acf7d6d033c1f58e870dd93
+  relaton-3gpp (2.1.4) sha256=c8b5f55a9656f74fefee501f6898c67e67303f463a366e902543c0342f6f743b
+  relaton-bib (2.1.5) sha256=6966742b1eea8793e2f0260de721be12827416bfeaf90024ebc22db9309b7950
+  relaton-bipm (2.1.2) sha256=a73a0167d6555cfea0b95aac414b265b3ddcab227d41340e3ce785a3cdd218ff
+  relaton-bsi (2.1.0) sha256=6e830466f4adf50aec39fb6355c3608723cf61d12d22e360ddf5bd9b3f49ae09
+  relaton-calconnect (2.1.2) sha256=f9f2b960cbb5471df19dfde38f2ed7c2d8357fe641c9041524e3ab7d860e7e0b
+  relaton-ccsds (2.1.2) sha256=7e7622e630523c4b5490193177f9869233f6d0b735fb3df9492cfddb2ca01cff
+  relaton-cen (2.1.0) sha256=39b49f91c0b0d20134dc8c3227fa0bf44fe5fec8b7c85d06fee134f7cdc89281
+  relaton-cie (2.1.2) sha256=d092bb341a35a86b8b8fd3779d042f613f7fe53358a0c6fac300249da4424907
+  relaton-cli (2.1.2) sha256=aa6c5ce642e1437a4cf06d7b3882b6d4a464a7cb10ca174f612d7619f37e27e5
+  relaton-core (0.0.13) sha256=10eef0d4bdff18a9058114ca46323508972b8caed872212992c4f9ced7375881
+  relaton-doi (2.1.2) sha256=b88212b568a2e7aaca159ca1aa15508d03d3674ee237bd4f0819d84999cda652
+  relaton-ecma (2.1.1) sha256=5a0e96a046826e7fbd07e16c4fbe366875e66302746fe00c585d8d818dfbd765
+  relaton-etsi (2.1.1) sha256=80343d5261540daa1e9bfc01d009a85ab61598cc5b27de629fa15695ad6f873e
+  relaton-gb (2.1.0) sha256=f56b5bc946b4f4fdb31fd09e383610a3734d23492715fe06cecf5438615e0b24
+  relaton-iana (2.1.1) sha256=067d82909ded362e0b45368c31cd7cee17a599057eea726245fd7fed060a685d
+  relaton-iec (2.1.1) sha256=632763825752bdec9eeed6b3cfa1ac46d4b55772cf45565eb694a811924ef307
+  relaton-ieee (2.1.2) sha256=89875d0d9e0854c90301b59f2df80f7efbec3c1eeb6358d4bdd2784075eb37d4
+  relaton-ietf (2.1.2) sha256=54cd53611b5250d79c629cb1a64e16403438455b0484dbd7fe2d3092771555ed
+  relaton-iev (2.0.1) sha256=00a933f2c88d0103c1c41f487b3c5b158a38772578a6bedeb454d4b55042f754
+  relaton-iho (2.1.1) sha256=49cd7cc2f0fe6f77fb8ce3e87a3a982d67d6aec077b9caf98fc4f3da343cf4d4
+  relaton-index (0.2.22) sha256=21d0e56f2e9eb4204a2034e413033ff0e16f6a72db21c5040fb500a768506dd9
+  relaton-isbn (2.1.0) sha256=641a84f081b3b4a73f040c83b48d207004fdfd5b1caadfac6582715536eb930c
+  relaton-iso (2.1.5) sha256=03b0a1c178304a42b429c8a1134a45ac094c50cff8ea7dcb36885b9b8dc2595d
+  relaton-itu (2.1.1) sha256=d3b3e2514a2f14dfe8a31b5821eaa7b104acb37184b51733be6426d2bfda2a26
+  relaton-jis (2.1.1) sha256=65ad04b76afb20846f3157fb44cfeb632310908840ff2288719b8adb0ef30e93
+  relaton-logger (0.2.4) sha256=1494cc7330e6d654afcb825904361371010b1d83d13705314a10a147f7f53358
+  relaton-nist (2.1.1) sha256=1420129e5bea4441b979ba743bfe5cc38aa442ca6af982407c660739335bc384
+  relaton-oasis (2.1.2) sha256=a9baa56f6b6fb06069b2f169990895548d1332a349293c45fda1d333041444db
+  relaton-ogc (2.1.1) sha256=b91f70404e108c2c7968dd523445336518eb416359fd61fcdf2e739a9827e5f0
+  relaton-omg (2.1.0) sha256=796143a81394b6e9e52054fd56b00558c808fcc8dbc78cfc7cf2a8d2f0985589
+  relaton-plateau (2.1.1) sha256=29cd98fb5296b6123a9e5f0d6477c3848935a1db92c3ed0f974c53ccc1e5bc61
+  relaton-render (1.3.0) sha256=e4fef5c3cb7ea3b839bb4de529bbabf7b1dbed9e1a95d8fa3aa08cdc4e38ec96
+  relaton-un (2.1.1) sha256=4e0a818d00e5d734b5b52a40e0e82f25870ce9ed27d6ea959cd3ef6318d0e865
+  relaton-w3c (2.1.4) sha256=02dd71fb3126aa455edefec3aa84e21957f108c3ddae2eb986d0afff290a96a9
+  relaton-xsf (2.1.1) sha256=fac02ec91f3557060781fcfdc2b5630c73285bab8c605bc9dcf50ba796271ebd
+  reline (0.6.3) sha256=1198b04973565b36ec0f11542ab3f5cfeeec34823f4e54cebde90968092b1835
+  reverse_markdown (2.1.1) sha256=b2206466b682ac1177b6b8ec321d00a84fca02d096c5d676a7a0cc5838dc0701
+  rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
+  rfcxml (0.4.4) sha256=c338de6822d167d3ed8c71663e33feecc36844875436257eb7174bf2e9d32cb8
+  rng (0.3.7) sha256=0b68471d3e4c59c375db02d1985977cf3ca4862e230dfbcf1d7c88949f0fa075
+  roman-numerals (0.3.0) sha256=76f3d7c4b4da10e2352764d3b7d0da27af60eff1fd4c0b02d2415db82908ca24
+  rouge (4.7.0) sha256=dba5896715c0325c362e895460a6d350803dbf6427454f49a47500f3193ea739
+  ruby-graphviz (1.2.5) sha256=1c2bb44e3f6da9e2b829f5e7fd8d75a521485fb6b4d1fc66ff0f93f906121504
+  ruby-jing (0.0.3) sha256=c7fc7cd8d8ed2335b1516c85e728138d5940e7df9b6b5b9f609146ead9bdd0b3
+  ruby-ll (2.2.0) sha256=f8811ae1dfc77d6d95033a615aacb6ab8e93fb9f421fefe75107b077dc9ab588
+  ruby-progressbar (1.13.0) sha256=80fc9c47a9b640d6834e0dc7b3c94c9df37f08cb072b7761e4a71e22cff29b33
+  ruby2_keywords (0.0.5) sha256=ffd13740c573b7301cf7a2e61fc857b2a8e3d3aff32545d6f8300d8bae10e3ef
+  rubyntlm (0.6.5) sha256=47013402b99ae29ee93f930af51edaec8c6008556f4be25705a422b4430314f5
+  rubyzip (2.3.2) sha256=3f57e3935dc2255c414484fbf8d673b4909d8a6a57007ed754dde39342d2373f
+  sawyer (0.9.3) sha256=0d0f19298408047037638639fe62f4794483fb04320269169bd41af2bdcf5e41
+  scanf (1.0.0) sha256=533db7f7e5acafea1a145d6c5329cef667a58fbcb7d64379a808ff1199ee1b00
+  securerandom (0.4.1) sha256=cc5193d414a4341b6e225f0cb4446aceca8e50d5e1888743fac16987638ea0b1
+  sinatra (4.2.1) sha256=b7aeb9b11d046b552972ade834f1f9be98b185fa8444480688e3627625377080
+  singleton (0.3.0) sha256=83ea1bca5f4aa34d00305ab842a7862ea5a8a11c73d362cb52379d94e9615778
+  socksify (1.8.1) sha256=cf2a01720cc32490cc657b3233730620a03b92e98281726872ebebedfea9a856
+  sqlite3 (2.9.5-aarch64-linux-gnu) sha256=78075b6337d3d182c6d2b4691049ed45cd220826160c9ea18946bf6a1de200dc
+  sqlite3 (2.9.5-aarch64-linux-musl) sha256=18c801185deb4adc01ddb281e8f672a39e3d1729979ca91e39439cd3eac0402d
+  sqlite3 (2.9.5-arm64-darwin) sha256=d0cf444a70fc9395d513cfbcc1e6719e224aa645314e3824cb0474c721425aa2
+  sqlite3 (2.9.5-x86_64-darwin) sha256=8e9caae38bd7ebb29cbeee3e7ab1d12dc2327d9a1b92c7fcf0dda05589627a81
+  sqlite3 (2.9.5-x86_64-linux-gnu) sha256=233dbcb6714148dd23bc5aeb33e8efd6eac974969564ddd5794c23d5f52b231e
+  sqlite3 (2.9.5-x86_64-linux-musl) sha256=e7d3a7474e8af0f96150c21abc203fbab5437206bfcdf11deab7741c0ca516f2
+  ssrf_filter (1.5.0) sha256=e03dcdb9d1730d7f6710532a606b3543df2a448a0293ce04a2d995523c5a97f6
+  sterile (1.0.26) sha256=2fb472c9fe30b29531bbda315ca72b584d9b7ceb2213fffb44ba4bfea7cd9191
+  stringio (3.2.0) sha256=c37cb2e58b4ffbd33fe5cd948c05934af997b36e0b6ca6fdf43afa234cf222e1
+  strscan (3.1.8) sha256=aae2db611a225559f21ffbb71765c9a4e60fd262534a9ea84f4f11c7f32f679e
+  sts (0.5.6) sha256=70f83752d18b9ab862a23dd57ac2416cf79bd220be94c90d5dfbeceee62060ee
+  suma (0.2.6) sha256=4e4ef72da8aadcb843320ac5e91794f18ba56537566ea5e9f804ca2961039945
+  svg_conform (0.1.12) sha256=3f0a86291e964d65406ac82a8dc35c45b70f5da1a3f6bb3efd3f9cff0d301c33
+  sxp (2.0.0) sha256=79971bbab54a82fe4a861332475eb8c1f33142d70f2b7e830dacbd9082824721
+  sys-proctable (1.3.0) sha256=31f61ad79aa0d4412155132beadf2b7ca706a6badce4ad2dfeda5d1ca4916e54
+  table_tennis (0.0.7) sha256=b45b50dc7714e3bea5b31d2ad2b7d6bdc2995fc7a686976017c17424e1094a28
+  tbx (0.1.2) sha256=9a5702410040af3604aa6b991c047eac485281648d9e9871ce708dc1de205fcb
+  thor (1.5.0) sha256=e3a9e55fe857e44859ce104a84675ab6e8cd59c650a49106a05f55f136425e73
+  thor-hollaback (0.2.1) sha256=6f385d10a3e7ade35548fec134ef5be2ef04e09ccebf5e279f89f7de72d29e3b
+  thread_safe (0.3.6) sha256=9ed7072821b51c57e8d6b7011a8e282e25aeea3a4065eab326e43f66f063b05a
+  tilt (2.7.0) sha256=0d5b9ba69f6a36490c64b0eee9f6e9aad517e20dcc848800a06eb116f08c6ab3
+  time (0.4.2) sha256=f324e498c3bde9471d45a7d18f874c27980e9867aa5cfca61bebf52262bc3dab
+  timeout (0.6.1) sha256=78f57368a7e7bbadec56971f78a3f5ecbcfb59b7fcbb0a3ed6ddc08a5094accb
+  tokenizer (0.3.0) sha256=f3fea578e7a2f9a9ae22de432ea1254e22ed1fc2e58e0ee670a0273582f51520
+  tty-color (0.6.0) sha256=6f9c37ca3a4e2367fb2e6d09722762647d6f455c111f05b59f35730eeb24332a
+  tty-cursor (0.7.1) sha256=79534185e6a777888d88628b14b6a1fdf5154a603f285f80b1753e1908e0bf48
+  tty-prompt (0.23.1) sha256=fcdbce905238993f27eecfdf67597a636bc839d92192f6a0eef22b8166449ec8
+  tty-reader (0.9.0) sha256=c62972c985c0b1566f0e56743b6a7882f979d3dc32ff491ed490a076f899c2b1
+  tty-screen (0.8.2) sha256=c090652115beae764336c28802d633f204fb84da93c6a968aa5d8e319e819b50
+  twitter_cldr (6.14.0) sha256=5d18c23097008bcda542a260535766fdfc49d982d5eedf2486d19f368aa8c7a4
+  tzinfo (2.0.6) sha256=8daf828cc77bcf7d63b0e3bdb6caa47e2272dcfaf4fbfe46f8c3a9df087a829b
+  tzinfo-data (1.2026.2) sha256=7db0d3d3d53b8d7601fc183fccc8c6d056a3004e14eb59ea995bf6aec4ae10bc
+  ukiryu (0.3.0) sha256=19aeeb77469bc621d54fb07e2362cf48599a836e63a0e04954ca02abb004f59e
+  unibuf (0.1.2) sha256=2453cb9ff97b4a80ebb6ed4fec88669da847decf23f4f2b2d2490dcb270fc061
+  unicode-display_width (3.2.0) sha256=0cdd96b5681a5949cdbc2c55e7b420facae74c4aaf9a9815eee1087cb1853c42
+  unicode-emoji (4.2.0) sha256=519e69150f75652e40bf736106cfbc8f0f73aa3fb6a65afe62fefa7f80b0f80f
+  unicode-name (1.14.0) sha256=b350dcdeb503748c8ad05c472e8078570fbf3231a73be53431c15db10bbedbdd
+  unicode-types (1.11.0) sha256=81d1201273260fa89b85471e7eebb93a51bb4e5f078a525508dcae7835d176f9
+  unitsdb (2.2.2) sha256=c21bd89e9d79ab9d5231993962e5c74f6b00db7b0997c9e01b0f6a89ff73c4c0
+  unitsml (0.6.5) sha256=79b41f6c8f561182970289bec277b3c4f2fb7011310cede6c2fb4c61283a3cd5
+  uri (1.1.1) sha256=379fa58d27ffb1387eaada68c749d1426738bd0f654d812fcc07e7568f5c57c6
+  uuidtools (3.0.0) sha256=47a3d4d20e728f522c675be8bc4e001252db39864c97deb194dc543b153a4be8
+  vectory (0.10.0) sha256=8875e2a7e840787d2b9a5596a1bce977d203d63d9a2bf1fc9023dc330679c4be
+  versionian (0.1.0) sha256=da3cdeeed25841b94c17827a71feda37b0ceb902353e5e2928a89499b150c0d8
+  w3c_api (0.3.2) sha256=fc0def5dcbe90eecdc3774e0a56c714d19169c74815fa92ce1a428a7ea6da165
+  webrick (1.9.2) sha256=beb4a15fc474defed24a3bda4ffd88a490d517c9e4e6118c3edce59e45864131
+  webrobots (0.1.2) sha256=ebbcaa2cb4930fa1b83206f432c5cb64746507b2dcf50ea1301569a4d662cda6
+  websocket-driver (0.8.2) sha256=97c556b019bf3410b4961002ac501621e9322d3f8a7bc02161a09301cc4c4146
+  websocket-extensions (0.1.5) sha256=1c6ba63092cda343eb53fc657110c71c754c56484aad42578495227d717a8241
+  wisper (2.0.1) sha256=ce17bc5c3a166f241a2e6613848b025c8146fce2defba505920c1d1f3f88fae6
+  word-to-markdown (1.1.9) sha256=8a379dbd725a47705d56925046fedae3f179fc4803c391faedb2c8174dc13aee
+  xmi (0.5.10) sha256=448e5a43a8b767916f6e8ff9dfc1923d2cf6f835bd0d634f325d656d28033721
+  xsdvi (1.0.2) sha256=edf56a78f0fa25e4a5791d235ea8740cfb620eafa4abb79442b30160cf7292fc
+  yaml (0.4.0) sha256=240e69d1e6ce3584d6085978719a0faa6218ae426e034d8f9b02fb54d3471942
+
+BUNDLED WITH
+  4.0.12
