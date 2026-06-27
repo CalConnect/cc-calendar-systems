@@ -81,7 +81,7 @@ registration item identified by a registration code unique to the
 
 == ISO 34300 registration authority
 
-include::a1-1-content.adoc[leveloffset=-1]
+include::sections/a1-1-content.adoc[leveloffset=-1]
 
 
 [bibliography]
