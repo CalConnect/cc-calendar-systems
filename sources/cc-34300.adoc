@@ -24,6 +24,12 @@
 
 include::sections-cc/00-foreword.adoc[]
 
+[abstract]
+== Abstract
+
+This document provides a list of codes to represent calendar systems, metadata to support the usage of those codes, and the corresponding maintenance procedures. The codes were devised for usage in any application requiring the expression of calendar systems in coded form, including for data interchange.
+
+
 include::sections/00-intro.adoc[]
 
 include::sections/01-scope.adoc[]
